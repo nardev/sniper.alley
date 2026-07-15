@@ -1,107 +1,160 @@
-# HydePHP - Elegant and Powerful Static Site Generator
+# sniperalley.photo
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/hyde/framework?include_prereleases)](https://packagist.org/packages/hyde/framework)
-[![Total Downloads on Packagist](https://img.shields.io/packagist/dt/hyde/framework)](https://packagist.org/packages/hyde/framework)
-[![License MIT](https://img.shields.io/github/license/hydephp/hyde)](https://github.com/hydephp/hyde/blob/master/LICENSE.md)
-[![Test Coverage](https://codecov.io/gh/hydephp/develop/branch/master/graph/badge.svg?token=G6N2161TOT)](https://codecov.io/gh/hydephp/develop)
-[![Test Suite](https://github.com/hydephp/develop/actions/workflows/continuous-integration.yml/badge.svg)](https://github.com/hydephp/develop/actions/workflows/continuous-integration.yml)
+Static site for the Sniper Alley Photo Archive: photographs, photographers, and stories from Sarajevo under siege, 1992-1996.
 
+Built with [HydePHP](https://hydephp.com). All content is plain Markdown files with a small frontmatter block, designed for manual editing. The site deploys to GitHub Pages automatically on every push to `main`.
 
-## Make static websites, blogs, and documentation pages with the tools you already know and love.
+## Requirements
 
-### About HydePHP
+- PHP 8.1 or newer
+- Composer
+- Node.js 18 or newer (only needed when you change CSS or JavaScript)
 
-HydePHP is a content-first Laravel-powered console application that allows you to create static HTML pages, blog posts, and documentation sites,
-using your choice of Markdown and/or Blade.
-
-Build sites in record-time with a full batteries-included TailwindCSS frontend that just works without any fuzz.
-
-### Speed & simplicity first, full control when you need it.
-
-Hyde is all about letting you get started quickly by giving you a full-featured frontend starter kit, while also giving you the power and freedom of doing things the way you want to.
-
-Markdown purist? That's all you need. Blade artisan? Go for it.
-Hyde comes with hand-crafted frontend templates, so you can focus on your content.
-You don't _need_ to customize anything. But you _can_ customize everything.
-
-See the documentation and learn more at https://hydephp.com/docs
-
-
-## Features
-
-### Content Creation
-
-- Create blog posts using Markdown and Front Matter.
-- Create documentation pages from plain Markdown, no front matter needed!
-- Create simple pages using Markdown, or create advanced ones using Laravel Blade.
-- You can scaffold blog posts and Markdown pages to automatically fill in the front matter.
-- You can also scaffold Blade pages to automatically use the default layout.
-
-### Built-in Frontend
-
-- Hyde comes with a TailwindCSS starter kit, so you can start making content right away.
-- The starter kit is fully responsive, has a dark mode theme, and is customizable.
-- The frontend is accessible to screen-readers and rich with semantic HTML and microdata.
-- Hyde automatically chooses the right layout to use depending on the content being rendered.
-- Hyde also fills in and creates content like navigation menus and sidebars automatically.
-
-### Easy Asset Managing
-
-- The Hyde starter comes with [HydeFront](https://github.com/hydephp/hydefront) to serve the base stylesheet and JavaScript through the jsDelivr CDN.
-- Hyde ships with precompiled and minified TailwindCSS styles in the app.css file, you can also load them through the CDN.
-- This means that all the styles you need are already installed. However, if you want to customize the included Tailwind config, or if you add new Tailwind classes through Blade files, you can simply run the `npm run build` command to recompile the styles using the pre-configured Tailwind and Vite setup.
-
-### Customization
-
-- You don't need to configure anything as Hyde is shipped with sensible defaults.
-- You can, however, customize nearly everything. Here are just a few out of many examples:
-- All frontend components and page layouts are created with Blade, so you
-  can publish the vendor views, just like in Laravel.
-- Override many of the dynamic content features like the menus and footer.
-
-
-## Getting Started - High-level overview
-
-> See [Installation Guide](https://hydephp.com/docs/2.x/installation) and [Getting Started](https://hydephp.com/docs/2.x/getting-started) for the full details.
-
-It's a breeze to get started with Hyde. Create a new Hyde project using Composer:
+## Build and preview locally
 
 ```bash
-composer create-project hyde/hyde
+composer install          # once, installs PHP dependencies
+npm install               # once, installs asset tooling
+
+php hyde build            # builds the whole site into _site/
+php hyde serve            # live preview on http://localhost:8080
 ```
 
-Next, place your Markdown files in one of the content directories:  `_posts`, `_docs`, and `_pages` which also accepts Blade files. You can also use the `hyde:make` commands to scaffold them.
-
-When you're ready, run the build command to compile your static site which will save your HTML files in the `_site` directory.
+If you change anything in `resources/assets/` (CSS or JavaScript), rebuild the assets first:
 
 ```bash
-php hyde build
+npm run build             # compiles resources/assets into _media/app.css and app.js
 ```
 
+Content changes (Markdown files, images) only need `php hyde build`.
 
-## Resources
+## Where content lives
 
-### Changelog
+| What | Files | Shown at |
+|---|---|---|
+| Photographers | `content/photographers/<slug>.md` | /photographers |
+| Stories Behind Photo | `content/stories/<slug>.md` | /stories-behind-photo |
+| In Memoriam | `content/memoriam/<slug>.md` | /in-memoriam |
+| Latest (news feed) | `_posts/<slug>.md` | /latest |
+| My Story, Mission, Contact, Donate, Sketches, Stories of Others | `content/pages/<name>.md` | fixed pages |
+| Images | `_media/<section>/<slug>/` | copied to /media on build |
 
-Please see [CHANGELOG](https://github.com/hydephp/develop/blob/master/CHANGELOG.md) for more information on what has changed recently.
+The file name (without `.md`) becomes the page URL. Keep slugs lowercase with hyphens.
 
-### Contributing
+Frontmatter rules: put dates in quotes (`date: "2026-05-12"`), quote any text that contains a colon, and keep the `---` lines exactly as shown.
 
-HydePHP is an open-source project, contributions are very welcome!
+## Adding a photographer
 
-Development is made in the HydePHP Monorepo, which you can find here https://github.com/hydephp/develop.
+Create `content/photographers/jane-doe.md`:
 
-### Security
+```markdown
+---
+name: "Jane Doe"
+born: 1960
+died: 2010          # omit this line if alive
+role: Photojournalist
+country: France     # optional
+blurb: "One line shown on the card and listing."
+portrait: portrait.jpg          # optional, file inside this photographer's media folder
+quote: "A quote shown on the profile page."   # optional
+featured: true      # optional, shows on the homepage
+photos:
+  - file: photo-01.jpg
+    caption: "Sarajevo, 1993."
+    credit: "(c) Jane Doe"
+  - file: photo-02.jpg
+    credit: "(c) Jane Doe"
+---
+Biography text in Markdown. Shown on the profile page.
+```
 
-If you discover any security-related issues, please email emma@desilva.se instead of using the issue tracker,
-or use the GitHub [Security Advisory](https://github.com/hydephp/develop/security/advisories) page.
-All vulnerabilities will be promptly addressed.
+Then put the image files in `_media/photographers/jane-doe/` (same folder name as the slug). Photos listed in `photos:` appear in the gallery with a lightbox. To upgrade a low quality archived image, replace the file in `_media/photographers/<slug>/` keeping the same filename.
 
-### Credits
+## Adding a story behind photo (video)
 
--   [Emma De Silva](https://github.com/emmadesilva), feel free to buy me a coffee! https://www.buymeacoffee.com/emmads
--   [All Contributors](../../contributors)
+Create `content/stories/the-story-slug.md`:
 
-### License
+```markdown
+---
+title: "The Day the Bridge Fell"
+photographer: jane-doe        # slug of a photographer file, optional
+date: "2026-05-12"
+youtube: dQw4w9WgXcQ          # the YouTube video id (the part after v= in the URL)
+duration: "12:33"             # optional, shown on the card
+location: "Sarajevo, Bosnia and Herzegovina"   # optional
+excerpt: "One or two teaser sentences for cards and the featured block."
+featured: true                # optional, exactly one story should have this
+cover: cover.jpg              # optional, file in _media/stories/<slug>/; without it the YouTube thumbnail is used
+---
+Optional article text shown under the video.
+```
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+## Adding an In Memoriam page
+
+Create `content/memoriam/jane-doe.md`:
+
+```markdown
+---
+name: "Jane Doe"
+born: 1960
+died: 2010
+cover: cover.jpg              # file in _media/memoriam/jane-doe/
+photographer: jane-doe        # slug of the photographer file, links the gallery
+excerpt: "Short line shown on tiles."
+---
+The tribute text, in Markdown.
+```
+
+Also add `memoriam: jane-doe` to the photographer file so the profile links back to the tribute.
+
+## Posting to Latest
+
+Create `_posts/my-post.md`:
+
+```markdown
+---
+title: "New story coming soon"
+description: "One or two sentences shown on the card."
+category: announcement        # one of: announcement, media-mention, film, memorial, update
+date: "2026-07-15"
+image: latest/my-post/cover.jpg   # optional, file under _media/
+link: "https://example.com/article"    # optional, adds a Read the original button
+---
+The post body in Markdown.
+```
+
+## Publishing on GitHub
+
+Everything publishes automatically:
+
+1. Edit or add content files locally (or directly on github.com through the web editor).
+2. Commit and push to `main` (or merge a pull request into `main`).
+3. GitHub Actions builds the site and deploys it to GitHub Pages. Takes about two minutes. Check the Actions tab for progress.
+
+You never commit `_site/`; the workflow builds it fresh every time. There is no separate "build the content" step to manage: every push rebuilds every page, including the search index.
+
+Preview a change before pushing with `php hyde build && php hyde serve`.
+
+## Domain
+
+The site currently serves from GitHub Pages. To activate `new.sniperalley.photo`:
+
+1. Add a DNS CNAME record: `new.sniperalley.photo` pointing to `nardev.github.io`.
+2. In the repository settings under Pages, set the custom domain to `new.sniperalley.photo` and enable Enforce HTTPS.
+3. Set `'url' => 'https://new.sniperalley.photo'` in `config/hyde.php` and push, so sitemap and feed URLs are correct.
+
+Switching later to `www.sniperalley.photo` is the same three steps with the new name.
+
+## Archive scrape tooling
+
+`tools/scrape/` contains the scripts that recovered the original site content from the Wayback Machine (the old WordPress site is behind bot protection). They are not part of the site build and only need to run again if content must be re-imported:
+
+```bash
+python3 tools/scrape/cdx_enum.py         # enumerate archived assets
+python3 tools/scrape/build_manifest.py   # build the image manifest
+python3 tools/scrape/download_images.py  # download images (resumable)
+python3 tools/scrape/fetch_pages.py      # download page HTML
+python3 tools/scrape/build_content.py    # regenerate content files (overwrites edits!)
+```
+
+`tools/scrape/coverage.md` reports what the archive did and did not preserve.
