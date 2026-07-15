@@ -1,0 +1,18 @@
+{
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@tailwindcss/typography": "^0.5.19",
+        "@tailwindcss/vite": "^4.3.2",
+        "autoprefixer": "^10.4.27",
+        "hyde-vite-plugin": "^1.1.0",
+        "hydefront": "^4.0.0",
+        "postcss": "^8.5.8",
+        "tailwindcss": "^4.1.18",
+        "vite": "^7.3.2"
+    }
+}
