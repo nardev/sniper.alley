@@ -184,7 +184,7 @@ return [
         \Hyde\Pages\HtmlPage::class => '',
         \Hyde\Pages\BladePage::class => '',
         \Hyde\Pages\MarkdownPage::class => '',
-        \Hyde\Pages\MarkdownPost::class => 'posts',
+        \Hyde\Pages\MarkdownPost::class => 'latest',
         \Hyde\Pages\DocumentationPage::class => 'docs',
     ],
 

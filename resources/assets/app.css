@@ -1,18 +1,121 @@
-/*
-* This file is loaded into your Hyde/Hyde installation and is used to generate the styles for your project.
-* You can use this file to customize your TailwindCSS or to add new classes.
-*
-* The HydeFront package contains some base styles to make your site look even more amazing.
-*
-* The compiled result of this file is shipped with HydePHP and is found at _media/app.css,
-* so you don't need to compile this file unless you're making changes to Tailwind styles.
-*
-* If you want, you can load the compiled file with minified styles for a base install from the CDN.
-* See https://hydephp.com/docs/2.x/managing-assets#loading-from-cdn
-*/
-
-@import 'hydefront/components/torchlight.css' layer(base);
+/* Site styles. Compiled with Vite: npm run build (output goes to _media). */
 
 @import 'tailwindcss';
 
-@config '../../tailwind.config.js';
+@plugin '@tailwindcss/typography';
+
+@source '../../_pages';
+@source '../views';
+
+@theme {
+    --color-night: #0e0d0c;
+    --color-coal: #1a1817;
+    --color-smoke: #2a2726;
+    --color-paper: #f4f1ec;
+    --color-ink: #1c1a19;
+    --color-mist: #6b6560;
+    --color-accent: #b3282d;
+    --color-accent-deep: #8f1f24;
+
+    --font-display: 'Playfair Display', Georgia, 'Times New Roman', serif;
+    --font-body: 'Inter', system-ui, -apple-system, 'Segoe UI', sans-serif;
+}
+
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url('fonts/Inter-normal-latin-ext.woff2') format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: swap;
+    src: url('fonts/Inter-normal-latin.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400 900;
+    font-display: swap;
+    src: url('fonts/PlayfairDisplay-italic-latin-ext.woff2') format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: italic;
+    font-weight: 400 900;
+    font-display: swap;
+    src: url('fonts/PlayfairDisplay-italic-latin.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400 900;
+    font-display: swap;
+    src: url('fonts/PlayfairDisplay-normal-latin-ext.woff2') format('woff2');
+    unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+@font-face {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400 900;
+    font-display: swap;
+    src: url('fonts/PlayfairDisplay-normal-latin.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    ::selection {
+        background-color: var(--color-accent);
+        color: #fff;
+    }
+}
+
+@layer components {
+    .btn-primary {
+        @apply inline-flex items-center gap-2 bg-accent px-5 py-2.5 text-xs font-semibold uppercase tracking-widest text-white transition-colors hover:bg-accent-deep;
+    }
+
+    .btn-outline {
+        @apply inline-flex items-center gap-2 border border-current px-5 py-2.5 text-xs font-semibold uppercase tracking-widest transition-colors hover:border-accent hover:text-accent;
+    }
+
+    .kicker {
+        @apply text-xs font-semibold uppercase tracking-[0.2em] text-accent;
+    }
+
+    .prose-site {
+        @apply prose prose-lg max-w-none prose-headings:font-display prose-a:text-accent prose-img:w-full;
+    }
+}
+
+/* Lightbox overlay */
+.lightbox {
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+    display: none;
+    align-items: center;
+    justify-content: center;
+    background: rgba(10, 9, 8, 0.96);
+}
+
+.lightbox.open {
+    display: flex;
+}
+
+.lightbox img {
+    max-width: min(92vw, 1400px);
+    max-height: 82vh;
+    object-fit: contain;
+}

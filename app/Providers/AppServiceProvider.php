@@ -2,6 +2,9 @@
 
 namespace App\Providers;
 
+use App\SiteExtension;
+use Hyde\Foundation\HydeKernel;
+use Hyde\Support\DataCollection;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -11,7 +14,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register(): void
     {
-        //
+        DataCollection::$sourceDirectory = 'content';
+
+        HydeKernel::getInstance()->registerExtension(SiteExtension::class);
     }
 
     /**
