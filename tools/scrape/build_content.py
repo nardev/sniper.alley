@@ -51,6 +51,7 @@ def clean_text(text: str) -> str:
     text = text.replace("\u2014", " - ").replace("\u2013", "-")
     text = text.replace(" ", " ")
     text = re.sub(r"[ \t]+", " ", text)
+    text = text.replace("[email protected]", "info@sniperalley.photo")
     return text.strip()
 
 
@@ -59,8 +60,7 @@ def yaml_quote(value: str) -> str:
 
 
 def strip_wayback(url: str) -> str:
-    match = re.search(r"https?://sniperalley\.photo\S*", url)
-    return match.group(0) if match else url
+    return re.sub(r"^https?://web\.archive\.org/web/[0-9a-z_]+/", "", url)
 
 
 def wayback_fetch(url: str, timestamp: str = "2") -> bytes | None:
@@ -125,6 +125,8 @@ def load_photographer_meta() -> dict:
         slug = urllib.parse.unquote(slug_match.group(1))
         caption_match = re.search(r'<span class="caption_link"><a[^>]*>\s*(.*?)\s*</a>', tile, flags=re.S)
         caption = clean_text(re.sub(r"<[^>]+>", "", caption_match.group(1))) if caption_match else ""
+        caption = re.sub(r"https?://\S+", " ", caption).replace('">', " ")
+        caption = max((part.strip() for part in caption.splitlines()), key=len, default="").strip()
         bio_match = re.search(r'<a href="[^"]*nggallery[^"]*" title="([^"]{40,})"', tile)
         bio = clean_text(bio_match.group(1)) if bio_match else ""
         preview_match = re.search(r"/gallery/[^/\"]+/thumbs/thumbs_([^\"]+?\.(?:jpg|jpeg|png|gif|webp))", tile, flags=re.I)
@@ -254,15 +256,18 @@ def convert_memoriam(photographer_meta: dict) -> list[str]:
                     break
 
         cover_rel = None
-        image_match = re.search(r'(?:data-src|src)="([^"]*?/wp-content/uploads/[^"]+?\.(?:jpg|jpeg|png))"', main, flags=re.I)
-        if image_match:
-            image_url = strip_wayback(image_match.group(1))
-            data = wayback_fetch(image_url)
-            if data and len(data) > 1000:
-                dest = MEDIA / "memoriam" / slug / "cover.jpg"
-                dest.parent.mkdir(parents=True, exist_ok=True)
-                dest.write_bytes(data)
-                cover_rel = "cover.jpg"
+        dest = MEDIA / "memoriam" / slug / "cover.jpg"
+        if dest.exists() and dest.stat().st_size > 1000:
+            cover_rel = "cover.jpg"
+        else:
+            image_match = re.search(r'(?:data-src|src)="([^"]*?/wp-content/uploads/[^"]+?\.(?:jpg|jpeg|png))"', main, flags=re.I)
+            if image_match:
+                image_url = strip_wayback(image_match.group(1))
+                data = wayback_fetch(image_url)
+                if data and len(data) > 1000:
+                    dest.parent.mkdir(parents=True, exist_ok=True)
+                    dest.write_bytes(data)
+                    cover_rel = "cover.jpg"
 
         excerpt = paragraphs[0][:200] if paragraphs else ""
         lines = ["---", f"name: {yaml_quote(name)}"]
@@ -291,7 +296,7 @@ def convert_page(slug: str, out_name: str, title: str, media_subdir: str | None 
         return False
     main = page_main(raw)
     paragraphs = extract_paragraphs(main)
-    body_parts = []
+    body_parts = list(paragraphs)
     if media_subdir:
         image_urls = re.findall(r'(?:data-src|src)="([^"]*?/wp-content/uploads/[^"]+?\.(?:jpg|jpeg|png))"', main, flags=re.I)
         seen = set()
@@ -307,11 +312,42 @@ def convert_page(slug: str, out_name: str, title: str, media_subdir: str | None 
                 dest = MEDIA / "pages" / media_subdir / f"image-{index:02d}.jpg"
                 dest.parent.mkdir(parents=True, exist_ok=True)
                 dest.write_bytes(data)
+        if index:
+            body_parts.append("## Photographs")
+            body_parts.append("The photographs from the original page. Move them into "
+                              "place in the text wherever they belong.")
+            for i in range(1, index + 1):
+                body_parts.append(f"![Photo {i}](media/pages/{media_subdir}/image-{i:02d}.jpg)")
 
-    body_parts.extend(paragraphs)
     lines = ["---", f"title: {yaml_quote(title)}", "---"]
     (CONTENT / "pages" / f"{out_name}.md").write_text("\n".join(lines) + "\n" + "\n\n".join(body_parts) + "\n", encoding="utf-8")
     return True
+
+
+def convert_survivor_stories() -> None:
+    """Append full survivor stories (linked from the old Stories page) to stories.md."""
+    raw = read_page("stories")
+    if raw is None:
+        return
+    links = re.findall(r'href="[^"]*?sniperalley\.photo/([a-z0-9-]+)/"', raw)
+    candidates = [slug for slug in dict.fromkeys(links)
+                  if (slug.endswith("-story") or slug.startswith("story-"))
+                  and slug not in ("my-story", "stories")]
+    sections = []
+    for slug in candidates:
+        story_raw = read_page(slug)
+        if story_raw is None:
+            continue
+        title_match = re.search(r"<title[^>]*>(.*?)[|<]", story_raw, flags=re.S)
+        title = clean_text(title_match.group(1)) if title_match else slug.replace("-", " ").title()
+        paragraphs = extract_paragraphs(page_main(story_raw))
+        if paragraphs:
+            sections.append(f"## {title}\n\n" + "\n\n".join(paragraphs))
+    if sections:
+        target = CONTENT / "pages" / "stories.md"
+        existing = target.read_text(encoding="utf-8") if target.exists() else "---\ntitle: \"Stories of Others\"\n---\n"
+        target.write_text(existing.rstrip() + "\n\n" + "\n\n".join(sections) + "\n", encoding="utf-8")
+        log(f"survivor stories appended: {len(sections)}")
 
 
 def convert_sketches() -> None:
@@ -320,12 +356,21 @@ def convert_sketches() -> None:
         return
     main = page_main(raw)
     sections = []
-    for match in re.finditer(r"<h2[^>]*>(.*?)</h2>(.*?)(?=<h2|$)", main, flags=re.S):
-        heading = clean_text(re.sub(r"<[^>]+>", "", match.group(1)))
+    for match in re.finditer(r'<h2[^>]*>\s*(?:<a[^>]*href="([^"]*)"[^>]*>)?(.*?)(?:</a>\s*)?</h2>(.*?)(?=<h2|$)', main, flags=re.S):
+        href, heading_html, rest = match.groups()
+        heading = clean_text(re.sub(r"<[^>]+>", "", heading_html))
         if not heading or "SWITCH" in heading:
             continue
-        paragraphs = extract_paragraphs(match.group(2))
-        text = "\n\n".join(p.replace("[...]", "").replace("[…]", "").strip() for p in paragraphs[:2])
+        paragraphs = None
+        if href:
+            slug = strip_wayback(href).rstrip("/").rsplit("/", 1)[-1]
+            full = read_page(slug)
+            if full is not None:
+                paragraphs = extract_paragraphs(page_main(full))
+        if not paragraphs:
+            paragraphs = [p.replace("[...]", "").replace("[…]", "").strip()
+                          for p in extract_paragraphs(rest)[:2]]
+        text = "\n\n".join(p for p in paragraphs if p)
         if heading and text:
             sections.append(f"## {heading}\n\n{text}")
     if sections:
@@ -479,6 +524,7 @@ def main() -> None:
     convert_page("my-story", "my-story", "My Story", media_subdir="my-story")
     convert_page("mission", "mission", "Mission")
     convert_page("stories", "stories", "Stories of Others")
+    convert_survivor_stories()
     convert_sketches()
     convert_stories()
     convert_press()

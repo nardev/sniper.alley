@@ -19,7 +19,7 @@ CDX = "https://web.archive.org/cdx/search/cdx"
 
 
 def cdx_query(params: dict, retries: int = 5) -> list[list[str]]:
-    qs = urllib.parse.urlencode(params)
+    qs = urllib.parse.urlencode(params, doseq=True)
     url = f"{CDX}?{qs}"
     for attempt in range(retries):
         try:
