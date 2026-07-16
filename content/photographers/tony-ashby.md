@@ -4,25 +4,32 @@ role: Photojournalist
 portrait: sniper_alley_tony_ashby_04.jpg
 photos:
   - file: sniper_alley_tony_ashby_01.jpg
-    credit: "(c) Tony Ashby"
+    caption: "Gravediggers find room in the sporting grounds adjacent to the Lion cemetery in the capital Sarajevo, 1993."
+    credit: "Photo Copyright (c) Tony Ashby"
   - file: sniper_alley_tony_ashby_02.jpg
-    credit: "(c) Tony Ashby"
+    caption: "A grieving widow hurriedly spreads soil over the coffin of her late husband in the sporting grounds in the capital Sarajevo. The dead are victims from numerous Serbian attacks from the mountains surrounding the city under siege.Snipers and mortar bombardments claim lives every day and even the makeshift cemeteries are not safe as mourners are attacked as they bury their loved ones. Sarajevo 1993"
+    credit: "Photo Copyright (c) Tony Ashby"
   - file: sniper_alley_tony_ashby_03.jpg
-    credit: "(c) Tony Ashby"
+    caption: "A direct mortar hit on a civilian house rendered multiple wounds to the family,a stranger passing by rescued mother and son and rushed them to hospital where they are reunited with the grandfather who has shrapnel wounds to his head and upper torso.The hospital was also coming under attack from the Serbian forces in the mountains."
+    credit: "Photo Copyright (c) Tony Ashby"
   - file: sniper_alley_tony_ashby_04.jpg
-    credit: "(c) Tony Ashby"
+    caption: "The suburb of Dobringe, was a siege within a siege. A boy’s playground is now his father’s grave, the only safe place from his block of flats to bury the dead. Hundreds of people have been killed and wounded in the suburb through sniping and shelling.Narcis Misanovic kneels at his father’s grave in his front yard."
+    credit: "Photo Copyright (c) Tony Ashby"
   - file: sniper_alley_tony_ashby_05.jpg
-    credit: "(c) Tony Ashby"
+    caption: "Resident at the cut-off suburb of Dobringe have crouch to dodge snipers when crossing a dangerous bridge where more than 60 people have become casualties. The residents are under siege from Serb snipers and mortars and have to bury their dead close to their homes. Snipers and mortar bombardments claim lives every day and even the makeshift cemeteries are not safe as mourners are attacked as they bury their loved ones. Sarajevo 1993"
+    credit: "Photo Copyright (c) Tony Ashby"
   - file: sniper_alley_tony_ashby_06.jpg
-    credit: "(c) Tony Ashby"
+    caption: "Sarajevan padestrians cross a dangerous street sheltered from snipers by a UN APC."
+    credit: "Photo Copyright (c) Tony Ashby"
   - file: sniper_alley_tony_ashby_07.jpg
-    credit: "(c) Tony Ashby"
+    caption: "Life really must go on.Resourceful solo clarinetist Emir Nuhanovic plays a Benny Goodman number in the ruins of the Bosnian National Library. He cried when the soldiers drove tanks over his clarinets. “They did it from spite because I deserted with nearly 200 instruments from the barracks music college when war broke out” he said. Mr Nuhanovic had been a member of the Yugoslav army band, which was under Serbian control."
+    credit: "Photo Copyright (c) Tony Ashby"
   - file: sniper_alley_tony_ashby_08.jpg
-    credit: "(c) Tony Ashby"
+    credit: "Photo Copyright (c) Tony Ashby"
   - file: sniper_alley_tony_ashby_09.jpg
-    credit: "(c) Tony Ashby"
+    credit: "Photo Copyright (c) Tony Ashby"
   - file: sniper_alley_tony_ashby_10.jpg
-    credit: "(c) Tony Ashby"
+    credit: "Photo Copyright (c) Tony Ashby"
 ---
 Photographer Tony Ashby's career spans five decades and has won him numerous awards.
 He won the prestigious Walkley Award twice, and was twice a finalist. He is credited with a long list of other awards from important press photographer exhibitions and has been honoured for being a finalist for the most valued contribution to journalism at the Walkley's.

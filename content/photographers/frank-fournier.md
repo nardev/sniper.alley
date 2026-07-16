@@ -4,7 +4,8 @@ role: Photojournalist
 portrait: sniper_alley_frank_fournier_02.jpg
 photos:
   - file: sniper_alley_frank_fournier_02.jpg
-    credit: "(c) Frank Fournier"
+    caption: "Ljubica Ivezic Orphanage, February 1993 Sarajevo, Bosnia & Herzegovina"
+    credit: "Photo Copyright (c) Frank Fournier"
 ---
 Frank Fournier, born in France, has been a New Yorker since October 1976. A Time & Life Magazine contributor for more than twenty years is a deeply humanistic photographer concerned by social and political issues. His work has been published and exhibited extensively in the United States, in Europe, Asia, Australia and South America. Frank Fournier is a member of Contact Press Images since 1977. His work can be found in museums and private collections. 
 January 2020 to June 2020 Leica San Francisco 

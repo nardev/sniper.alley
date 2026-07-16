@@ -18,11 +18,11 @@
             @else
                 <div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
                     @foreach ($memorials as $item)
-                        @php $cover = Content::image('memoriam', $item['slug'], $item['cover'] ?? null) @endphp
+                        @php $cover = Content::memorialTileImage($item) @endphp
                         <a href="{{ route('in-memoriam/'.$item['slug']) }}" class="group bg-coal ring-1 ring-white/10 transition hover:ring-accent">
                             <div class="aspect-[3/2] overflow-hidden">
                                 @if ($cover)
-                                    <img src="{{ asset($cover) }}" alt="{{ $item['name'] }}" loading="lazy" class="h-full w-full object-cover grayscale transition duration-500 group-hover:scale-[1.03]">
+                                    <img src="{{ asset($cover) }}" alt="{{ $item['name'] }}" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]">
                                 @else
                                     <div class="flex h-full w-full items-center justify-center font-display text-5xl text-white/20">{{ mb_substr($item['name'] ?? '?', 0, 1) }}</div>
                                 @endif

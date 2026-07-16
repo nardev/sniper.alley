@@ -4,7 +4,7 @@
 @endphp
 <section class="relative overflow-hidden bg-night text-white">
     @if ($hasImage)
-        <img src="{{ asset($heroImage) }}" alt="" class="absolute inset-0 h-full w-full object-cover opacity-40 grayscale" loading="eager">
+        <img src="{{ asset($heroImage) }}" alt="" class="absolute inset-0 h-full w-full object-cover opacity-40" loading="eager">
         <div class="absolute inset-0 bg-gradient-to-r from-night/90 via-night/60 to-night/30"></div>
     @endif
     <div class="relative mx-auto max-w-7xl px-4 py-16 sm:px-6 {{ ($compact ?? false) ? 'lg:py-20' : 'lg:py-28' }}">

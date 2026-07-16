@@ -57,7 +57,7 @@
                 <div class="mt-4 space-y-4">
                     @foreach ($relatedPhotos as $photo)
                         <figure>
-                            <img src="{{ asset($photo['path']) }}" alt="{{ $photo['caption'] ?? '' }}" loading="lazy" class="w-full object-cover grayscale">
+                            <img src="{{ asset($photo['path']) }}" alt="{{ $photo['caption'] ?? '' }}" loading="lazy" class="w-full object-cover">
                             @if ($photo['caption'] ?? false)
                                 <figcaption class="mt-1.5 text-xs text-mist">{{ $photo['caption'] }}</figcaption>
                             @endif

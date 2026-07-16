@@ -1,11 +1,11 @@
 @php
     use App\Content;
-    $cover = Content::image('memoriam', $item['slug'], $item['cover'] ?? null);
+    $cover = Content::memorialTileImage($item);
 @endphp
 <a href="{{ route('in-memoriam/'.$item['slug']) }}" class="group flex items-center gap-4">
     <div class="h-20 w-20 shrink-0 overflow-hidden rounded-full bg-smoke">
         @if ($cover)
-            <img src="{{ asset($cover) }}" alt="{{ $item['name'] }}" loading="lazy" class="h-full w-full object-cover grayscale">
+            <img src="{{ asset($cover) }}" alt="{{ $item['name'] }}" loading="lazy" class="h-full w-full object-cover">
         @endif
     </div>
     <div>

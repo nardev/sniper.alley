@@ -97,6 +97,15 @@ class Content
         return file_exists(Hyde::path("_media/{$path}")) ? $path : null;
     }
 
+    /** Tile image for a memorial: cover, else banner, else the photographer's cover. */
+    public static function memorialTileImage(array $item): ?string
+    {
+        return static::image('memoriam', $item['slug'], $item['cover'] ?? null)
+            ?? static::image('memoriam', $item['slug'], $item['banner'] ?? null)
+            ?? (($photographer = static::photographer($item['photographer'] ?? null))
+                ? static::photographerCover($photographer) : null);
+    }
+
     /** Card image for a photographer: the portrait, or the first gallery photo. */
     public static function photographerCover(array $item): ?string
     {

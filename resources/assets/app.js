@@ -4,9 +4,10 @@ document.addEventListener('DOMContentLoaded', () => {
     initNav();
     initPhotographerFilter();
     initStoryFilter();
-    initTabs();
+    initTabsWithPagination();
     initLightbox();
     initSearch();
+    initEmbeds();
 });
 
 function initNav() {
@@ -55,21 +56,45 @@ function initPhotographerFilter() {
 
 function initStoryFilter() {
     const select = document.querySelector('[data-filter-select="photographer"]');
-    const grid = document.querySelector('[data-filter-grid]');
-    if (!select || !grid) return;
+    const container = document.querySelector('[data-filter-grid]');
+    if (!select || !container) return;
     select.addEventListener('change', () => {
         const value = select.value;
-        applyGridFilter(grid, (card) => !value || card.getAttribute('data-photographer') === value, null, null);
+        for (const card of container.querySelectorAll('[data-photographer]')) {
+            card.style.display = !value || card.getAttribute('data-photographer') === value ? '' : 'none';
+        }
+        // hide a season block (header + grid) when it has no visible cards
+        const headers = container.querySelectorAll('[data-season-header]');
+        const grids = container.querySelectorAll('[data-season-grid]');
+        grids.forEach((grid, index) => {
+            const anyVisible = Array.from(grid.querySelectorAll('[data-photographer]'))
+                .some((card) => card.style.display !== 'none');
+            grid.style.display = anyVisible ? '' : 'none';
+            if (headers[index]) headers[index].style.display = anyVisible ? '' : 'none';
+        });
     });
 }
 
-function initTabs() {
+function initTabsWithPagination() {
     const bar = document.querySelector('[data-tabs]');
     const grid = document.querySelector('[data-filter-grid]');
     if (!bar || !grid) return;
     const emptyEl = document.querySelector('[data-filter-empty]');
+    const moreButton = document.querySelector('[data-load-more]');
+    const pageSize = 12;
     const activeClasses = ['border-accent', 'text-accent'];
     const inactiveClasses = ['border-transparent', 'text-mist'];
+    let category = '';
+    let visibleCount = pageSize;
+
+    const render = () => {
+        const cards = Array.from(grid.children);
+        const matching = cards.filter((card) => !category || card.getAttribute('data-category') === category);
+        for (const card of cards) card.style.display = 'none';
+        matching.slice(0, visibleCount).forEach((card) => { card.style.display = ''; });
+        if (emptyEl) emptyEl.classList.toggle('hidden', matching.length > 0);
+        if (moreButton) moreButton.classList.toggle('hidden', matching.length <= visibleCount);
+    };
 
     bar.addEventListener('click', (event) => {
         const button = event.target.closest('[data-tab]');
@@ -80,9 +105,39 @@ function initTabs() {
         }
         button.classList.add(...activeClasses);
         button.classList.remove(...inactiveClasses);
-        const value = button.getAttribute('data-tab');
-        applyGridFilter(grid, (card) => !value || card.getAttribute('data-category') === value, emptyEl, null);
+        category = button.getAttribute('data-tab') || '';
+        visibleCount = pageSize;
+        render();
     });
+
+    if (moreButton) {
+        moreButton.addEventListener('click', () => {
+            visibleCount += pageSize;
+            render();
+        });
+    }
+    render();
+}
+
+function initEmbeds() {
+    const loaders = [
+        ['.twitter-tweet', 'https://platform.twitter.com/widgets.js'],
+        ['.instagram-media', 'https://www.instagram.com/embed.js'],
+        ['.fb-post, .fb-video', 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v19.0'],
+    ];
+    for (const [selector, src] of loaders) {
+        if (!document.querySelector(selector)) continue;
+        if (selector.startsWith('.fb-') && !document.getElementById('fb-root')) {
+            const root = document.createElement('div');
+            root.id = 'fb-root';
+            document.body.prepend(root);
+        }
+        const script = document.createElement('script');
+        script.src = src;
+        script.async = true;
+        script.crossOrigin = 'anonymous';
+        document.body.appendChild(script);
+    }
 }
 
 function initLightbox() {

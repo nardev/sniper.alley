@@ -2,6 +2,8 @@
 name: "Paul Marchand"
 born: 1961
 died: 2009
+banner: 00-PAUL-EN-2-scaled.jpg
+cover: cover.jpg
 excerpt: "Paul Marchand was born on 1 October in 1961. in Amiens, France. He studied at the Institute for political science in Grenoble. Paul started his career as a journalist in a small private radio station "
 ---
 Paul Marchand was born on 1 October in 1961. in Amiens, France. He studied at the Institute for political science in Grenoble. Paul started his career as a journalist in a small private radio station ‘Radio 100’ managed by Hélène Tavelle. At the same time, he took criminology lessons and did internships at the hospital morgue. Barely 22 years old, he abandoned his studies and left to report in Beirut during their civil war. Six months later, he was a correspondent for Radio-France and several Canadian media. For many years, he was the only Western journalist to practice in West Beirut, on the Muslim side. The French government considering that he is in danger, forcibly expels him to Cyprus: Paul fled and returned to West Beirut.
@@ -10,10 +12,14 @@ In 1987, he narrowly escaped the hostage-taking in which Roger Auque was a victi
 
 After the civil war in Lebanon, Paul came to Bosnia and Herzegovina and he reported from the city of Sarajevo, that was under siege, in the period from 1991 to 1993. He was rather unconventional journalist. He was not interested in press conferences where information were served, instead he went for information on his own going event to the morgue every day where he counted the dead by himself. He needed that the truth about Sarajevo reach the whole world. In Beirut, he learned to live in a closed world, in the world where people did not have right to true information. Sarajevo was closed and he considered it as a part of Europe, he insisted on the fact that information about Sarajevo needed to be known. He was not wearing a flak jacket and was not afraid. Paul was critical towards the use of armored cars, flak jackets and helmets, and though he did not have the clout of a big media organization behind him, he became one of the best-known figures among the journalists in the Holiday Inn-largely for his eccentricity. Almost always immaculately dressed, often donning a straw hat and constantly puffing on large Cuban cigars, he could be brusque and uncompromising. A self-declared ‘artisan’, he refused to wear a flak jacket because he could ‘not find one that matched his clothes’.
 
+![Paul Marchand](/media/memoriam/paul-marchand/01-PAUL.jpg)
+
 Flamboyant Paul Marchand preferred to drive around the city in a beat-up old ‘Ford Sierra’ with the doors sealed shut.
 Photo © Thomas Haley
 
 Paul drove through the alley of snipers in his ‘Ford Sierra’ with the inscription ”Don’t waste your bullets. I’m immortal” on it, and from which the tacts of the Rolling Stones’ song ‘Sympathy for the Devil’ blared. It was a totally surreal scene. Marchand genuinely took risks and was often scathing of what he regarded as journalists becoming detached from the reality of the conflict by traversing Sarajevo in armored cars while wearing flak jackets and hel­mets. Paul stated that armored cars were merely ‘status symbols’ while railing against their use. “There are people who even wear a vest and flak protection [and drive] an armored car” Paul said. He learned to adapt to the ‘rules of the game’ in and around the hotel and in Sarajevo. He took, no doubt, significant risks, but maintained that his approach was authentic and thus justified.
+
+![Paul Marchand](/media/memoriam/paul-marchand/02-PAUL.jpg)
 
 ‘Don’t waste your bullets. I’m immortal’, 
 On its bonnet, he had emblazoned Latin phrase, ‘moritūrī tē salūtant’ which translates to: ‘Those about to die, salute you!’
@@ -33,11 +39,15 @@ Paul Marchand took his own life in 2009. He was 48. His affection to devil came 
 
 The movie director Guillaume de Fontenay tried to collect funding for the movie and he finally succeeded in 2018 when he made maybe the most serious cinematic image of the Siege of Sarajevo. ‘The Sympathy for the Devil’ brings on the big screens the story of Paula Marchand, French journalist and war reporter who cope on daily basis with the brutality of war and life in the besieged city of Sarajevo. Besides, the director took a look at his private life and in a way perpetuated a singular love story between the war reporter and a young Sarajevo girl Boba who, amongst other, saved his life.
 
+![Paul Marchand](/media/memoriam/paul-marchand/03-PAUL.jpg)
+
 Trailer for the film ‘The Sympathy for the Devil’ you can watch here.
 
 “At the time, the war in Bosnia was intimately linked to the voice of Paul Marchand, whose stories I heard from Radio-Canada,” recalls the filmmaker who offers his first film. It is a conflict that shocked me; to see that the international community has left like this for four years of siege where dozens of civilians, on average, died every day. I still have this problem with our collective apathy: The same thing is repeated in Syria.” Guillaume de Fontenay
 
 Co-producer of ‘Sympathy for the Devil’ Amra Bakšić Čamo considers that a war reporter cannot separate himself from his subjects. “His book is thus more interesting since it depicts a journalist who leave a typical journalist atmosphere. Suddenly, he had friends who lose members of their family and are starving to death. For most journalists it is a sort of blitzkrieg: they come there for a while, write their story, go back home and strive not to bring those experiences into their everyday life. But for those who remained and were in Sarajevo for a long period of time, their lives have changed forever.” explains Amra, and afterwards she asks: “How did they manage to draw a line between objectivity and lives of the Sarajevo people? I think that we must always be conscious of the fact that we are not only making movies for tomorrow; we make movies for eternity. So, it is not only the matter of the direct impact of the movie distribution in Bosnia and Herzegovina or France in the present, but of the fact how will be this movie perceived 40 years after its premiere”, Amra Bakšić Čamo concludes.
+
+![Paul Marchand](/media/memoriam/paul-marchand/04-PAUL.jpg)
 
 “In Beirut as in Sarajevo, every morning I set sail for death on my journey of destruction. Journalist, I had to tell, in words of ruins, in an unfinished language, that wars are nothing but a little noise on a lot of silence. A temporary crash when the silence becomes too unbearable. A dream of a better world, even if the dream is obscene and turbulent.”
 
@@ -45,10 +55,14 @@ Paul Marchand
 
 “In one of his books, when he describes the very moment of wounding, he remembers, evokes our love and says, “We have never had time to talk about love in war”. It was maybe unworthy of that sole situation to even talk about. I simply felt so secure next to him, and in fact, I was not afraid of anything event not the first time when he suggested to me to walk through the Sniper Alley - the main street that no one walked through except crazy journalists. I said, “Ok, no problem.” He asked me if I was scared. I told him I wasn’t, if we go there then we go there, everything is OK. The only important thing for us was to be together and that he knows, if we are not together, what happens to me, or if I do not work, that he comes to see if I am good, do I have enough food - just as simple as that. As he wrote, simply, love was not worthy to be talked about in war because we had other worries, but it was there, it was with us and around us and between us.” - says Boba. “We are bound forever and I think that this kind of relationship that we had cannot be described by the existing words. Even though he is not alive, he is omnipresent in my life. We are always together, even in his books. We are doomed to eternity”, she says.
 
+![Paul Marchand](/media/memoriam/paul-marchand/08-PAUL.jpg)
+
 Paul and Boba having dinner before he was wounded. October 1993, Sarajevo.
 Photo © private archive
 
 Behind this brave man who came to the most dangerous place on earth, to convey the truth about the sufferings and killings of Sarajevans, there will be this book, this film ‘Sympathy for the Devil’ which will tell a story of a great love during the war. Love that ignited amidst war in the city that was about to be burnt and dead, in a city that survived all the bullets and bombs. Love was stronger than all of it. Slobodanka Boba Lizdek knows that very well.
+
+![Paul Marchand](/media/memoriam/paul-marchand/06-PAUL.jpg)
 
 ‘Memorial to Journalists and Media Workers in Sarajevo, Bosnia and Herzegovina.’
 Paul Marchand received in 1994 the special jury prize of the Bayeux War Correspondents for his work in Sarajevo.

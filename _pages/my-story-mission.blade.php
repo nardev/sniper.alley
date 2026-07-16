@@ -10,6 +10,7 @@
         'heading' => 'My Story / Mission',
         'lede' => 'Why this archive exists, told by its founder.',
         'compact' => true,
+        'image' => ($story['background'] ?? null) ? 'pages/my-story/'.$story['background'] : 'site/hero.jpg',
     ])
 
     <article class="mx-auto max-w-3xl px-4 py-14 sm:px-6">

@@ -2,6 +2,7 @@
 name: "Hidajet Delic"
 born: 1948
 died: 2017
+banner: 00-HIDAJET-EN-scaled.jpg
 photographer: hidajet-delic-1948-2017
 excerpt: "Hidajet Delic Degi was born in Sarajevo in 1948. He discovered photography in secondary school. His first photojournalism engagements were for daily and weekly publications such as Spektar, Nasi Dani,"
 ---
@@ -9,11 +10,15 @@ Hidajet Delic Degi was born in Sarajevo in 1948. He discovered photography in se
 
 He was an associate for the Associated Press for more than 20 years. During the siege of Sarajevo, his photographs were published by leading daily newspapers such as The New York Times, The LA Times, Time, International Herald Tribune, etc. He was one of the founders of the BHPRESS - the BiH news agency and later worked as the photo-editor of the FENA Federation BiH news agency.
 
+![Hidajet Delic](/media/memoriam/hidajet-delic/01-HIDAJET.jpg)
+
 As the war started in 1992, Hidajet Delic knew that being a professional was the best he could give and that the camera was his only weapon.
 
 Hidajet Delic was there when Olga Sučić and Suada Dilberović were shot dead as the first victims of open aggression, the onset of the assault and siege of the city. They were the first of 14,385 persons killed in the besieged Sarajevo. Of that number, 2,142 victims of the siege were women.
 
 Suada, a student, joined the masses saying, “I’m going to defend my Sarajevo.” Before she found herself in the moving photo by Hidajet Delic. Olga, mother of two, was captured by a TV camera, along with a mass of protesters, shouting, “This is Sarajevo, we want peace!”
+
+![Hidajet Delic](/media/memoriam/hidajet-delic/02-HIDAJET.jpg)
 
 People carrying mortally wounded Olga Sucic. 5. April 1992.
 
@@ -46,6 +51,8 @@ Most of Hidajet Delic’s work is documentary photography; he always wanted to s
 At the very end of the war, he was captured by Serb forces. According to official records, Hidajet Delic was the last registered prisoner of war. “I and a colleague, who worked with me for the Associated Press, were abducted by Serb special forces on the Bridge of Brotherhood and Unity (Most bratstva i jedinstva) because they needed someone to exchange. The Bosnian government forces had previously arrested some of their colonels or lieutenant colonels on the outskirts of Sarajevo. Since my colleague was a Serb from Belgrade, he was released after two days, and I was stuck in a camp for 45 days. First I was in Pale, and later in Foca, in a prison where they accused me of faking all those massacres around Sarajevo. There was one particularly stupid question, like, “Where did you get so much red paint?!” It was crazy to think that one could get paint in Sarajevo. All the time they were trying to convince me that we were faking it ourselves, shelling and killing ourselves, which was ludicrous.” Hidajet Delic Degi
 
 “Fortunately, after 45 days I was exchanged for some of their journalists and soldiers who were captured on Mount Ozren. They accused me of killing Serbs in Sarajevo - I who did not even serve in the army because I have myopia. I was accused of ordering the killing of some Serbs who did refused to sing partisan songs. Nonsense. The worst part is that some of those people who accused me are working in the Republika Srpska judiciary today.” Hidajet Delic Degi
+
+![Hidajet Delic](/media/memoriam/hidajet-delic/09-HIDAJET.jpg)
 
 Hidajet Delic Degi in Sarajevo
 

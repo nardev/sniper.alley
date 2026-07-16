@@ -4,39 +4,39 @@ role: Photojournalist
 portrait: sniper_alley_justin_leighton_03.jpeg
 photos:
   - file: sniper_alley_justin_leighton_01.jpg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_02.jpg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_03.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_04.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_05.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_06.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_07.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_08.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_09.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_10.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_11.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_12.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_13.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_14.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_15.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_16.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
   - file: sniper_alley_justin_leighton_17.jpeg
-    credit: "(c) Justin Leighton"
+    credit: "Photo Copyright (c) Justin Leighton"
 ---
 Beginning his career over 25 years ago with a short-lived but instructional foray into magazine publication, Justin's creative eye and intrepid spirit have since taken him on a successful, diverse and at times personally challenging journey through the world of photography and filmmaking.
 His early career saw him commissioned by some of the world’s most prestigious publications to cover the extremes of the Balkan conflict, the first Gulf War, the Good Friday Agreement and the fall of communism in Eastern Europe. His extraordinary work marked him out and he joined Network Photographers, a prestigious collective of some of the best photojournalists of the 20th century. In 1997 he won Nikon's Press Photographer of the Year.

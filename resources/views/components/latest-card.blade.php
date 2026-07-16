@@ -15,7 +15,7 @@
     <a href="{{ route('latest/'.$post->identifier) }}" class="block">
         @if ($image && file_exists(\Hyde\Hyde::path('_media/'.$image)))
             <div class="aspect-video overflow-hidden bg-smoke">
-                <img src="{{ asset($image) }}" alt="" loading="lazy" class="h-full w-full object-cover grayscale transition duration-500 group-hover:scale-[1.03]">
+                <img src="{{ asset($image) }}" alt="" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]">
             </div>
         @endif
         <div class="p-4">

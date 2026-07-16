@@ -4,9 +4,9 @@ role: Photojournalist
 portrait: sniper_alley_thomas_james_hurst_01.jpg
 photos:
   - file: sniper_alley_thomas_james_hurst_01.jpg
-    credit: "(c) Thomas James Hurst"
+    credit: "Photo Copyright (c) Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_09.jpg
-    credit: "(c) Thomas James Hurst"
+    credit: "Photo Copyright (c) Thomas James Hurst"
 ---
 Thomas James Hurst grew up in Mill Valley, Calif. He first picked up a camera, an old Nikormat, at the age of 21 when he went to Bosnia in 1992. After returning to Bosnia a second time in 1993, he decided to study photojournalism at San Francisco State University. 
 During winter and summer breaks, he traveled to Haiti, Afghanistan and Rwanda and also interned at daily newspapers. His work has appeared in such publications as Time magazine, The New York Times and The Boston Globe. 

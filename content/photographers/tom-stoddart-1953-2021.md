@@ -4,9 +4,29 @@ born: 1953
 died: 2021
 role: Photojournalist
 portrait: sniper_alley_tom_stoddart_05.jpg
+featured: true
 photos:
+  - file: sniper_alley_tom_stoddart_01.jpg
+    caption: "A smiling child runs across 'Sniper Alley' in Sarajevo during heavy fighting in 1993. (Photo By Tom Stoddart/Getty Images)"
+    credit: "Photo Copyright (c) Tom Stoddart"
+  - file: sniper_alley_tom_stoddart_02.jpg
+    caption: "Children use empty ammunition boxes as they play Serb against Bosnians during a break in the real life shelling of Sarajevo of 1992.(Photo By Tom Stoddart/Getty Images)"
+    credit: "Photo Copyright (c) Tom Stoddart"
+  - file: sniper_alley_tom_stoddart_03.jpg
+    caption: "A Bosnian muslim girl studies the Koran by candlelight during the 47 month long siege of Sarajevo. 1994 (Photo By Tom Stoddart/Getty Images)"
+    credit: "Photo Copyright (c) Tom Stoddart"
+  - file: sniper_alley_tom_stoddart_04.jpg
+    caption: "Sheltering from a heavy mortar bombardment, 67 year old Antonia Arapovic, hugs her neighbour's terrified child in the darkness of a underground cellar in Sarajevo. (Photo By Tom Stoddart/Getty Images)"
+    credit: "Photo Copyright (c) Tom Stoddart"
   - file: sniper_alley_tom_stoddart_05.jpg
-    credit: "(c) Tom Stoddart"
+    caption: "Shrapnel wounds on the face of a frightened boy in a ward at Sarajevo hospital during the siege in 1992. (Photo By Tom Stoddart/Getty Images)"
+    credit: "Photo Copyright (c) Tom Stoddart"
+  - file: sniper_alley_tom_stoddart_06.jpg
+    caption: "During a break in the shelling children play basketball in the burnt out financial district of Sarajevo in 1992. (Photo By Tom Stoddart/Getty Images)"
+    credit: "Photo Copyright (c) Tom Stoddart"
+  - file: sniper_alley_tom_stoddart_07.jpg
+    caption: "A small girl stares silently through a shattered window as a United Nations aid convoy reaches besieged people in the Sarajevo suburb of Dobrinja, 1992. (Photo By Tom Stoddart/Getty Images)"
+    credit: "Photo Copyright (c) Tom Stoddart"
 ---
 Everybody liked Tom Stoddart, even other photographers! Especially other photographers.
 Tom was the photographer’s photographer.

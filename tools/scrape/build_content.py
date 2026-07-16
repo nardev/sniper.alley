@@ -48,6 +48,9 @@ def ascii_filename(value: str) -> str:
 
 def clean_text(text: str) -> str:
     text = html.unescape(text)
+    # mis-encoded CP1252 smart punctuation shows up as C1 control chars
+    text = text.replace("\x91", "'").replace("\x92", "'").replace("\x93", '"').replace("\x94", '"')
+    text = re.sub(r"[\x80-\x9f]", "", text)
     text = text.replace("\u2014", " - ").replace("\u2013", "-")
     text = text.replace(" ", " ")
     text = re.sub(r"[ \t]+", " ", text)
@@ -56,22 +59,30 @@ def clean_text(text: str) -> str:
 
 
 def yaml_quote(value: str) -> str:
-    return '"' + str(value).replace('\\', '\\\\').replace('"', '\\"') + '"'
+    value = re.sub(r"\s*\n\s*", " ", str(value))
+    return '"' + value.replace('\\', '\\\\').replace('"', '\\"') + '"'
 
 
 def strip_wayback(url: str) -> str:
     return re.sub(r"^https?://web\.archive\.org/web/[0-9a-z_]+/", "", url)
 
 
+import time
+
+
 def wayback_fetch(url: str, timestamp: str = "2") -> bytes | None:
     wb = f"https://web.archive.org/web/{timestamp}im_/{url}"
-    for attempt in range(3):
+    for attempt in range(4):
         try:
             req = urllib.request.Request(wb, headers=UA)
             with urllib.request.urlopen(req, timeout=90) as response:
                 return response.read()
+        except urllib.error.HTTPError as error:
+            if error.code == 404:
+                return None
+            time.sleep(6 * (attempt + 1))
         except Exception:
-            continue
+            time.sleep(6 * (attempt + 1))
     return None
 
 
@@ -144,20 +155,33 @@ def load_photographer_meta() -> dict:
 
 FEATURED_SLUGS = [
     "anja-niedringhaus-1965-2014",
-    "tom-stoddart",
+    "tom-stoddart-1953-2021",
     "luc-delahaye",
     "annie-leibovitz",
 ]
+
+# The original site's slugs misspell some names; correct display names here.
+NAME_OVERRIDES = {
+    "jean-baptiste-avril": "Jean-Baptiste Avril",
+    "raffaelle-ciriello-1959-2002": "Raffaele Ciriello",
+    "wolfgang-bellwinkle": "Wolfgang Bellwinkel",
+    "zoran-filipovic": "Zoran Filipović Zoro",
+}
+
+# Duplicate galleries on the original site merged into one page.
+GALLERY_ALIASES = {
+    "tom-stoddart": "tom-stoddart-1953-2021",
+}
 
 
 def convert_photographers(manifest: list[dict], meta: dict) -> dict:
     photographers = {}
     stats = {}
     for item in manifest:
-        slug = item["gallery"]
+        slug = GALLERY_ALIASES.get(item["gallery"], item["gallery"])
         if slug in SKIP_GALLERIES:
             continue
-        source = RAW / "gallery" / slug / item["file"]
+        source = RAW / "gallery" / item["gallery"] / item["file"]
         entry = photographers.setdefault(slug, {"photos": [], "missing": 0, "kinds": {}})
         if not source.exists() or source.stat().st_size == 0:
             entry["missing"] += 1
@@ -175,7 +199,7 @@ def convert_photographers(manifest: list[dict], meta: dict) -> dict:
     for slug, entry in sorted(photographers.items()):
         info = meta.get(slug, {})
         fallback_name = re.sub(r"-\d{4}-\d{4}$", "", slug).replace("-", " ").title()
-        name = info.get("name") or fallback_name
+        name = NAME_OVERRIDES.get(slug) or info.get("name") or fallback_name
         born, died = info.get("born"), info.get("died")
         if born is None:
             dates_match = re.search(r"-(\d{4})-(\d{4})$", slug)
@@ -223,9 +247,46 @@ MEMORIAL_SLUGS = [
 ]
 
 
+SKIP_IMAGE_HINTS = ("LOGO", "logo", "icon", "Icon", "COVER-SOCIAL")
+
+
+def parse_memorial_covers() -> dict[str, str]:
+    """slug -> tile cover image url, from the archived /in-memoriam/ listing."""
+    raw = read_page("in-memoriam")
+    covers = {}
+    if raw is None:
+        return covers
+    for match in re.finditer(
+            r'<a href="[^"]*?sniperalley\.photo/([a-z0-9-]+?)(?:-en)?/"[^>]*class="photographers_box">'
+            r'\s*<div class="image" style="background-image: url\(\'([^\']+)\'\);?"',
+            raw):
+        covers[match.group(1)] = strip_wayback(match.group(2))
+    return covers
+
+
+def parse_tribute_sections(raw: str) -> list[dict]:
+    """Ordered fullpage.js sections: [{image: url|None, paragraphs: [...]}]."""
+    css_backgrounds = {}
+    for match in re.finditer(
+            r"\.mcw-fp-section_([0-9a-f]+)\s+\.fp-bg\{[^}]*?background-image:url\(([^)]+)\)", raw):
+        css_backgrounds[match.group(1)] = strip_wayback(match.group(2).strip("'\""))
+
+    sections = []
+    parts = re.split(r'<div[^>]+class="[^"]*mcw-fp-section[^"]*mcw-fp-section_([0-9a-f]+)[^"]*"', raw)
+    for i in range(1, len(parts), 2):
+        section_hash, chunk = parts[i], parts[i + 1]
+        image = css_backgrounds.get(section_hash)
+        if image and (any(hint in image for hint in SKIP_IMAGE_HINTS)
+                      or not re.search(r"/wp-content/uploads/.*\.(?:jpg|jpeg|png)$", image, flags=re.I)):
+            image = None
+        sections.append({"image": image, "paragraphs": extract_paragraphs(chunk)})
+    return sections
+
+
 def convert_memoriam(photographer_meta: dict) -> list[str]:
     (CONTENT / "memoriam").mkdir(parents=True, exist_ok=True)
     missing = []
+    tile_covers = parse_memorial_covers()
     name_to_gallery = {}
     for gallery_slug, info in photographer_meta.items():
         if info.get("name"):
@@ -239,7 +300,8 @@ def convert_memoriam(photographer_meta: dict) -> list[str]:
         title_match = re.search(r"<title[^>]*>(.*?)[|<]", raw, flags=re.S)
         name = clean_text(title_match.group(1)) if title_match else slug.replace("-", " ").title()
         main = page_main(raw)
-        paragraphs = extract_paragraphs(main)
+        sections = parse_tribute_sections(raw)
+        paragraphs = [p for section in sections for p in section["paragraphs"]] or extract_paragraphs(main)
         born = died = None
         joined = " ".join(paragraphs[:3]) + " " + name
         dates_match = re.search(r"\((?:[^)]*?)?(\d{4})\s*-\s*(?:[^)]*?)?(\d{4})\)", joined) or \
@@ -255,26 +317,56 @@ def convert_memoriam(photographer_meta: dict) -> list[str]:
                     gallery_slug = value
                     break
 
-        cover_rel = None
-        dest = MEDIA / "memoriam" / slug / "cover.jpg"
-        if dest.exists() and dest.stat().st_size > 1000:
-            cover_rel = "cover.jpg"
-        else:
-            image_match = re.search(r'(?:data-src|src)="([^"]*?/wp-content/uploads/[^"]+?\.(?:jpg|jpeg|png))"', main, flags=re.I)
-            if image_match:
-                image_url = strip_wayback(image_match.group(1))
-                data = wayback_fetch(image_url)
-                if data and len(data) > 1000:
-                    dest.parent.mkdir(parents=True, exist_ok=True)
-                    dest.write_bytes(data)
-                    cover_rel = "cover.jpg"
+        media_dir = MEDIA / "memoriam" / slug
 
-        excerpt = paragraphs[0][:200] if paragraphs else ""
+        def download_image(url: str, filename: str) -> str | None:
+            dest = media_dir / filename
+            if dest.exists() and dest.stat().st_size > 1000:
+                return filename
+            data = wayback_fetch(url)
+            if data and len(data) > 1000:
+                dest.parent.mkdir(parents=True, exist_ok=True)
+                dest.write_bytes(data)
+                return filename
+            return None
+
+        # banner: first section image; inline: the rest, in slide order
+        section_images = [section["image"] for section in sections if section["image"]]
+        banner_rel = None
+        if section_images:
+            banner_rel = download_image(section_images[0], ascii_filename(section_images[0].rsplit("/", 1)[-1]))
+
+        # tile cover from the listing page, fallback to banner
+        cover_rel = None
+        if slug in tile_covers:
+            cover_rel = download_image(tile_covers[slug], "cover.jpg")
+        legacy_cover = media_dir / "cover.jpg"
+        if cover_rel is None and legacy_cover.exists():
+            cover_rel = "cover.jpg"
+
+        # body: interleave section text with inline images
+        body_parts = []
+        first_image_used = False
+        for section in sections:
+            if section["image"]:
+                if not first_image_used:
+                    first_image_used = True
+                else:
+                    filename = download_image(section["image"], ascii_filename(section["image"].rsplit("/", 1)[-1]))
+                    if filename:
+                        body_parts.append(f"![{name}](/media/memoriam/{slug}/{filename})")
+            body_parts.extend(section["paragraphs"])
+        if not body_parts:
+            body_parts = paragraphs
+
+        excerpt = next((p for p in paragraphs if len(p) > 40), paragraphs[0] if paragraphs else "")[:200]
         lines = ["---", f"name: {yaml_quote(name)}"]
         if born:
             lines.append(f"born: {born}")
         if died:
             lines.append(f"died: {died}")
+        if banner_rel:
+            lines.append(f"banner: {banner_rel}")
         if cover_rel:
             lines.append(f"cover: {cover_rel}")
         if gallery_slug:
@@ -282,8 +374,8 @@ def convert_memoriam(photographer_meta: dict) -> list[str]:
         if excerpt:
             lines.append(f"excerpt: {yaml_quote(excerpt)}")
         lines.append("---")
-        body = "\n\n".join(paragraphs)
-        (CONTENT / "memoriam" / f"{slug}.md").write_text("\n".join(lines) + "\n" + body + "\n", encoding="utf-8")
+        (CONTENT / "memoriam" / f"{slug}.md").write_text(
+            "\n".join(lines) + "\n" + "\n\n".join(body_parts) + "\n", encoding="utf-8")
     log(f"memoriam written: {len(MEMORIAL_SLUGS) - len(missing)} (missing: {missing})")
     return missing
 
@@ -317,11 +409,66 @@ def convert_page(slug: str, out_name: str, title: str, media_subdir: str | None 
             body_parts.append("The photographs from the original page. Move them into "
                               "place in the text wherever they belong.")
             for i in range(1, index + 1):
-                body_parts.append(f"![Photo {i}](media/pages/{media_subdir}/image-{i:02d}.jpg)")
+                body_parts.append(f"![Photo {i}](/media/pages/{media_subdir}/image-{i:02d}.jpg)")
 
     lines = ["---", f"title: {yaml_quote(title)}", "---"]
     (CONTENT / "pages" / f"{out_name}.md").write_text("\n".join(lines) + "\n" + "\n\n".join(body_parts) + "\n", encoding="utf-8")
     return True
+
+
+FOOTER_HINTS = ("All Rights Reserved", "SWITCH THE LANGUAGE")
+
+
+def convert_my_story() -> None:
+    """My Story keeps its slide backgrounds: first becomes the page hero
+    background, the rest are placed inline at their narrative positions."""
+    raw = read_page("my-story")
+    if raw is None:
+        return
+    sections = parse_tribute_sections(raw)
+    if not any(section["image"] for section in sections):
+        convert_page("my-story", "my-story", "My Story", media_subdir="my-story")
+        return
+    media_dir = MEDIA / "pages" / "my-story"
+    for stale in media_dir.glob("image-*.jpg"):
+        stale.unlink()
+
+    def download_image(url: str) -> str | None:
+        filename = ascii_filename(url.rsplit("/", 1)[-1])
+        dest = media_dir / filename
+        if dest.exists() and dest.stat().st_size > 1000:
+            return filename
+        data = wayback_fetch(url)
+        if data and len(data) > 1000:
+            dest.parent.mkdir(parents=True, exist_ok=True)
+            dest.write_bytes(data)
+            return filename
+        return None
+
+    background = None
+    body_parts = []
+    first_image_used = False
+    for section in sections:
+        if section["image"]:
+            filename = download_image(section["image"])
+            if filename:
+                if not first_image_used:
+                    background = filename
+                    first_image_used = True
+                else:
+                    body_parts.append(f"![My Story](/media/pages/my-story/{filename})")
+        for paragraph in section["paragraphs"]:
+            if any(hint in paragraph for hint in FOOTER_HINTS) or paragraph.startswith(("©", "(c) ")):
+                continue
+            body_parts.append(paragraph)
+
+    lines = ["---", 'title: "My Story"']
+    if background:
+        lines.append(f"background: {background}")
+    lines.append("---")
+    (CONTENT / "pages" / "my-story.md").write_text(
+        "\n".join(lines) + "\n" + "\n\n".join(body_parts) + "\n", encoding="utf-8")
+    log(f"my-story written with {sum(1 for s in sections if s['image'])} images")
 
 
 def convert_survivor_stories() -> None:
@@ -381,37 +528,46 @@ def convert_sketches() -> None:
 
 # --------------------------------------------------------------------- stories
 
+# The definitive episode list for THE STORY BEHIND THE PHOTO.
+# (video id, title, season, episode, date, photographer slug)
+# Video ids and dates come from the channel feed:
+# https://www.youtube.com/feeds/videos.xml?channel_id=UCwUNPs8hHJyMYKtrgxnOnbQ
+EPISODES = [
+    ("APwSekSbogc", "Enrico Dagnino", 1, 1, "2019-12-05", "enrico-dagnino"),
+    ("jRzAKSCYCJs", "Thomas Haley", 1, 2, "2020-09-02", "thomas-haley"),
+    ("a_g3yxKvHnk", "Christopher Morris", 1, 3, "2021-01-22", "christopher-morris"),
+    ("nzopsXy_jCQ", "Enric Martí", 1, 4, "2023-11-18", "enric-marti"),
+    ("xdtQLJvfgLs", "Peter Kullmann", 1, 5, "2024-03-02", "peter-kullmann"),
+    ("AapubaSUgJQ", "Zoran Filipović Zoro", 1, 6, "2024-08-09", "zoran-filipovic"),
+    ("mYTmjTLQbUo", "Staffan Löfving", 2, 1, "2024-12-27", "staffan-lofving"),
+    ("nlqVFJr1hEs", "Mario Boccia", 2, 2, "2025-01-03", "mario-boccia"),
+    ("7d4JUepxmX4", "David Barker", 2, 3, "2025-02-28", "david-barker"),
+    ("Um20d8BJ2co", "Paul Lowe", 2, 4, "2025-04-04", "paul-lowe-1963-2024"),
+    ("jB-onZx6XuA", "Rikard Larma", 2, 5, "2025-09-27", "rikard-larma"),
+]
+
+
 def convert_stories() -> None:
-    raw = read_page("video-en")
-    if raw is None:
-        log("WARNING: video-en.html not fetched, skipping stories")
-        return
-    video_ids = []
-    for match in re.finditer(r'(?:data-src|src)="[^"]*?youtube(?:-nocookie)?\.com/embed/([A-Za-z0-9_-]{6,})', raw):
-        if match.group(1) not in video_ids:
-            video_ids.append(match.group(1))
     (CONTENT / "stories").mkdir(parents=True, exist_ok=True)
-    for index, video_id in enumerate(video_ids):
-        title = f"Story Behind Photo {index + 1}"
-        try:
-            oembed_url = ("https://www.youtube.com/oembed?format=json&url="
-                          + urllib.parse.quote(f"https://www.youtube.com/watch?v={video_id}", safe=""))
-            with urllib.request.urlopen(urllib.request.Request(oembed_url, headers=UA), timeout=30) as response:
-                title = clean_text(json.load(response).get("title") or title)
-        except Exception:
-            pass
-        slug = ascii_slugify(title)[:60]
+    newest = max(EPISODES, key=lambda episode: episode[4])
+    for video_id, name, season, episode, date, photographer in EPISODES:
+        slug = f"{ascii_slugify(name)}-s{season}e{episode}"
         lines = [
             "---",
-            f"title: {yaml_quote(title)}",
+            f"title: {yaml_quote(name)}",
+            f"photographer: {photographer}",
+            f"season: {season}",
+            f"episode: {episode}",
             f"youtube: {video_id}",
-            f'date: "{2021 + index}-01-01"',
+            f'date: "{date}"',
+            f"excerpt: {yaml_quote(f'{name} tells the story behind the photo. Season {season}, episode {episode}.')}",
         ]
-        if index == 0:
+        if video_id == newest[0]:
             lines.append("featured: true")
         lines.append("---")
-        (CONTENT / "stories" / f"{slug}.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
-    log(f"stories written: {len(video_ids)}")
+        body = "Lead DOP & Videographer Emir Jordamović.\n"
+        (CONTENT / "stories" / f"{slug}.md").write_text("\n".join(lines) + "\n" + body, encoding="utf-8")
+    log(f"stories written: {len(EPISODES)}")
 
 
 # ---------------------------------------------------------------------- press
@@ -521,7 +677,7 @@ def main() -> None:
     photographer_stats = convert_photographers(manifest, meta)
     memoriam_missing = convert_memoriam(meta)
 
-    convert_page("my-story", "my-story", "My Story", media_subdir="my-story")
+    convert_my_story()
     convert_page("mission", "mission", "Mission")
     convert_page("stories", "stories", "Stories of Others")
     convert_survivor_stories()

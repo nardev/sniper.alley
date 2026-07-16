@@ -38,6 +38,9 @@
                 @endforeach
             </div>
             <p class="hidden py-16 text-center text-mist" data-filter-empty>No posts in this category yet.</p>
+            <div class="mt-10 text-center">
+                <button type="button" data-load-more class="btn-outline hidden">View older posts</button>
+            </div>
         @endif
     </section>
 

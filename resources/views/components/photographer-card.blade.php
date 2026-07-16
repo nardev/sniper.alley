@@ -14,7 +14,7 @@
     <div class="aspect-[4/3] overflow-hidden bg-smoke">
         @if ($cover)
             <img src="{{ asset($cover) }}" alt="{{ $item['name'] ?? $item['slug'] }}" loading="lazy"
-                 class="h-full w-full object-cover grayscale transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0">
+                 class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]">
         @else
             <div class="flex h-full w-full items-center justify-center text-4xl font-display text-white/30">{{ mb_substr($item['name'] ?? '?', 0, 1) }}</div>
         @endif
@@ -22,7 +22,7 @@
     @if ($thumbs->isNotEmpty())
         <div class="grid grid-cols-3 gap-px bg-black/10">
             @foreach ($thumbs as $thumb)
-                <img src="{{ asset($thumb) }}" alt="" loading="lazy" class="aspect-[4/3] w-full object-cover grayscale">
+                <img src="{{ asset($thumb) }}" alt="" loading="lazy" class="aspect-[4/3] w-full object-cover">
             @endforeach
         </div>
     @endif

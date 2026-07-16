@@ -1,5 +1,6 @@
 ---
 title: "My Story"
+background: bg_1.jpg
 ---
 WAR
 
@@ -23,6 +24,8 @@ Almost at the end of the war, in May 1995, during a truce between both sides, if
 
 Those moments, that day, I will never forget. I remember our last meal, the last chocolate we shared and the clothes he was wearing, his watch stained with his blood. I took the watch for myself, wouldn’t wash it for days after that, still don’t know why. How come I remember breakfast from that day, how is that possible? So many details are in my head. He was killed from an infamous ‘Špicasta Stijena’. I was 12 and he was 16 the day he was killed. Since then I see life before and after his death while others see it before and after the war. 3rd of May 1995 is the date forever engrained in my memory. It was the day my childhood ended. Truce they said, no such thing existed in the Serbian war manual.
 
+![My Story](/media/pages/my-story/BROTHERS.jpg)
+
 My brother (left) and me (right) before the war, circa 1991. Maybe the last photo with two of us together.
 
 TODAY
@@ -42,6 +45,8 @@ There are other kids and families who have similar and maybe worse tragedies tha
 That’s one of the reasons we made this website. 
 The aim is to find, locate and archive photos taken in Sarajevo, Bosnia during the war from the period 1992 - 1996. This website will document the war from people like myself and my family who went through it. We would like to credit and acknowledge the brave and courageous photographers who lived it with us and bore witness to our suffering. Some of whom tragically lost their lives in the process. This website will honour those brave war photographers whose work allowed the world to see what was happening to us.
 
+![My Story](/media/pages/my-story/DZENAZA.jpg)
+
 This is the photo by Anja Niedringhaus, it is from the funeral of my brother. 6th of May 1995.
 
 Occasionally, at least once a year I look through photos from my brother’s funeral. My family has a photo album dedicated to my brother only, from him being a baby till his murder. I go through the pictures, think of those times, imagine events, laugh and contemplate. 
@@ -49,7 +54,11 @@ The end of the album is only funeral pictures, family members, friends and some 
 
 As I searched and searched, I discovered many great shots and really stunning pictures of Sarajevo under siege. Amongst her work I found one photo from my brother’s funeral. Maybe I’m being too optimistic, but if there is one photo she took - maybe she had more, considering the two cameras around her neck. It could be archived or lost somewhere. Sadly, she was killed in 2014 in Afghanistan while covering elections that year. I can’t ask her for photos but I can ask others who were at the funeral. I just need to track them down and find out their identities. This photo of a young Anja, a 30 year-old war photographer, maybe her family would love to have it or some of her friends would love to see it. Out of respect for her I’m seriously considering visiting her family and her grave in Germany, Hoxter.
 
+![My Story](/media/pages/my-story/ANJA_NIEDRINGHAUS.jpg)
+
 Anja Niedringhaus 6th of May 1995.
+
+![My Story](/media/pages/my-story/FATHER_AND_SON.jpg)
 
 Anja Niedringhaus behind me and my late father,
 6th of May 1995.
@@ -90,5 +99,3 @@ Franz Schubert - Sonata in A Minor, D.959 - II. Andantino
 Performed by: Charlie Albright (piano)
 Boston: Isabella Stewart Gardner Museum
 Creative Commons Attribution-NonCommercial-NoDerivs 4.0
-
-© 2023 Sniper Alley. All Rights Reserved.

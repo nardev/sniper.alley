@@ -2,6 +2,7 @@
 name: "Alexandra Boulat"
 born: 1962
 died: 2007
+cover: cover.jpg
 photographer: alexandra-boulat-1962-2007
 excerpt: "Alexandra Boulat was born in Paris, France, May 2, 1962. She was originally studying graphic design and art history at the Beaux Arts in Paris. She followed in the steps of her father, photographer Pi"
 ---

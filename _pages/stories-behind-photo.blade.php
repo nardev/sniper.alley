@@ -4,6 +4,7 @@
     $title = 'Stories Behind Photo';
     $stories = collect(Content::stories());
     $featured = Content::featuredStory();
+    $seasons = $stories->groupBy(fn ($item) => (int) ($item['season'] ?? 0))->sortKeysDesc();
     $photographerOptions = $stories->pluck('photographer')->filter()->unique()
         ->map(fn ($slug) => ['slug' => $slug, 'name' => Content::photographer($slug)['name'] ?? $slug])
         ->sortBy('name');
@@ -37,7 +38,9 @@
                     <div>
                         <p class="kicker">Featured story</p>
                         <h2 class="mt-2 font-display text-3xl font-bold">{{ $featured['title'] }}</h2>
-                        <p class="mt-2 text-sm font-semibold text-accent">{{ Content::photographer($featured['photographer'] ?? null)['name'] ?? '' }}</p>
+                        <p class="mt-2 text-sm font-semibold text-accent">
+                            Season {{ $featured['season'] ?? '' }}, episode {{ $featured['episode'] ?? '' }}
+                        </p>
                         @if ($featured['excerpt'] ?? false)
                             <p class="mt-3 leading-relaxed text-ink/80">{{ $featured['excerpt'] }}</p>
                         @endif
@@ -46,10 +49,21 @@
                 </div>
             @endif
 
-            <div class="mt-10 grid gap-5 sm:grid-cols-2 lg:grid-cols-3" data-filter-grid>
-                @foreach ($stories as $item)
-                    <div data-photographer="{{ $item['photographer'] ?? '' }}">
-                        @include('components.story-card', ['item' => $item])
+            <div data-filter-grid>
+                @foreach ($seasons as $seasonNumber => $seasonStories)
+                    <div class="mt-12 flex items-center gap-4" data-season-header>
+                        <h2 class="font-display text-2xl font-bold">
+                            {{ $seasonNumber ? 'Season '.$seasonNumber : 'Stories' }}
+                        </h2>
+                        <span class="h-1 w-10 {{ (int) $seasonNumber === 2 ? 'bg-accent' : 'bg-ink/30' }}"></span>
+                        <span class="text-sm text-mist">{{ $seasonStories->count() }} episodes</span>
+                    </div>
+                    <div class="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-3" data-season-grid>
+                        @foreach ($seasonStories->sortBy(fn ($item) => (int) ($item['episode'] ?? 0)) as $item)
+                            <div data-photographer="{{ $item['photographer'] ?? '' }}">
+                                @include('components.story-card', ['item' => $item])
+                            </div>
+                        @endforeach
                     </div>
                 @endforeach
             </div>

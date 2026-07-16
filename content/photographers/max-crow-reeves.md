@@ -4,7 +4,7 @@ role: Photojournalist
 portrait: sniper_alley_max_crow_reeves_01.jpg
 photos:
   - file: sniper_alley_max_crow_reeves_01.jpg
-    credit: "(c) Max Crow Reeves"
+    credit: "Photo Copyright (c) Max Crow Reeves"
 ---
 Max Reeves is a self-taught photographer whose work looks at issues of Myth, Marginality and Genius Loci and embraces a range of styles.
 Born in Papakura, Aoteoroa/New Zealand in 1966 he studied English, History and Philosophy at Auckland University before moving to London in 1990. He lives in Spitalfields in the East End.

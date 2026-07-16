@@ -33,9 +33,9 @@
                             <div class="relative aspect-video w-32 shrink-0 overflow-hidden bg-smoke">
                                 @php $thumb = Content::storyCover($story) @endphp
                                 @if ($thumb)
-                                    <img src="{{ asset($thumb) }}" alt="" loading="lazy" class="h-full w-full object-cover grayscale">
+                                    <img src="{{ asset($thumb) }}" alt="" loading="lazy" class="h-full w-full object-cover">
                                 @elseif (Content::storyThumbnail($story))
-                                    <img src="{{ Content::storyThumbnail($story) }}" alt="" loading="lazy" class="h-full w-full object-cover grayscale">
+                                    <img src="{{ Content::storyThumbnail($story) }}" alt="" loading="lazy" class="h-full w-full object-cover">
                                 @endif
                             </div>
                             <div>

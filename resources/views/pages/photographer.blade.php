@@ -23,7 +23,7 @@
             <div class="mt-8 grid items-start gap-10 lg:grid-cols-3">
                 <div class="flex gap-6 lg:col-span-2">
                     @if ($portrait)
-                        <img src="{{ asset($portrait) }}" alt="{{ $item['name'] }}" class="h-40 w-40 shrink-0 object-cover grayscale sm:h-52 sm:w-52">
+                        <img src="{{ asset($portrait) }}" alt="{{ $item['name'] }}" class="h-40 w-40 shrink-0 object-cover sm:h-52 sm:w-52">
                     @endif
                     <div>
                         <h1 class="font-display text-3xl font-bold sm:text-4xl">{{ $item['name'] }}</h1>
@@ -73,7 +73,7 @@
                             data-full="{{ asset($photo['path']) }}"
                             data-caption="{{ trim(($photo['caption'] ?? '').' '.($photo['credit'] ?? '')) }}">
                         <img src="{{ asset($photo['path']) }}" alt="{{ $photo['caption'] ?? 'Photo by '.$item['name'] }}" loading="lazy"
-                             class="aspect-[4/3] w-full object-cover grayscale transition duration-500 group-hover:scale-[1.03] group-hover:grayscale-0">
+                             class="aspect-[4/3] w-full object-cover transition duration-500 group-hover:scale-[1.03]">
                     </button>
                 @endforeach
             </div>

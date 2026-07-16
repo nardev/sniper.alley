@@ -2,6 +2,7 @@
 name: "Salko Hondo"
 born: 1938
 died: 1992
+cover: cover.jpg
 excerpt: "Salko Hondo was born in 1938 in Konjic. He was a photo reporter and the head of the photo department of the Oslobođenje daily newspaper. On July 16, 1992, he lost his life on an assignment when he wen"
 ---
 Salko Hondo was born in 1938 in Konjic. He was a photo reporter and the head of the photo department of the Oslobođenje daily newspaper. On July 16, 1992, he lost his life on an assignment when he went to the Ciglane neighborhood in Sarajevo to take pictures of citizens waiting in line for water, armed with water canisters. Salko Hondo moved to Sarajevo in 1960. That same year he married his wife Nura. He got a job at Oslobođenje, where he worked for more than 30 years. In the early 70s, Salko was first a laboratory assistant, and a little later he started working as a photojournalist. In 1976 and 1978, he won the annual Oslobođenje Journalist Award.

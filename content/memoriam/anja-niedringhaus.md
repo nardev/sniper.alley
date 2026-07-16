@@ -2,6 +2,8 @@
 name: "Anja Niedringhaus"
 born: 1965
 died: 2014
+banner: 01-ANJA-scaled.jpg
+cover: cover.jpg
 photographer: anja-niedringhaus-1965-2014
 excerpt: "Anja Niedringhaus was born in Höxter - North Rhine-Westphalia, Germany, and began working as a freelance photographer at age of 17 while still in high school. In 1989, she covered the collapse of the "
 ---
@@ -14,20 +16,28 @@ She began full-time work as a photojournalist in 1990 when she joined the Europe
 “My career in journalism began as a freelancer. I had just finished university where I studied literature, philosophy and journalism. I was never supposed to cover the war in Yugoslavia. My editor thought I was too young and a woman with no experience covering conflicts. It didn’t seem possible. I had covered the fall of the Berlin Wall and a couple of other assignments, including trips with the Pope, but never a conflict. Still, I refused to give up because I believed the job of a real journalist would be to cover a war like this in the middle of Europe. I wrote a long letter to my boss telling him why I had to go and why he needed to send me. I don’t remember the words I wrote but whatever they were, they convinced him. One week later, I was on the road. In my first week in Croatia, I was hit by a sniper but the bullet grazed my flak jacket.”
 Anja Niedringhaus
 
+![Anja Niedringhaus](/media/memoriam/anja-niedringhaus/07-ANJA-1.jpg)
+
 Bosnian children get fun on the homemade swing, as schools are closed for security reasons in Sarajevo, 28 November 1994.
 Anja Niedringhaus | EPA
 
 “Living in a city under siege brought us together and we shared everything with each other. If one had pasta or fresh fruit, she shared it with the other. I remember one night I got a message on my walkie-talkie from an AP colleague who had got hold of some pasta. I was told to make my way to their office to share it with them, but to get there I had to go through sniper alley. That part of Sarajevo was constantly under attack. Snipers chased people as we moved through the streets like rabbits. That pasta evening, the sniping was relentless. I jumped into my car with another colleague and we tried to shield the front window with our bulletproof vests. We screamed out of the garage at full speed. I was hiding so far down in the car while still trying to drive I could hardly see the street in front of me. I drove so fast we got to the pasta party without a single bullet in the car. I remember that night like it was yesterday.”
 Anja Niedringhaus
 
+![Anja Niedringhaus](/media/memoriam/anja-niedringhaus/ANJA_NIEDRINGHAUS-scaled.jpg)
+
 Anja Niedringhaus covering the funeral of Amel Hodzic, sixteen year old boy killed by sniper from notorious ‘Spicasta Stijena’
 6 May 1995, Sarajevo.
+
+![Anja Niedringhaus](/media/memoriam/anja-niedringhaus/08-ANJA.jpg)
 
 Friends pray at Amel’s funeral, 6 May 1995, Sarajevo.
 Anja Niedringhaus | EPA
 
 “What was also unique for Sarajevo was the camaraderie. No matter who was working for whom, we never let competition put anyone in danger or stand in the way of our co-operation. Even today when I meet my colleagues from those days, it is as if it were yesterday. Time slips away. I felt in that war in Sarajevo the sense of the community of journalists as a family. It was so unique and in the 20 years since then, I have never found it again.”
 Anja Niedringhaus
+
+![Anja Niedringhaus](/media/memoriam/anja-niedringhaus/06-ANJA.jpg)
 
 “Sarajevo was home for me for many years. Friendships I made then have been lasting.”
 
@@ -47,6 +57,8 @@ In 2005, Anja Niedringhaus became the first German woman to win the Pulitzer, sh
 
 Two of her photographs were part of the AP’s Pulitzer entry. Many of the images are deeply disturbing but you won’t soon forget Niedringhaus’ image of an American soldier in camouflage fatigues on a rubble strewn city street, facing away from the camera, a tiny GI Joe in camouflage fatigues strapped to his back.
 
+![Anja Niedringhaus](/media/memoriam/anja-niedringhaus/09-ANJA.jpg)
+
 A U.S. Marine of the 1st Division carries a mascot for good luck in his backpack as his unit pushed further into the western part of Fallujah. 14 November 2004, Iraq.
 Anja Niedringhaus | AP
 
@@ -60,8 +72,12 @@ In a memo to staff, AP President Gary Pruitt remembered Niedringhaus as “spiri
 
 “Anja is the 32nd AP staffer to give their life in pursuit of the news since AP was founded in 1846,” he wrote. “This is a profession of the brave and the passionate, those committed to the mission of bringing to the world information that is fair, accurate and important. Anja Niedringhaus met that definition in every way.” Gary Pruitt
 
+![Anja Niedringhaus](/media/memoriam/anja-niedringhaus/03-ANJA-Grave.jpg)
+
 Anja Niedringhaus eternal resting place in Höxter.
 You can watch short video of her funeral here.
+
+![Anja Niedringhaus](/media/memoriam/anja-niedringhaus/ANJA-COVER-2.jpg)
 
 “I could have stayed out of trouble most of my life but I have been always drawn to the people who suffer in difficult situations.
 The real difficulties and the real courage belong to those who are subjected against their will to conflicts.”

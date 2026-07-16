@@ -72,22 +72,25 @@ Then put the image files in `_media/photographers/jane-doe/` (same folder name a
 
 ## Adding a story behind photo (video)
 
-Create `content/stories/the-story-slug.md`:
+Create `content/stories/jane-doe-s2e6.md`:
 
 ```markdown
 ---
-title: "The Day the Bridge Fell"
+title: "Jane Doe"
 photographer: jane-doe        # slug of a photographer file, optional
+season: 2                     # groups the story on the page and colors the card chip
+episode: 6
 date: "2026-05-12"
 youtube: dQw4w9WgXcQ          # the YouTube video id (the part after v= in the URL)
 duration: "12:33"             # optional, shown on the card
-location: "Sarajevo, Bosnia and Herzegovina"   # optional
 excerpt: "One or two teaser sentences for cards and the featured block."
 featured: true                # optional, exactly one story should have this
 cover: cover.jpg              # optional, file in _media/stories/<slug>/; without it the YouTube thumbnail is used
 ---
-Optional article text shown under the video.
+Optional article text shown under the video, for example the crew credit.
 ```
+
+Stories are grouped by season on the page (newest season first) and each card carries a season chip: Season 1 gray, Season 2 red. New seasons work automatically.
 
 ## Adding an In Memoriam page
 
@@ -98,11 +101,17 @@ Create `content/memoriam/jane-doe.md`:
 name: "Jane Doe"
 born: 1960
 died: 2010
-cover: cover.jpg              # file in _media/memoriam/jane-doe/
+banner: 00_JANE_EN.png        # wide image in _media/memoriam/jane-doe/, becomes the header background
+cover: cover.jpg              # smaller image for listing tiles; falls back to the banner
 photographer: jane-doe        # slug of the photographer file, links the gallery
-excerpt: "Short line shown on tiles."
+excerpt: "Short line shown on tiles and under the name."
 ---
 The tribute text, in Markdown.
+
+![Jane Doe](/media/memoriam/jane-doe/01_JANE.jpg)
+
+More text. Inline photos are ordinary Markdown images pointing into
+/media/memoriam/jane-doe/, placed wherever they belong in the story.
 ```
 
 Also add `memoriam: jane-doe` to the photographer file so the profile links back to the tribute.
@@ -121,6 +130,22 @@ image: latest/my-post/cover.jpg   # optional, file under _media/
 link: "https://example.com/article"    # optional, adds a Read the original button
 ---
 The post body in Markdown.
+```
+
+The Latest page shows 12 posts at a time; the "View older posts" button reveals more. This is automatic.
+
+### Embedding social media posts and videos
+
+Raw HTML is allowed in post bodies, so paste the embed code the platform gives you:
+
+- X/Twitter: paste the blockquote embed code from the post's "Embed post" menu (without the script tag; it loads automatically).
+- Instagram: paste the embed code from the post's "Embed" menu (script loads automatically).
+- Facebook: paste the post/video embed markup (SDK loads automatically).
+- YouTube: paste the iframe embed code, or wrap it for correct proportions:
+
+```html
+<div style="aspect-ratio: 16/9"><iframe src="https://www.youtube-nocookie.com/embed/VIDEOID"
+  style="width:100%;height:100%" allowfullscreen loading="lazy"></iframe></div>
 ```
 
 ## Publishing on GitHub

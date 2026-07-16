@@ -2,6 +2,8 @@
 name: "Abbas Attar"
 born: 1944
 died: 2018
+banner: 00-ABBAS-scaled.jpg
+cover: cover.jpg
 photographer: abbas-attar-1944-2018
 excerpt: "Abbas Attar better known by his mononym Abbas was born 29 March 1944 in Khash, Iran. He was known for dramatic black and white photographs delivered with a point of view. Abbas was a member of Sipa Pr"
 ---
@@ -16,8 +18,12 @@ Abbas Attar
 
 From 1978 to 1980, Abbas photographed the revolution in Iran. When the events that resulted in the overthrow of Shah Mohammed Reza Pahlavi in 1979 began, Abbas supported change, but he soon became disillusioned with Ayatollah Ruhollah Khomeini, who took over the government. “When the revolution started, it was democratic. It was my country, my people and my revolution. Then, slowly, it was being hijacked.” Abbas Attar
 
+![Abbas Attar](/media/memoriam/abbas-attar/01-ABBAS.jpg)
+
 Demonstrators carry a poster of Khomeini, Tehran, January 1979.
 Abbas Attar
+
+![Abbas Attar](/media/memoriam/abbas-attar/02-ABBAS.jpg)
 
 Grand Ayatollah Kazem Shariatmadari meets with Ayatollah Khomeini, Qom, March 3, 1979.
 Abbas Attar
@@ -25,6 +31,8 @@ Abbas Attar
 It was then that Abbas decided to focus his camera on the religions of the world. “Before the Iran revolution I had no desire to photograph religion,” he explains. “But covering the revolution for two years I could see that the waves of passion [that were] raised by the revolution were not going to stop at the borders of Iran.”
 
 “Well obviously, I didn’t know who these mullahs were… Then you find out. And they became more important. So I knew they were there, therefore they were important… As a photographer you just photograph everybody.” Abbas Attar
+
+![Abbas Attar](/media/memoriam/abbas-attar/03-ABBAS.jpg)
 
 An unknown cleric carries a gun, Tehran, February 1979.
 Gallery of Iranian Revolution
@@ -35,6 +43,8 @@ Abbas Attar
 He left the country in 1980 and during his years of exile, Abbas travelled constantly. Between 1983 and 1986 he journeyed through Mexico, attempting to photograph a country as a novelist might write about it. The resulting exhibition and book, Return to Mexico: Journeys Beyond the Mask, helped define his photographic aesthetic. From 1987 to 1994, he focused on the resurgence of Islam throughout the world. Allah O Akbar: A Journey Through Militant Islam (1994), the subsequent book and exhibition, spanning 29 countries and four continents, attracted special attention after the 9/11 attacks by Islamic jihadists.
 
 “The choice was to think of oneself either as a photojournalist or an artist. It wasn’t out of humility that I called myself a photojournalist, but arrogance. I thought photojournalism was superior. I know that some photographers have big egos, but photography is simple. In the morning, you put a roll of film in your camera and today you don’t even have to do this with digital. You take to the streets, you come back home, edit your photographs and show them. It’s that simple.” Abbas Attar
+
+![Abbas Attar](/media/memoriam/abbas-attar/05-ABBAS_2-scaled.jpg)
 
 “I ask questions, I don’t leave answers. My readers should look for their answers. I give them the evidence, I hope. And the evidence is not objective, because my work is very subjective. But I try to be fair. I try to show as many aspects of the problem as possible.“
 
@@ -48,8 +58,12 @@ Abbas Attar
 
 Abbas covered ‘Sarajevo under the Siege’, Bosnia and Herzegovina. He came to Sarajevo in 1993 and left behind a wealth of striking images and compelling photo essays which remain among the finest examples of photojournalism. This little tribute to him and his work is but a scratch on the surface, so make sure to visit his Magnum profile to learn more about the iconic photographer and be inspired with all his works.
 
+![Abbas Attar](/media/memoriam/abbas-attar/07-ABBAS.jpg)
+
 In the frontline district of Dobrinja, garbage containers and sandbags protect passers-by from Serbian sniper fire. A young boy runs along, his small height making it unnecessary for him to duck down like adults when they cross the Bridge of Death. 1993, Sarajevo. The rest of his gallery from Sarajevo.
 Abbas Attar | Magnum
+
+![Abbas Attar](/media/memoriam/abbas-attar/08-ATTAR.jpg)
 
 Despite its accompanying cold, Sarajevans love snow. While falling, it protects them from Serbian sniper fire. Children skid on sledges, unaware of the danger of mortar or artillery fire which can strike any part of the city at any time. 1993, Sarajevo.
 Abbas Attar | Magnum
@@ -67,11 +81,15 @@ According to Abbas, there are two approaches to photography: one is writing with
 
 Abbas, an Iranian transplanted to Paris, returned to Iran in 1997 after a 17-year voluntary exile. His book Iran Diary 1971-2002 is a critical interpretation of its history, photographed and written as a personal diary. “What was fascinating about Abbas was that he was very tough and rough but, at the same time, very sweet and kind, and extremely fair. I found this mixture really unusual,” says Kamy Pakdel, the director of a documentary about the Iranian image-maker, titled Abbas by Abbas. “His behavior and character were really reflected in his pictures.” says Kamy Pakdel.
 
+![Abbas Attar](/media/memoriam/abbas-attar/15-ABBAS.jpg)
+
 “I don’t just make stories about what’s happening. I’m making stories about my way of seeing what’s happening.”
 
 Abbas Attar
 
 “He was a pillar of Magnum, a godfather for a generation of younger photojournalists. Citizen of the world who relentlessly documented; its wars, its disasters, its revolutions and upheavals, and its beliefs - all his life. It is with immense sadness that we lose him. May the gods and angels of all the world’s major religions he photographed so passionately, be there for him.” Magnum president Thomas Dworzak
+
+![Abbas Attar](/media/memoriam/abbas-attar/14-ABBAS.jpg)
 
 “Let the photos live their lives and keep their mystery.”
 

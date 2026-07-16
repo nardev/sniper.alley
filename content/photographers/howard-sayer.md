@@ -4,37 +4,37 @@ role: Photojournalist
 portrait: sniper_alley_howard_sayer_01.jpg
 photos:
   - file: sniper_alley_howard_sayer_01.jpg
-    credit: "(c) Howard Sayer"
+    credit: "sniper_alley_howard_sayer_01"
   - file: sniper_alley_howard_sayer_02.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_03.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_04.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_05.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_06.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_07.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_08.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_09.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_10.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_11.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_12.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_13.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_14.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_15.jpg
-    credit: "(c) Howard Sayer"
+    credit: "Photo Copyright (c) Howard Sayer"
   - file: sniper_alley_howard_sayer_16.jpg
-    credit: "(c) Howard Sayer"
+    credit: "sniper_alley_howard_sayer_16"
 ---
 Howard Sayer began working as a press photographer in London in the early
 1990s. In 1995 he travelled overland into Sarajevo from the UK in an ambulance

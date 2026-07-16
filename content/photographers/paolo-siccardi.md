@@ -4,31 +4,31 @@ role: Photojournalist
 portrait: sniper_alley_paolo_siccardi_13.jpg
 photos:
   - file: sniper_alley_paolo_siccardi_01.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_02.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_03.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_04.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_05.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_06.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_07.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_08.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_09.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_10.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_11.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_12.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_13.jpg
-    credit: "(c) Paolo Siccardi"
+    credit: "Photo Copyright (c) Paolo Siccardi"
 ---
 Paolo Siccardi, journalist and freelance photoreporter, he is the author of several books and photographic exhibitions.Since 2000 he has collaborated exclusively with the Italian magazine "Famiglia Cristiana" for all reportages.
 He began his career in the 80s, at the end of the "Years of Lead", documenting the first trials in Turin for terrorism and workers' struggles. Among his most significant works was the conflict over Afghanistan, from the soviet occupation in 1986 to the ISAF mission in 2009.

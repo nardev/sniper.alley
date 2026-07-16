@@ -4,25 +4,34 @@ role: Photojournalist
 portrait: sniper_alley_gilbert_le_vast_07.jpg
 photos:
   - file: sniper_alley_gilbert_le_vast_01.jpg
-    credit: "(c) Gilbert Le Vast"
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
   - file: sniper_alley_gilbert_le_vast_02.jpg
-    credit: "(c) Gilbert Le Vast"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
   - file: sniper_alley_gilbert_le_vast_03.jpg
-    credit: "(c) Gilbert Le Vast"
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
   - file: sniper_alley_gilbert_le_vast_04.jpg
-    credit: "(c) Gilbert Le Vast"
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
   - file: sniper_alley_gilbert_le_vast_05.jpg
-    credit: "(c) Gilbert Le Vast"
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
   - file: sniper_alley_gilbert_le_vast_06.jpg
-    credit: "(c) Gilbert Le Vast"
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
   - file: sniper_alley_gilbert_le_vast_07.jpg
-    credit: "(c) Gilbert Le Vast"
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
   - file: sniper_alley_gilbert_le_vast_08.jpg
-    credit: "(c) Gilbert Le Vast"
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
   - file: sniper_alley_gilbert_le_vast_09.jpg
-    credit: "(c) Gilbert Le Vast"
+    caption: "Mostar 1993"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
   - file: sniper_alley_gilbert_le_vast_10.jpg
-    credit: "(c) Gilbert Le Vast"
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Gilbert Le Vast"
 ---
 Gilbert Le Vast is an artist and a professional photographer who seeks to create all kinds of techniques such as collage, highlighting shadows and lights which are particular and powerful in his works.
 He started photography in 1970. He worked for the La Manche Libre newspaper, the Zaï photo agency and the Gamma agency, which led him to follow the siege of Sarajevo. It was in 1993 that he opened his eyes to other visual techniques. He was introduced to painting, spontaneously and passionately. Painting becomes his priority and his main activity.
