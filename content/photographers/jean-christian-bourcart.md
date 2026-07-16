@@ -109,7 +109,13 @@ photos:
   - file: sniper_alley_jean_christian_bourcart_40.jpg
     caption: "Sarajevo 1993"
     credit: "Photo Copyright (c) Jean-Christian Bourcart"
+  - file: sniper_alley_jean_christian_bourcart_41.jpg
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Jean-Christian Bourcart"
   - file: sniper_alley_jean_christian_bourcart_42.jpg
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Jean-Christian Bourcart"
+  - file: sniper_alley_jean_christian_bourcart_43.jpg
     caption: "Sarajevo 1993"
     credit: "Photo Copyright (c) Jean-Christian Bourcart"
   - file: sniper_alley_jean_christian_bourcart_44.jpg

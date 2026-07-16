@@ -16,4 +16,16 @@ photos:
     credit: "Photo Copyright (c) Michael Stravato"
   - file: sniper_alley_michael_stravato_05.jpg
     credit: "Photo Copyright (c) Michael Stravato"
+  - file: sniper_alley_michael_stravato_06.jpeg
+    caption: "A Bosnian Muslim woman weeps over one of the many graves in a Sarajevo cemetery, April 18, 1993."
+    credit: "Photo Copyright (c) Michael Stravato"
+  - file: sniper_alley_michael_stravato_07.jpg
+    caption: "A boy tries to keep warm with a small fire in a trash dump in front of his house in Sarajevo on Wednesday, March 10, 1993."
+    credit: "Photo Copyright (c) Michael Stravato"
+  - file: sniper_alley_michael_stravato_08.jpg
+    caption: "A man watches as a pack of about a dozen homeless dogs run through Sarajevo streets in search of food on Sunday, March 14, 1993. Many people who fled Sarajevo during the siege by Serbian forces left their dogs to fend for themselves in the city streets."
+    credit: "Photo Copyright (c) Michael Stravato"
+  - file: sniper_alley_michael_stravato_09.jpg
+    caption: "Men on a once-forested hill dig out the stumps of trees to use as fuel for their stoves, Sunday, March 14, 1993 in Sarajevo. Wood has become one of the most precious commodities in Sarajevo following the siege by Serbian forces and the cold winter temperatures."
+    credit: "Photo Copyright (c) Michael Stravato"
 ---

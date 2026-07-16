@@ -14,4 +14,12 @@ photos:
   - file: sniper_alley_delmi_alvarez_04.jpg
     caption: "A orphan child look out the window in the Sarajevo Hospital , august 1993."
     credit: "Photo Copyright (c) Delmi Alvarez"
+  - file: sniper_alley_delmi_alvarez_05.jpg
+    credit: "Photo Copyright (c) Delmi Alvarez"
+  - file: sniper_alley_delmi_alvarez_06.jpg
+    caption: "Ulica Kralja Tvrtka"
+    credit: "Photo Copyright (c) Delmi Alvarez"
+  - file: sniper_alley_delmi_alvarez_07.jpg
+    caption: "Ulica Kralja Tvrtka"
+    credit: "Photo Copyright (c) Delmi Alvarez"
 ---

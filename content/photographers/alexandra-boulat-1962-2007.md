@@ -5,6 +5,36 @@ died: 2007
 role: Photojournalist
 portrait: sniper_alley_alexandra_boulat_11.jpg
 photos:
+  - file: sniper_alley_alexandra_boulat_01.jpg
+    caption: "Pedestrians on Sniper Alley back road, protected by cars and containers walls from the snipers shots. Sarajevo, October 1993. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
+  - file: sniper_alley_alexandra_boulat_02.jpg
+    caption: "Sniper Alley under the rain. Sarajevo, October 1993. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
+  - file: sniper_alley_alexandra_boulat_03.jpg
+    caption: "Demirovic family. The father cooks coffee in his apartment building stairs. Sarajevo, October 1993. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
+  - file: sniper_alley_alexandra_boulat_04.jpg
+    caption: "© Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
+  - file: sniper_alley_alexandra_boulat_05.jpg
+    caption: "Sarajevo, August 1993. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
+  - file: sniper_alley_alexandra_boulat_06.jpg
+    caption: "Grbavica, a child runs over the rubbles. Sarajevo, March 1996. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
+  - file: sniper_alley_alexandra_boulat_07.jpg
+    caption: "Grbavica reintegration. Sarajevo, March 1996. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
+  - file: sniper_alley_alexandra_boulat_08.jpg
+    caption: "Grbavica. Sarajevo, March 1996. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
+  - file: sniper_alley_alexandra_boulat_09.jpg
+    caption: "Zlata Filipovic coming back from getting water. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
+  - file: sniper_alley_alexandra_boulat_10.jpg
+    caption: "Zlata Filipovic Lith her diary in the ruins of a building in Sarajevo. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
+    credit: "Photo Copyright (c) Alexandra Boulat"
   - file: sniper_alley_alexandra_boulat_11.jpg
     caption: "Zlata Filipovic writting her diary under the candle light. © Alexandra Boulat / Association Pierre & Alexandra Boulat"
     credit: "Photo Copyright (c) Alexandra Boulat"

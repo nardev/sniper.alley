@@ -1,6 +1,7 @@
 ---
 name: "Zoran Filipović Zoro"
 role: Photojournalist
+portrait: sniper_alley_zoran_filipovic_01.jpg
 photos:
   - file: sniper_alley_zoran_filipovic_01.jpg
     caption: "Sarajevans waiting in line for water, January 1993, Bistrik - Sarajevo."

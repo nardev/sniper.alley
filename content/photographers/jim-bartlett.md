@@ -27,6 +27,15 @@ photos:
   - file: sniper_alley_jim_bartlett_08.jpg
     caption: "Sarajevo 1993"
     credit: "Photo Copyright (c) Jim Bartlett"
+  - file: sniper_alley_jim_bartlett_09.jpg
+    caption: "Travnik"
+    credit: "Photo Copyright (c) Jim Bartlett"
+  - file: sniper_alley_jim_bartlett_10.jpg
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Jim Bartlett"
+  - file: sniper_alley_jim_bartlett_11.jpg
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Jim Bartlett"
 ---
 Jim Bartlett was one of many unaffiliated freelancers who worked in Croatia and Bosnia during the war, and afterward. 
 "I was a good photographer, but realistically had little or no idea of how to be a photojournalist. I was fortunate enough to find many good mentors, and a lot of support from the people of Croatia and Bosnia. They get a lions share of the credit for this body of work. Looking back through these images, it's staggers the mind to see just how young most of us were."

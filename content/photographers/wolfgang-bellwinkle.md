@@ -1,43 +1,63 @@
 ---
 name: "Wolfgang Bellwinkel"
 role: Photojournalist
+portrait: sniper_alley_wolfgang_bellwinkel_01.jpg
 photos:
   - file: sniper_alley_wolfgang_bellwinkel_01.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Kinder in Ost-Mostar, Dezember 1993, Bosnien-Herzegowina# children in East Mostar, December 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_02.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Überfahrt bei Pag, August 1993, Bosnien-Herzegowina# Crossing, near Pag, August 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_03.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Verlorengegangene Hilfsgüter, bei Prozor, Ost-Mostar, Mai 1993, Bosnien-Herzegowina# lost humanitarian goods, near Prozor, East Mostar, May 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_04.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Blick aus dem Holiday Inn, Sarajevo, Januar 1994, Bosnien-Herzegowina# View from the Holiday Inn, Sarajevo, January 1994, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_05.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Barrikade zum Schutz gegen Scharfschützen, Sarajevo, März 1994, Bosnien-Herzegowina# Barricade to protect against snipers, Sarajevo, March 1994, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_06.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "beim Wasserholen, Ost-Mostar, Januar 1994, Bosnien-Herzegowina# getting water, East Mostar, January 1994, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_07.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Junge warnt Passanten nach einem Granatangriff Zenica, April 1993, Bosnien-Herzegowina# A boy warning passers - by after a grenade attack, Zenica, April 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_08.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Wasser holende Menschen werden von einem Scharfschützen unter Feuer genommen, Sarajevo, Januar 1994, Bosnien-Herzegowina# People getting water are shot at by snipers, Sarajevo, January 1994, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_09.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "eine alte Frau sucht nach unverdorbenen Orangen, Mostar, September 1993, Bosnien-Herzegowina# an old woman looking for unspoilt oranges, Mostar, September 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_10.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Zenica, April 1993, Bosnien-Herzegowina# Zenica, April 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_11.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Friedhof am Olympia-Stadion Sarajevo, März 1994, Bosnien-Herzegowina# Cemetery at the Olympic Stadion, Sarajevo, March 1994, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_12.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Junge und Milizionäre, Vitez, Mai 1994, Bosnien-Herzegowina# Boy and Militiamen, Vitez, May 1994, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_13.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Schwerverwundete werden ausgeflogen, Medugorje, September 1993, Bosnien-Herzegowina# badly wounded being flown out, Medugorje, September 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_14.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Militärpolizist, Ost-Mostar, September 1993, Bosnien-Herzegowina# Military policeman, East Mostar, September 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_15.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Zenica, April 1993, Bosnien-Herzegowina# Zenica, April 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_16.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Sylvesterfeier, Ost-Mostar, Dezember 1993, Bosnien-Herzegowina# New Year`s Party, East Mostar, December 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_17.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Weihnachtsessen, Ost-Mostar, Dezember 1993, Bosnien-Herzegowina# Christmas dinner, East Mostar, December 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_18.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "Flüchtlingsfamilie im Kellerraum, Ost-Mostar, Januar 1994, Bosnien-Herzegowina# refugee family in a cellar, East Mostar, January 1994, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
   - file: sniper_alley_wolfgang_bellwinkel_19.jpg
-    credit: "(c) Wolfgang Bellwinkel"
+    caption: "nach einem Granatangriff, Ost-Mostar, Dezember 1993, Bosnien-Herzegowina# after a grenade attack, East Mostar, December 1993, Bosnia-Herzegovina"
+    credit: "Photo Copyright (c) Wolfgang Bellwinkel"
 ---

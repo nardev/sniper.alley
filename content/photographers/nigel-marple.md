@@ -1,6 +1,9 @@
 ---
 name: "Nigel Marple"
+born: 1963
+died: 2025
 role: Photojournalist
+portrait: sniper_alley_nigel_marple_01.jpg
 photos:
   - file: sniper_alley_nigel_marple_01.jpg
     credit: "Photo Copyright (c) Nigel Marple"

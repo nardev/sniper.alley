@@ -3,8 +3,51 @@ name: "Serge Mouraret"
 role: Photojournalist
 portrait: sniper_alley_serge_mouraret_13.jpg
 photos:
+  - file: sniper_alley_serge_mouraret_01.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_02.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_03.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_04.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_05.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_06.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_07.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_08.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_09.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_10.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_11.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_12.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
   - file: sniper_alley_serge_mouraret_13.jpg
-    credit: "(c) Serge Mouraret"
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_14.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
+  - file: sniper_alley_serge_mouraret_15.jpg
+    caption: "Sarajevo, January 1993"
+    credit: "Photo Copyright (c) Serge Mouraret"
 ---
 After almost 20 years of analogic photography, shooting pictures distributed by international press agencies - Imapress, Cinestar, AFP, Reuters, and published in different magazines and newspapers, and more or less 20 others of digital cameras use, working successively for Demotix, Corbis, Getty Image and Citizenside, I’ve got my independence back, sharing my time between the production of press subjects before assigning their exclusive distribution to Alamy News and Stock Photos agency. 
 At 63, I want to get rid of any obligation, sharing my time between the production of pictures and subjects I’m insterested in and a more experimental practice of photography, coming back to what I feel like the origines of the photography - from ancien greek : write with the light - and using negative films in toy and vintage analogic cameras, considering the pleasure of being totally responsible of my pictures, despite any so called imperfections due to low quality plastic lenses and disused camera bodies. 

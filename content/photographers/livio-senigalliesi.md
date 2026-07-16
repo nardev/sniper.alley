@@ -3,8 +3,27 @@ name: "Livio Senigalliesi"
 role: Photojournalist
 portrait: sniper_alley_livio_senigalliesi_03.jpg
 photos:
+  - file: sniper_alley_livio_senigalliesi_01.jpg
+    caption: "Two young members of the Jewish Community hidden in the basement of the Synagogue due to heavy bombing. Sarajevo, Bosnia and Herzegovina, 1995"
+    credit: "Photo Copyright (c) Livio Senigalliesi"
+  - file: sniper_alley_livio_senigalliesi_02.jpg
+    caption: "Last day of war in Grbavica. A mixed family apartment set on fire by neighbors. At that time I was living in this flat. Living with people has always been my way of understanding war. Sarajevo, Bosnia and Herzegovina, 18 March 1996"
+    credit: "Photo Copyright (c) Livio Senigalliesi"
   - file: sniper_alley_livio_senigalliesi_03.jpg
-    credit: "(c) Livio Senigalliesi"
+    caption: "Children’ everyday life during the Siege. Sarajevo, Bosnia and Herzegovina, 1992"
+    credit: "Photo Copyright (c) Livio Senigalliesi"
+  - file: sniper_alley_livio_senigalliesi_04.jpg
+    caption: "Dangerous crossroad in Skenderija under snipers’ fire. Sarajevo, Bosnia and Herzegovina, 1994"
+    credit: "Photo Copyright (c) Livio Senigalliesi"
+  - file: sniper_alley_livio_senigalliesi_05.jpg
+    caption: "Vijećnica, the old Library, is the symbol of the siege and destruction of Sarajevo. Sarajevo, Bosnia and Herzegovina, 1994"
+    credit: "Photo Copyright (c) Livio Senigalliesi"
+  - file: sniper_alley_livio_senigalliesi_06.jpg
+    caption: "Sarajevo is starving. A child in search of food in the Hrasno district. Sarajevo, Bosnia and Herzegovina, 1994"
+    credit: "Photo Copyright (c) Livio Senigalliesi"
+  - file: sniper_alley_livio_senigalliesi_07.jpg
+    caption: "Dobrinja district. Front line near the airport. Sarajevo, Bosnia and Herzegovina, 1994"
+    credit: "Photo Copyright (c) Livio Senigalliesi"
 ---
 LIVIO SENIGALLIESI, born in Milano 1956.
 Self-taught photographer, Senigalliesi begins the carrer at the end of the ‘70s taking pictures of social issues using the camera as a tool for social analysis. 

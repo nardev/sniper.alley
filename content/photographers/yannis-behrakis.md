@@ -1,9 +1,12 @@
 ---
 name: "Yannis Behrakis"
+born: 1960
+died: 2019
 role: Photojournalist
+portrait: yannis_behrakis_01.jpg
 photos:
   - file: yannis_behrakis_01.jpg
-    credit: "(c) Yannis Behrakis"
+    credit: "Photo Copyright (c) Yannis Behrakis"
   - file: yannis_behrakis_02.jpg
-    credit: "(c) Yannis Behrakis"
+    credit: "Photo Copyright (c) Yannis Behrakis"
 ---

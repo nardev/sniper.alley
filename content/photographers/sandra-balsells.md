@@ -23,6 +23,9 @@ photos:
   - file: sniper_alley_sandra_balsells_07.jpg
     caption: "Sarajevo 1993"
     credit: "Photo Copyright (c) Sandra Balsells"
+  - file: sniper_alley_sandra_balsells_08.jpg
+    caption: "Sarajevo 1993"
+    credit: "Photo Copyright (c) Sandra Balsells"
   - file: sniper_alley_sandra_balsells_09.jpg
     caption: "Sarajevo 1993"
     credit: "Photo Copyright (c) Sandra Balsells"

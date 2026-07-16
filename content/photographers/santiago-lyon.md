@@ -37,7 +37,7 @@ photos:
     caption: "Body bags are stacked high in front of coffins in one of Sarajevo's morgue on Thursday, May 8, 1992 in Sarajevo. At least 80 bodies are waiting to be identified and be taken away. Serbs fought Bosnian in Sarajevo Friday, turning the sky orange with the fires of explosions."
     credit: "Photo Copyright (c) Santiago Lyon | AP"
   - file: sniper_alley_santiago_lyon_18.jpg
-    caption: "A Bosnian man pauses in Sarajevo's military graveyard on Tuesday, June 16, 1992, after visiting a friend's grave. A cease-fire between Serbian and Bosnian forces seems to be holding, allowing residents of this city to bury their dead and come out onto the streets."
+    caption: "A Bosnian man pauses in Sarajevos military graveyard on Tuesday, June 16, 1992, after visiting a friends grave. A cease-fire between Serbian and Bosnian forces seems to be holding, allowing residents of this city to bury their dead and come out onto the streets."
     credit: "Photo Copyright (c) Santiago Lyon | AP"
   - file: sniper_alley_santiago_lyon_19.jpg
     caption: "A Bosnian looks back at the body of a young man killed by a sniper hours after a cease-fire went into effect, Monday, June 15, 1992 in Sarajevo. The man, an off-duty soldier, was killed as he walked home Monday morning along an exposed stretch of road."

@@ -29,6 +29,20 @@ photos:
     credit: "Photo Copyright (c) Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_13.jpg
     credit: "Photo Copyright (c) Paolo Siccardi"
+  - file: sniper_alley_paolo_siccardi_14.jpg
+    credit: "Photo Copyright (c) Paolo Siccardi"
+  - file: sniper_alley_paolo_siccardi_15.jpg
+    credit: "Photo Copyright (c) Paolo Siccardi"
+  - file: sniper_alley_paolo_siccardi_16.jpg
+    credit: "Photo Copyright (c) Paolo Siccardi"
+  - file: sniper_alley_paolo_siccardi_17.jpg
+    credit: "Photo Copyright (c) Paolo Siccardi"
+  - file: sniper_alley_paolo_siccardi_18.jpg
+    credit: "Photo Copyright (c) Paolo Siccardi"
+  - file: sniper_alley_paolo_siccardi_19.jpg
+    credit: "Photo Copyright (c) Paolo Siccardi"
+  - file: sniper_alley_paolo_siccardi_20.jpg
+    credit: "Photo Copyright (c) Paolo Siccardi"
 ---
 Paolo Siccardi, journalist and freelance photoreporter, he is the author of several books and photographic exhibitions.Since 2000 he has collaborated exclusively with the Italian magazine "Famiglia Cristiana" for all reportages.
 He began his career in the 80s, at the end of the "Years of Lead", documenting the first trials in Turin for terrorism and workers' struggles. Among his most significant works was the conflict over Afghanistan, from the soviet occupation in 1986 to the ISAF mission in 2009.

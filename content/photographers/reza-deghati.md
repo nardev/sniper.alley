@@ -4,21 +4,29 @@ role: Photojournalist
 portrait: sniper_alley_reza_deghati_01.jpg
 photos:
   - file: sniper_alley_reza_deghati_01.jpg
-    credit: "(c) Reza Deghati"
+    caption: "The air was chilling, and the city breathed to the rhythm of granted sentence respites. The deserted streets would sometimes come to life as a man ran wild risking his life for a little water or a loaf of bread under the snipers' eyes. She was standing there, like a motionless color stain in the cold dreariness of war. Without a word, without a move, she was selling her toys, testimony of a wasted life. I felt quite helpless facing such human injustice that forced a little girl to sell what was dearest to her, they were her companions, her childhood's guarantors. I saw her fighting silently in besieged Sarajevo. Bosnia and Herzegovina, Sarajevo, December 1993"
+    credit: "Photo Copyright (c) Reza Deghati"
   - file: sniper_alley_reza_deghati_02.jpg
-    credit: "(c) Reza Deghati"
+    caption: "Children playing, April 1994, Sarajevo - Bosnia and Herzegovina"
+    credit: "Photo Copyright (c) Reza Deghati"
   - file: sniper_alley_reza_deghati_03.jpg
-    credit: "(c) Reza Deghati"
+    caption: "Children playing, April 1994, Sarajevo - Bosnia and Herzegovina"
+    credit: "Photo Copyright (c) Reza Deghati"
   - file: sniper_alley_reza_deghati_04.jpg
-    credit: "(c) Reza Deghati"
+    caption: "Children playing, April 1994, Sarajevo - Bosnia and Herzegovina"
+    credit: "Photo Copyright (c) Reza Deghati"
   - file: sniper_alley_reza_deghati_05.jpg
-    credit: "(c) Reza Deghati"
+    caption: "Children playing, April 1994, Sarajevo - Bosnia and Herzegovina"
+    credit: "Photo Copyright (c) Reza Deghati"
   - file: sniper_alley_reza_deghati_06.jpg
-    credit: "(c) Reza Deghati"
+    caption: "Children playing, April 1994, Sarajevo - Bosnia and Herzegovina"
+    credit: "Photo Copyright (c) Reza Deghati"
   - file: sniper_alley_reza_deghati_07.jpg
-    credit: "(c) Reza Deghati"
+    caption: "Children playing, April 1994, Sarajevo - Bosnia and Herzegovina"
+    credit: "Photo Copyright (c) Reza Deghati"
   - file: sniper_alley_reza_deghati_08.jpg
-    credit: "(c) Reza Deghati"
+    caption: "Children playing, April 1994, Sarajevo - Bosnia and Herzegovina"
+    credit: "Photo Copyright (c) Reza Deghati"
 ---
 A philanthropist, idealist, humanist, Reza’s career began with studies in architecture. He has gone on to become a renowned photojournalist who, for the last three decades, has worked all over the world, notably for National Geographic. His assignments have taken him to over a hundred countries as a witness to humanity’s conflicts and catastrophes. His work is featured in the international media (National Geographic, Time Magazine, Stern, Newsweek, El País, Paris Match, Geo…), as well as a series of books, exhibitions and documentaries.
 Along with his work as a photographer, since 1983 Reza has been a volunteer committed to the training of youths and women from conflict-ridden societies in the language of images, to help them strive for a better world. In 2001, he founded Ainaworld in Afghanistan, a new generation NGO which trains populations in information and communications through the development of educational tools and adapted media. While pursuing his reportages for international media outlets, Reza has continued to conduct workshops on the language of images through his association Reza Visual Academy. He works with refugees, urban youths in Europe and different megacities in the world.

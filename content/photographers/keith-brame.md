@@ -3,8 +3,56 @@ name: "Keith Brame"
 role: Photojournalist
 portrait: sniper_alley_keith_brame_02.jpg
 photos:
+  - file: sniper_alley_keith_brame06.jpg
+    caption: "Childern in the war damaged streets of Mostar.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame07.jpg
+    caption: "Children in the war damaged streets of Mostar, BosniaWarchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_01.jpg
+    credit: "Photo Copyright (c) Keith Brame"
   - file: sniper_alley_keith_brame_02.jpg
-    credit: "(c) Keith Brame"
+    caption: "Children in the war damaged streets of Mostar, BosniaWarchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_03.jpg
+    caption: "\"Sniper Alley\" Sarajevo Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_04.jpg
+    caption: "Music therapy projects run by Warchild in Mostar, Bosnia.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_08.jpg
+    caption: "Children in the war damaged streets of Mostar, BosniaWarchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_09.jpg
+    caption: "Jas Elezovic taking part in the first music project in the Pavarotti Centre, before building and renovation work began.Music therapy projects run by Warchild in Mostar, Bosnia.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_10.jpg
+    caption: "Music therapy projects run by Warchild in Mostar, Bosnia.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_11.jpg
+    caption: "Brian Eno. Music therapy projects run by Warchild in Mostar, Bosnia.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_12.jpg
+    caption: "Music therapy projects run by Warchild in Mostar, Bosnia.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_13.jpg
+    caption: "Professor Nigel Osborne and Brian Eno leading music workshops in the Pavarotti centre before building work began.Music therapy projects run by Warchild in Mostar, Bosnia.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_14.jpg
+    caption: "Music therapy projects run by Warchild in Mostar, Bosnia.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_15.jpg
+    caption: "Children in the war damaged streets of Mostar, BosniaWarchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_16.jpg
+    caption: "Children in the war damaged streets of Mostar, BosniaWarchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_17.jpg
+    caption: "The first music project in the Pavarotti Centre, before building and renovation work began.Music therapy projects run by Warchild in Mostar, Bosnia.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
+  - file: sniper_alley_keith_brame_18.jpg
+    caption: "Children in the war damaged streets of Mostar, BosniaWarchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    credit: "Photo Copyright (c) Keith Brame"
 ---
 "I worked as a freelance editorial photographer in Edinburgh in Scotland in the 90s and 2000s.
 I specialised in music, performance and educational photographic subjects and magazines, like the Edinburgh International Festival or the Times Educational Supplement newspaper.

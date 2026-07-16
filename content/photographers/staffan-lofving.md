@@ -17,9 +17,6 @@ photos:
     credit: "Photo Copyright (c) Staffan Löfving"
   - file: sniper_alley_staffan_lofving_05.jpg
     credit: "Photo Copyright (c) Staffan Löfving"
-  - file: sniper_alley_staffan_lofving_06.jpg
-    caption: "Fahro Trtak, the teacher and my host, Sarajevo 1994"
-    credit: "Photo Copyright (c) Staffan Löfving"
   - file: sniper_alley_staffan_lofving_07.jpg
     caption: "Sarajevo 1994"
     credit: "Photo Copyright (c) Staffan Löfving"
@@ -45,7 +42,7 @@ photos:
     caption: "Sarajevo 1994"
     credit: "Photo Copyright (c) Staffan Löfving"
   - file: sniper_alley_staffan_lofving_15.jpg
-    caption: "Emperor’s Mosque, Sarajevo 1994"
+    caption: "Hafiz Selim ef. Hoši - Emperor’s Mosque, Sarajevo 1994"
     credit: "Photo Copyright (c) Staffan Löfving"
   - file: sniper_alley_staffan_lofving_16.jpg
     caption: "Emperor’s Mosque, Sarajevo 1994"
@@ -76,6 +73,54 @@ photos:
     credit: "Photo Copyright (c) Staffan Löfving"
   - file: sniper_alley_staffan_lofving_25.jpg
     caption: "Kovači, Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_26.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_27.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_28.jpeg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_29.jpeg
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_30.jpeg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_31.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_32.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_33.jpeg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_34.jpeg
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_35.jpeg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_36.jpeg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_38.jpeg
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_39.jpeg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_40.jpeg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_43.jpeg
+    caption: "Hafiz Selim ef. Hoši - Emperor’s Mosque, Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_44.jpeg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright (c) Staffan Löfving"
+  - file: sniper_alley_staffan_lofving_45.jpg
+    caption: "Sarajevo 1994"
     credit: "Photo Copyright (c) Staffan Löfving"
 ---
 Staffan Löfving, born in 1967, is an anthropologist based at Karlstad University and the University of Johannesburg. In the late 1980s and early 1990s, he pursued a career in photojournalism, taking him to zones of armed conflict in Latin America and Asia, to Mostar in 1993, and besieged Sarajevo in 1994. This sample of images from September 1994 was curated by artist and gallerist Saša Bukvić 

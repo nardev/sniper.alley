@@ -27,12 +27,39 @@ RAW = HERE / "raw"
 GALLERY_OUT = RAW / "live-gallery"
 PAGES_OUT = RAW / "live-pages"
 
-UA = {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"}
 BASE = "https://sniperalley.photo"
 DELAY = 0.8
 
 
+def build_headers() -> dict:
+    """Use the browser-solved Cloudflare session when available."""
+    session_file = RAW / "cf_session.json"
+    if session_file.exists():
+        session = json.loads(session_file.read_text())
+        cookies = "; ".join(f"{k}={v}" for k, v in session["cookies"].items())
+        return {"User-Agent": session["user_agent"], "Cookie": cookies}
+    return {"User-Agent": "Mozilla/5.0 (X11; Linux x86_64; rv:128.0) Gecko/20100101 Firefox/128.0"}
+
+
+UA = build_headers()
+
+
+_consecutive_fail = 0
+
+
+def refresh_session() -> None:
+    """Re-solve the Cloudflare challenge with a browser and reload cookies."""
+    global UA, _consecutive_fail
+    print("session refresh: re-solving Cloudflare challenge...", flush=True)
+    import subprocess
+    subprocess.run(["xvfb-run", "-a", "python3", str(HERE / "cf_clearance.py")],
+                   cwd=str(HERE), timeout=300)
+    UA = build_headers()
+    _consecutive_fail = 0
+
+
 def get(url: str, binary: bool = False, retries: int = 3):
+    global _consecutive_fail
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers=UA)
@@ -40,10 +67,23 @@ def get(url: str, binary: bool = False, retries: int = 3):
                 data = response.read()
             if b"Just a moment" in data[:2000]:
                 raise RuntimeError("Cloudflare challenge")
+            _consecutive_fail = 0
             return data if binary else data.decode("utf-8", errors="replace")
         except urllib.error.HTTPError as error:
             if error.code == 404:
                 return None
+            if error.code in (403, 503):
+                _consecutive_fail += 1
+                if _consecutive_fail >= 4:
+                    refresh_session()
+                    req = urllib.request.Request(url, headers=UA)
+                    try:
+                        with urllib.request.urlopen(req, timeout=120) as response:
+                            data = response.read()
+                        if b"Just a moment" not in data[:2000]:
+                            return data if binary else data.decode("utf-8", errors="replace")
+                    except Exception:
+                        pass
             time.sleep(5 * (attempt + 1))
         except Exception:
             time.sleep(5 * (attempt + 1))
@@ -60,7 +100,7 @@ def probe() -> bool:
 def gallery_slugs() -> list[str]:
     raw = get(f"{BASE}/photographers/")
     slugs = []
-    for match in re.finditer(r"/photographers/nggallery/photographers/([^\"/]+)", raw):
+    for match in re.finditer(r"/photographers/nggallery/photographers/([a-z0-9][a-z0-9-]*)", raw):
         slug = urllib.parse.unquote(match.group(1))
         if slug not in slugs:
             slugs.append(slug)
@@ -83,20 +123,28 @@ def fetch_gallery(slug: str) -> None:
     if not page:
         print(f"{slug}: GALLERY PAGE FAILED", flush=True)
         return
-    files = []
+    # The NextGEN folder can differ from the page slug (owner renamed the
+    # gallery but the folder kept its old name), so read the folder from the
+    # page rather than assuming it matches the slug.
+    files = []  # (folder, filename)
+    seen = set()
     for match in re.finditer(
-            r'data-src="[^"]*?/wp-content/gallery/' + re.escape(slug) + r'/([^/"]+?\.(?:jpg|jpeg|png|gif|webp))"',
+            r"/wp-content/gallery/([^/'\"]+)/([^/'\"?]+?\.(?:jpg|jpeg|png|gif|webp))(?:\?[^'\"]*)?['\"]",
             page, flags=re.I):
-        name = urllib.parse.unquote(match.group(1))
-        if name not in files:
-            files.append(name)
+        folder = match.group(1)
+        name = urllib.parse.unquote(match.group(2))
+        if "/cache/" in match.group(0) or "/thumbs/" in match.group(0) or folder in ("cache", "thumbs"):
+            continue
+        if name not in seen:
+            seen.add(name)
+            files.append((folder, name))
     ok = skip = fail = 0
-    for name in files:
+    for folder, name in files:
         dest = GALLERY_OUT / slug / name
         if dest.exists() and dest.stat().st_size > 1000:
             skip += 1
             continue
-        url = f"{BASE}/wp-content/gallery/{urllib.parse.quote(slug)}/{urllib.parse.quote(name)}"
+        url = f"{BASE}/wp-content/gallery/{urllib.parse.quote(folder)}/{urllib.parse.quote(name)}"
         data = get(url, binary=True)
         if data and len(data) > 1000:
             dest.parent.mkdir(parents=True, exist_ok=True)
