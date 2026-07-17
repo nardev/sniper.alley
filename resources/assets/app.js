@@ -1,4 +1,4 @@
-/* Site behavior: mobile nav, list filtering, category tabs, lightbox, search. */
+/* Site behavior: mobile nav, list filtering, category tabs, lightbox. */
 
 document.addEventListener('DOMContentLoaded', () => {
     initNav();
@@ -8,7 +8,6 @@ document.addEventListener('DOMContentLoaded', () => {
     initStoryFilter();
     initTabsWithPagination();
     initLightbox();
-    initSearch();
     initEmbeds();
 });
 
@@ -249,68 +248,3 @@ function initLightbox() {
     openFromHash();
 }
 
-function initSearch() {
-    const input = document.querySelector('[data-search-input]');
-    const results = document.querySelector('[data-search-results]');
-    const status = document.querySelector('[data-search-status]');
-    if (!input || !results) return;
-
-    const root = document.body.getAttribute('data-root') || '';
-    let index = null;
-    const typeLabels = {
-        photographer: 'Photographer',
-        story: 'Story Behind Photo',
-        memoriam: 'In Memoriam',
-        latest: 'Latest',
-    };
-
-    const load = async () => {
-        if (index) return index;
-        const response = await fetch(root + 'media/search.json');
-        index = await response.json();
-        return index;
-    };
-
-    const run = async () => {
-        const query = input.value.trim().toLowerCase();
-        if (query.length < 2) {
-            results.innerHTML = '';
-            if (status) status.textContent = 'Start typing to search the archive.';
-            return;
-        }
-        const data = await load();
-        const terms = query.split(/\s+/);
-        const scored = [];
-        for (const entry of data) {
-            const title = entry.title.toLowerCase();
-            const text = (entry.text || '').toLowerCase() + ' ' + (entry.meta || '').toLowerCase();
-            let score = 0;
-            for (const term of terms) {
-                if (title.includes(term)) score += 10;
-                if (text.includes(term)) score += 2;
-            }
-            if (score > 0) scored.push([score, entry]);
-        }
-        scored.sort((a, b) => b[0] - a[0]);
-        const top = scored.slice(0, 30);
-        if (status) status.textContent = top.length ? `${top.length} result${top.length === 1 ? '' : 's'}` : 'No results found.';
-        results.innerHTML = top.map(([, entry]) => `
-            <a href="${root}${entry.url}" class="block py-4 hover:bg-white">
-                <span class="kicker">${typeLabels[entry.type] || entry.type}</span>
-                <span class="mt-1 block font-display text-lg font-bold">${escapeHtml(entry.title)}</span>
-                ${entry.meta ? `<span class="block text-sm text-mist">${escapeHtml(entry.meta)}</span>` : ''}
-            </a>`).join('');
-    };
-
-    let timer = null;
-    input.addEventListener('input', () => {
-        clearTimeout(timer);
-        timer = setTimeout(run, 150);
-    });
-}
-
-function escapeHtml(value) {
-    const div = document.createElement('div');
-    div.textContent = value;
-    return div.innerHTML;
-}

@@ -36,7 +36,7 @@ Content changes (Markdown files, images) only need `php hyde build`.
 | Stories Behind Photo | `content/stories/<slug>.md` | /stories-behind-photo |
 | In Memoriam | `content/memoriam/<slug>.md` | /in-memoriam |
 | Latest (news feed) | `_posts/<slug>.md` | /latest |
-| My Story, Mission, Contact, Donate, Sketches, Stories of Others | `content/pages/<name>.md` | fixed pages |
+| My Story, Mission, Contact, Donate | `content/pages/<name>.md` | fixed pages |
 | Images | `_media/<section>/<slug>/` | copied to /media on build |
 | Header photo rotation | `content/headers/photos.md` | background of the section landing pages |
 
@@ -129,7 +129,7 @@ Create `_posts/my-post.md`:
 ---
 title: "New story coming soon"
 description: "One or two sentences shown on the card."
-category: announcement        # one of: announcement, media-mention, film, memorial, update
+category: announcement        # one of: announcement, media-mention, film, memorial, sketch, update
 date: "2026-07-15"
 image: latest/my-post/cover.jpg   # optional, file under _media/
 link: "https://example.com/article"    # optional, adds a Read the original button
@@ -161,7 +161,7 @@ Everything publishes automatically:
 2. Commit and push to `main` (or merge a pull request into `main`).
 3. GitHub Actions builds the site and deploys it to GitHub Pages. Takes about two minutes. Check the Actions tab for progress.
 
-You never commit `_site/`; the workflow builds it fresh every time. There is no separate "build the content" step to manage: every push rebuilds every page, including the search index.
+You never commit `_site/`; the workflow builds it fresh every time. There is no separate "build the content" step to manage: every push rebuilds every page.
 
 Preview a change before pushing with `php hyde build && php hyde serve`.
 

@@ -6,6 +6,7 @@
         'media-mention' => 'Media Mention',
         'film' => 'Film',
         'memorial' => 'Memorial',
+        'sketch' => 'Sketch',
         'update' => 'Update',
     ];
     $image = $post->matter('image');

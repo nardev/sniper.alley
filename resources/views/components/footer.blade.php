@@ -18,10 +18,7 @@
             <ul class="space-y-2 text-sm">
                 <li><a class="hover:text-white" href="{{ route('my-story-mission') }}">My Story</a></li>
                 <li><a class="hover:text-white" href="{{ route('contact') }}">Contact</a></li>
-                <li><a class="hover:text-white" href="{{ route('search') }}">Search</a></li>
                 <li><a class="hover:text-white" href="{{ route('donate') }}">Donate</a></li>
-                <li><a class="hover:text-white" href="{{ route('stories') }}">Stories of Others</a></li>
-                <li><a class="hover:text-white" href="{{ route('sketches') }}">Sketches</a></li>
             </ul>
         </nav>
         <div>

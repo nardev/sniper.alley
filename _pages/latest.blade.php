@@ -9,6 +9,7 @@
         'media-mention' => 'Media Mentions',
         'film' => 'Films',
         'memorial' => 'Memorials',
+        'sketch' => 'Sketches',
         'update' => 'Updates',
     ];
 

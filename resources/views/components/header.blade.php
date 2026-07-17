@@ -23,9 +23,6 @@
             @endforeach
         </nav>
         <div class="flex items-center gap-3">
-            <a href="{{ route('search') }}" class="p-1.5 text-white/70 transition-colors hover:text-white" aria-label="Search">
-                <svg class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
-            </a>
             <a href="{{ route('donate') }}" class="bg-accent px-4 py-2 text-xs font-bold uppercase tracking-widest transition-colors hover:bg-accent-deep">Donate</a>
             <div class="hidden items-center gap-3 xl:flex">
                 @include('components.social-links', ['class' => 'h-4 w-4 text-white/60 hover:text-white'])
