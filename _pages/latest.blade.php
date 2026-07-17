@@ -11,12 +11,19 @@
         'memorial' => 'Memorials',
         'update' => 'Updates',
     ];
+
+    // Header background: photos defined in content/headers/photos.md (latest),
+    // else a random photo drawn from every gallery.
+    $heroImage = Content::headerImage('latest',
+        collect(Content::photographers())->flatMap(fn ($p) => collect($p['photos'] ?? [])
+            ->map(fn ($ph) => Content::image('photographers', $p['slug'], $ph['file'] ?? null))));
 @endphp
 @section('main')
     @include('components.hero', [
         'heading' => 'Latest',
         'lede' => 'Updates, stories, and news from the archive. Honoring the past. Sharing it forward.',
         'compact' => true,
+        'image' => $heroImage,
     ])
 
     <section class="mx-auto max-w-7xl px-4 py-10 sm:px-6">

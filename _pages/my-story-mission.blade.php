@@ -7,7 +7,7 @@
 @endphp
 @section('main')
     @include('components.hero', [
-        'heading' => 'My Story / Mission',
+        'heading' => 'My Story',
         'lede' => 'Why this archive exists, told by its founder.',
         'compact' => true,
         'image' => ($story['background'] ?? null) ? 'pages/my-story/'.$story['background'] : 'site/hero.jpg',

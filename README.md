@@ -38,8 +38,13 @@ Content changes (Markdown files, images) only need `php hyde build`.
 | Latest (news feed) | `_posts/<slug>.md` | /latest |
 | My Story, Mission, Contact, Donate, Sketches, Stories of Others | `content/pages/<name>.md` | fixed pages |
 | Images | `_media/<section>/<slug>/` | copied to /media on build |
+| Header photo rotation | `content/headers/photos.md` | background of the section landing pages |
 
 The file name (without `.md`) becomes the page URL. Keep slugs lowercase with hyphens.
+
+The home page and the Photographers, Stories Behind Photo, and In Memoriam landing pages show a photo behind their title. Choose which photos rotate there by editing `content/headers/photos.md`: under `home`, `stories`, `photographers`, or `memoriam`, list image paths relative to `_media/` (for example `photographers/enrico-dagnino/photo.jpg`). One is picked at random each build. Leave a list empty to let the site pick a random photo from that section automatically.
+
+On a photographer's gallery, opening a photo updates the address bar (for example `.../photographers/corinne-dufka.html#photo=...`). Copying that link and opening it reopens the gallery on that exact photo.
 
 Frontmatter rules: put dates in quotes (`date: "2026-05-12"`), quote any text that contains a colon, and keep the `---` lines exactly as shown.
 

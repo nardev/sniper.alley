@@ -1,11 +1,11 @@
 @php
     $currentKey = ($page ?? null)?->getRouteKey() ?? '';
     $navItems = [
+        'latest' => 'Latest',
         'stories-behind-photo' => 'Stories Behind Photo',
         'photographers' => 'Photographers',
         'in-memoriam' => 'In Memoriam',
-        'latest' => 'Latest',
-        'my-story-mission' => 'My Story / Mission',
+        'my-story-mission' => 'My Story',
         'contact' => 'Contact',
     ];
 @endphp

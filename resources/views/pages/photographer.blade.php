@@ -67,9 +67,11 @@
     @if ($photos->isNotEmpty())
         <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6">
             <p class="kicker">Gallery</p>
+            <p class="mt-4 text-xs text-mist">Click a photo to open it. Photographs remain the property of their authors.</p>
             <div class="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4" data-gallery>
                 @foreach ($photos as $photo)
                     <button type="button" class="group block overflow-hidden bg-smoke text-left" data-gallery-item
+                            data-photo-id="{{ pathinfo($photo['file'] ?? '', PATHINFO_FILENAME) }}"
                             data-full="{{ asset($photo['path']) }}"
                             data-caption="{{ trim(($photo['caption'] ?? '').' '.($photo['credit'] ?? '')) }}">
                         <img src="{{ asset($photo['path']) }}" alt="{{ $photo['caption'] ?? 'Photo by '.$item['name'] }}" loading="lazy"
@@ -77,7 +79,6 @@
                     </button>
                 @endforeach
             </div>
-            <p class="mt-4 text-xs text-mist">Click a photo to open it. Photographs remain the property of their authors.</p>
         </section>
     @endif
 

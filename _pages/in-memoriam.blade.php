@@ -3,12 +3,18 @@
     use App\Content;
     $title = 'In Memoriam';
     $memorials = collect(Content::memoriam());
+
+    // Header background: photos defined in content/headers/photos.md (memoriam),
+    // else a random tribute portrait or banner.
+    $heroImage = Content::headerImage('memoriam',
+        $memorials->map(fn ($m) => Content::memorialTileImage($m)));
 @endphp
 @section('main')
     @include('components.hero', [
         'heading' => 'In Memoriam',
         'lede' => 'Remembering the photographers and journalists who bore witness to the siege and are no longer with us. Their work remains part of our collective memory.',
         'compact' => true,
+        'image' => $heroImage,
     ])
 
     <section class="bg-night text-white">

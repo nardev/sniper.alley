@@ -3,6 +3,8 @@
 document.addEventListener('DOMContentLoaded', () => {
     initNav();
     initPhotographerFilter();
+    initPhotographerSort();
+    initVerticalSlider();
     initStoryFilter();
     initTabsWithPagination();
     initLightbox();
@@ -52,6 +54,54 @@ function initPhotographerFilter() {
     };
     input.addEventListener('input', run);
     if (memoriamToggle) memoriamToggle.addEventListener('change', run);
+}
+
+function initPhotographerSort() {
+    const select = document.querySelector('[data-sort-select]');
+    const grid = document.querySelector('[data-filter-grid]');
+    if (!select || !grid) return;
+
+    const nameOf = (card) => card.getAttribute('data-filter-name') || '';
+    const countOf = (card) => parseInt(card.getAttribute('data-photo-count') || '0', 10);
+    const original = Array.from(grid.children);
+    const sorters = {
+        'name-asc': (a, b) => nameOf(a).localeCompare(nameOf(b)),
+        'name-desc': (a, b) => nameOf(b).localeCompare(nameOf(a)),
+        'photos-desc': (a, b) => countOf(b) - countOf(a) || nameOf(a).localeCompare(nameOf(b)),
+        'photos-asc': (a, b) => countOf(a) - countOf(b) || nameOf(a).localeCompare(nameOf(b)),
+    };
+
+    select.addEventListener('change', () => {
+        const sorter = sorters[select.value];
+        const ordered = sorter ? [...original].sort(sorter) : original;
+        // Re-append preserves each card's current display state (search/filter).
+        for (const card of ordered) grid.appendChild(card);
+    });
+}
+
+function initVerticalSlider() {
+    const root = document.querySelector('[data-vslider-root]');
+    if (!root) return;
+    const track = root.querySelector('[data-vslider]');
+    const up = root.querySelector('[data-vslider-up]');
+    const down = root.querySelector('[data-vslider-down]');
+    if (!track) return;
+
+    const step = () => Math.max(track.clientHeight * 0.8, 160);
+    const update = () => {
+        const desktop = window.innerWidth >= 1024;
+        const scrollable = desktop && track.scrollHeight - track.clientHeight > 4;
+        const atTop = track.scrollTop <= 2;
+        const atBottom = track.scrollTop + track.clientHeight >= track.scrollHeight - 2;
+        if (up) up.classList.toggle('hidden', !scrollable || atTop);
+        if (down) down.classList.toggle('hidden', !scrollable || atBottom);
+    };
+
+    if (up) up.addEventListener('click', () => track.scrollBy({ top: -step(), behavior: 'smooth' }));
+    if (down) down.addEventListener('click', () => track.scrollBy({ top: step(), behavior: 'smooth' }));
+    track.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+    update();
 }
 
 function initStoryFilter() {
@@ -148,7 +198,13 @@ function initLightbox() {
     const caption = box.querySelector('figcaption');
     let index = 0;
 
-    const show = (i) => {
+    const idOf = (item) => item.getAttribute('data-photo-id') || '';
+    const setHash = (id) => {
+        const hash = id ? '#photo=' + encodeURIComponent(id) : '';
+        history.replaceState(null, '', location.pathname + location.search + hash);
+    };
+
+    const show = (i, syncHash = true) => {
         index = (i + items.length) % items.length;
         const item = items[index];
         img.src = item.getAttribute('data-full');
@@ -157,11 +213,13 @@ function initLightbox() {
         box.classList.add('open');
         box.setAttribute('aria-hidden', 'false');
         document.body.style.overflow = 'hidden';
+        if (syncHash) setHash(idOf(item));
     };
     const close = () => {
         box.classList.remove('open');
         box.setAttribute('aria-hidden', 'true');
         document.body.style.overflow = '';
+        setHash('');
     };
 
     items.forEach((item, i) => item.addEventListener('click', () => show(i)));
@@ -177,6 +235,18 @@ function initLightbox() {
         if (event.key === 'ArrowLeft') show(index - 1);
         if (event.key === 'ArrowRight') show(index + 1);
     });
+
+    // Deep link: open the photo named in the URL (#photo=<id>) so a copied link
+    // reopens the gallery on that exact image.
+    const openFromHash = () => {
+        const match = /[#&]photo=([^&]+)/.exec(location.hash);
+        if (!match) return;
+        const id = decodeURIComponent(match[1]);
+        const target = items.findIndex((item) => idOf(item) === id);
+        if (target >= 0) show(target, false);
+    };
+    window.addEventListener('hashchange', openFromHash);
+    openFromHash();
 }
 
 function initSearch() {

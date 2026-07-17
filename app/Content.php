@@ -86,6 +86,39 @@ class Content
         return collect(static::stories())->first();
     }
 
+    /**
+     * Header background photos defined for a page in content/headers/photos.md.
+     * Returns only paths that exist under _media/. $key is stories, photographers, memoriam, etc.
+     *
+     * @return array<string>
+     */
+    public static function headerPhotos(string $key): array
+    {
+        $headers = static::$cache['headers'] ??= static::collection('headers');
+        $photos = $headers['photos'][$key] ?? [];
+
+        return collect(is_array($photos) ? $photos : [])
+            ->filter()
+            ->map(fn ($path): string => ltrim((string) $path, '/'))
+            ->filter(fn (string $path): bool => file_exists(Hyde::path("_media/{$path}")))
+            ->values()->all();
+    }
+
+    /**
+     * Pick one header background at random: a photo defined for $key in
+     * content/headers/photos.md, or, when none are set, a random photo from the
+     * given fallback pool (an iterable of _media-relative paths, nulls allowed).
+     */
+    public static function headerImage(string $key, iterable $fallback = []): ?string
+    {
+        $defined = static::headerPhotos($key);
+        $pool = $defined !== []
+            ? collect($defined)
+            : collect($fallback)->filter()->values();
+
+        return $pool->isNotEmpty() ? $pool->random() : null;
+    }
+
     /** Path for an image belonging to a collection item, or null when absent. */
     public static function image(string $collection, string $slug, ?string $file): ?string
     {

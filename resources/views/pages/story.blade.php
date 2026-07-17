@@ -3,73 +3,89 @@
     use App\Content;
     $slug = $item['slug'];
     $photographer = Content::photographer($item['photographer'] ?? null);
-    $related = collect(Content::stories())->reject(fn ($story) => $story['slug'] === $slug)->take(3);
-    $relatedPhotos = $photographer
+    $galleryUrl = $photographer ? route('photographers/'.$photographer['slug']) : null;
+    $galleryPhotos = $photographer
         ? collect($photographer['photos'] ?? [])
             ->map(fn ($photo) => $photo + ['path' => Content::image('photographers', $photographer['slug'], $photo['file'] ?? null)])
-            ->filter(fn ($photo) => $photo['path'])->take(4)
+            ->filter(fn ($photo) => $photo['path'])->values()
         : collect();
+    $headerPhoto = $galleryPhotos->first()['path'] ?? null;
+    $relatedPhotos = $galleryPhotos->take(8);
+    $related = collect(Content::stories())->reject(fn ($story) => $story['slug'] === $slug)->shuffle()->take(3);
 @endphp
 @section('main')
-    <section class="bg-night text-white">
-        <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6">
+    <section class="relative overflow-hidden bg-night text-white">
+        @if ($headerPhoto)
+            <img src="{{ asset($headerPhoto) }}" alt="" class="absolute inset-0 h-full w-full object-cover grayscale" loading="eager">
+            <div class="absolute inset-0 bg-gradient-to-t from-night via-night/80 to-night/50"></div>
+        @endif
+        <div class="relative mx-auto max-w-7xl px-4 py-12 sm:px-6 {{ $headerPhoto ? 'pt-24 lg:pt-40' : '' }}">
             <a href="{{ route('stories-behind-photo') }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">&larr; Back to stories</a>
-            <div class="mt-6 grid items-center gap-10 lg:grid-cols-2">
-                <div>
-                    <p class="kicker">Story Behind the Photo</p>
-                    <h1 class="mt-3 font-display text-4xl font-bold leading-tight sm:text-5xl">{{ $item['title'] }}</h1>
-                    @if ($photographer)
-                        <a href="{{ route('photographers/'.$photographer['slug']) }}" class="mt-3 inline-block font-semibold text-accent hover:text-white">{{ $photographer['name'] }}</a>
+            <div class="mt-6 max-w-3xl">
+                <p class="kicker">Story Behind the Photo</p>
+                <h1 class="mt-3 font-display text-4xl font-bold leading-tight sm:text-5xl">{{ $item['title'] }}</h1>
+                @if ($photographer)
+                    <a href="{{ $galleryUrl }}" class="mt-3 inline-block font-semibold text-accent hover:text-white">{{ $photographer['name'] }}</a>
+                @endif
+                <div class="mt-2 flex flex-wrap gap-x-5 gap-y-1 text-sm text-white/60">
+                    @if ($item['location'] ?? false)
+                        <span>{{ $item['location'] }}</span>
                     @endif
-                    <div class="mt-2 flex flex-wrap gap-x-5 gap-y-1 text-sm text-white/60">
-                        @if ($item['location'] ?? false)
-                            <span>{{ $item['location'] }}</span>
-                        @endif
-                        @if ($item['date'] ?? false)
-                            <span>{{ date('F j, Y', strtotime((string) $item['date'])) }}</span>
-                        @endif
-                    </div>
-                    @if ($item['excerpt'] ?? false)
-                        <p class="mt-5 max-w-lg leading-relaxed text-white/80">{{ $item['excerpt'] }}</p>
+                    @if ($item['date'] ?? false)
+                        <span>{{ date('F j, Y', strtotime((string) $item['date'])) }}</span>
                     @endif
                 </div>
-                @if ($item['youtube'] ?? false)
-                    <div class="aspect-video w-full bg-black">
-                        <iframe class="h-full w-full" src="https://www.youtube-nocookie.com/embed/{{ $item['youtube'] }}"
-                                title="{{ $item['title'] }}" loading="lazy" allowfullscreen
-                                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
-                    </div>
+                @if ($item['excerpt'] ?? false)
+                    <p class="mt-5 leading-relaxed text-white/80">{{ $item['excerpt'] }}</p>
                 @endif
             </div>
         </div>
     </section>
 
-    <section class="mx-auto max-w-7xl gap-12 px-4 py-12 sm:px-6 lg:grid lg:grid-cols-3">
-        <article class="lg:col-span-2">
-            @if (trim($item['body'] ?? '') !== '')
-                <p class="kicker">The story</p>
-                <div class="prose-site mt-4">{!! Content::renderMarkdown($item['body']) !!}</div>
-            @endif
-        </article>
-        @if ($relatedPhotos->isNotEmpty())
-            <aside class="mt-12 lg:mt-0">
-                <p class="kicker">Related photographs</p>
-                <div class="mt-4 space-y-4">
-                    @foreach ($relatedPhotos as $photo)
-                        <figure>
-                            <img src="{{ asset($photo['path']) }}" alt="{{ $photo['caption'] ?? '' }}" loading="lazy" class="w-full object-cover">
-                            @if ($photo['caption'] ?? false)
-                                <figcaption class="mt-1.5 text-xs text-mist">{{ $photo['caption'] }}</figcaption>
-                            @endif
-                        </figure>
-                    @endforeach
+    @if ($item['youtube'] ?? false)
+        <section class="mx-auto max-w-5xl px-4 pt-12 sm:px-6">
+            <div class="aspect-video w-full bg-black">
+                <iframe class="h-full w-full" src="https://www.youtube-nocookie.com/embed/{{ $item['youtube'] }}"
+                        title="{{ $item['title'] }}" loading="lazy" allowfullscreen
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"></iframe>
+            </div>
+        </section>
+    @endif
+
+    @if (trim($item['body'] ?? '') !== '')
+        <section class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+            <p class="kicker">The story</p>
+            <div class="prose-site mt-4">{!! Content::renderMarkdown($item['body']) !!}</div>
+        </section>
+    @endif
+
+    @if ($relatedPhotos->isNotEmpty())
+        <section class="bg-night text-white">
+            <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6">
+                <div class="flex items-end justify-between gap-4">
+                    <p class="kicker">Related photographs</p>
+                    @if ($galleryUrl)
+                        <a href="{{ $galleryUrl }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">View all photos &rarr;</a>
+                    @endif
                 </div>
-                @if ($photographer)
-                    <a href="{{ route('photographers/'.$photographer['slug']) }}" class="btn-outline mt-6 w-full justify-center">View all photos</a>
-                @endif
-            </aside>
-        @endif
-    </section>
+                <div class="marquee mt-5">
+                    <div class="marquee-track">
+                        @foreach ($relatedPhotos->concat($relatedPhotos) as $i => $photo)
+                            <a href="{{ $galleryUrl }}" class="group block w-64 shrink-0 me-4 sm:w-72" @if ($i >= $relatedPhotos->count()) aria-hidden="true" tabindex="-1" @endif>
+                                <div class="overflow-hidden bg-smoke">
+                                    <img src="{{ asset($photo['path']) }}" alt="{{ $photo['caption'] ?? 'Photograph by '.($photographer['name'] ?? '') }}" loading="lazy"
+                                         class="aspect-[4/3] w-full object-cover transition duration-500 group-hover:scale-[1.03]">
+                                </div>
+                                @if ($photo['caption'] ?? false)
+                                    <p class="mt-1.5 line-clamp-2 text-xs text-white/50">{{ $photo['caption'] }}</p>
+                                @endif
+                            </a>
+                        @endforeach
+                    </div>
+                </div>
+            </div>
+        </section>
+    @endif
 
     @if ($related->isNotEmpty())
         <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6">

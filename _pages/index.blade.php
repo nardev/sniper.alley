@@ -2,51 +2,108 @@
 @php
     use App\Content;
     $featured = Content::featuredStory();
-    $recentStories = collect(Content::stories())->reject(fn ($story) => $story['slug'] === ($featured['slug'] ?? null))->take(3);
-    $featuredPhotographers = collect(Content::photographers())->filter(fn ($item) => $item['featured'] ?? false)->take(4);
-    if ($featuredPhotographers->count() < 4) {
-        $featuredPhotographers = $featuredPhotographers->union(
-            collect(Content::photographers())->filter(fn ($item) => Content::photographerCover($item))->take(4)
-        )->take(4);
-    }
-    $memorials = collect(Content::memoriam())->take(3);
+    $featuredPhotographers = collect(Content::photographers())
+        ->filter(fn ($item) => Content::photographerCover($item))
+        ->shuffle()->take(4);
+    $memorials = collect(Content::memoriam())->shuffle()->take(3);
     $latestPosts = collect(Content::latest())->take(4);
+
+    // Header background: photos defined in content/headers/photos.md (home),
+    // else a random photo drawn from every gallery.
+    $heroImage = Content::headerImage('home',
+        collect(Content::photographers())->flatMap(fn ($p) => collect($p['photos'] ?? [])
+            ->map(fn ($ph) => Content::image('photographers', $p['slug'], $ph['file'] ?? null))));
 @endphp
 @section('main')
     @include('components.hero', [
         'heading' => 'Sniper Alley<br>Photo Archive',
         'lede' => 'Stories behind the photographs. Voices of the photographers. Memory of Sarajevo.',
+        'image' => $heroImage,
         'actions' => ($featured ? '<a href="'.e(route('stories-behind-photo/'.$featured['slug'])).'" class="btn-primary">Watch Latest Story</a>' : '')
             .'<a href="'.e(route('photographers')).'" class="btn-outline text-white">Explore Photographers</a>',
     ])
 
     @if ($featured)
+        @php
+            $allStories = collect(Content::stories())
+                ->sortBy([['season', 'asc'], ['episode', 'asc']])->values();
+            $featuredPhotographer = Content::photographer($featured['photographer'] ?? null);
+            $featuredThumb = ($fc = Content::storyCover($featured)) ? asset($fc) : Content::storyThumbnail($featured);
+            $calendar = '<svg class="h-3.5 w-3.5 shrink-0" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><rect x="3" y="4" width="18" height="18" rx="2"/><path d="M16 2v4M8 2v4M3 10h18"/></svg>';
+        @endphp
         <section class="mx-auto max-w-7xl px-4 py-14 sm:px-6">
             <p class="kicker">Featured Story Behind the Photo</p>
-            <div class="mt-5 grid gap-8 lg:grid-cols-3">
-                <div class="lg:col-span-2">
-                    @include('components.story-card', ['item' => $featured])
-                </div>
-                <div class="divide-y divide-black/10">
-                    @foreach ($recentStories as $story)
-                        <a href="{{ route('stories-behind-photo/'.$story['slug']) }}" class="group flex gap-4 py-4 first:pt-0">
-                            <div class="relative aspect-video w-32 shrink-0 overflow-hidden bg-smoke">
-                                @php $thumb = Content::storyCover($story) @endphp
-                                @if ($thumb)
-                                    <img src="{{ asset($thumb) }}" alt="" loading="lazy" class="h-full w-full object-cover">
-                                @elseif (Content::storyThumbnail($story))
-                                    <img src="{{ Content::storyThumbnail($story) }}" alt="" loading="lazy" class="h-full w-full object-cover">
-                                @endif
-                            </div>
-                            <div>
-                                <h3 class="font-display text-base font-bold leading-snug group-hover:text-accent">{{ $story['title'] }}</h3>
-                                <p class="mt-1 text-xs font-semibold text-accent">{{ Content::photographer($story['photographer'] ?? null)['name'] ?? '' }}</p>
-                                @if ($story['date'] ?? false)
-                                    <p class="mt-0.5 text-xs text-mist">{{ date('M j, Y', strtotime((string) $story['date'])) }}</p>
-                                @endif
-                            </div>
+            <div class="mt-5 grid gap-8 lg:grid-cols-3 lg:items-start">
+                <div class="lg:col-span-2 lg:flex lg:items-start lg:gap-6">
+                    <a href="{{ route('stories-behind-photo/'.$featured['slug']) }}" class="group relative block aspect-video w-full overflow-hidden bg-smoke lg:h-[19rem] lg:w-auto lg:shrink-0">
+                        @if ($featuredThumb)
+                            <img src="{{ $featuredThumb }}" alt="{{ $featured['title'] }}" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]">
+                        @endif
+                        <span class="absolute inset-0 flex items-center justify-center">
+                            <span class="flex h-16 w-16 items-center justify-center rounded-full bg-black/60 text-white transition group-hover:bg-accent">
+                                <svg class="ml-1 h-7 w-7" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+                            </span>
+                        </span>
+                        @if ($featured['duration'] ?? false)
+                            <span class="absolute bottom-2 right-2 bg-black/70 px-2 py-1 text-xs text-white">{{ $featured['duration'] }}</span>
+                        @endif
+                    </a>
+                    <div class="mt-6 lg:mt-0 lg:flex-1">
+                        <p class="kicker">New story</p>
+                        <h3 class="mt-2 font-display text-2xl font-bold leading-tight sm:text-3xl">{{ $featured['title'] }}</h3>
+                        @if ($featuredPhotographer)
+                            <a href="{{ route('photographers/'.$featuredPhotographer['slug']) }}" class="mt-2 inline-block font-semibold text-accent hover:text-accent-deep">{{ $featuredPhotographer['name'] }}</a>
+                        @endif
+                        @if ($featured['excerpt'] ?? false)
+                            <p class="mt-3 leading-relaxed text-ink/70">{{ $featured['excerpt'] }}</p>
+                        @endif
+                        @if ($featured['date'] ?? false)
+                            <p class="mt-3 flex items-center gap-1.5 text-xs text-mist">{!! $calendar !!}{{ date('M j, Y', strtotime((string) $featured['date'])) }}</p>
+                        @endif
+                        <a href="{{ route('stories-behind-photo/'.$featured['slug']) }}" class="btn-outline mt-5">
+                            <svg class="h-3.5 w-3.5" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+                            Watch the story
                         </a>
-                    @endforeach
+                    </div>
+                </div>
+
+                <div class="relative" data-vslider-root>
+                    <button type="button" data-vslider-up aria-label="Previous stories" class="absolute left-1/2 top-0 z-10 hidden -translate-x-1/2 -translate-y-1/2 rounded-full bg-night p-1.5 text-white shadow-lg transition-colors hover:bg-accent">
+                        <svg class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m18 15-6-6-6 6"/></svg>
+                    </button>
+                    <div data-vslider class="slider-scroll h-[19rem] divide-y divide-black/10 overflow-y-auto">
+                        @foreach ($allStories as $story)
+                            @php
+                                $rowThumb = ($rc = Content::storyCover($story)) ? asset($rc) : Content::storyThumbnail($story);
+                                $isActive = $story['slug'] === $featured['slug'];
+                            @endphp
+                            <a href="{{ route('stories-behind-photo/'.$story['slug']) }}" class="group flex gap-4 py-4 first:pt-0 {{ $isActive ? 'bg-black/[0.04]' : '' }}">
+                                <div class="relative aspect-video w-32 shrink-0 overflow-hidden bg-smoke">
+                                    @if ($rowThumb)
+                                        <img src="{{ $rowThumb }}" alt="" loading="lazy" class="h-full w-full object-cover">
+                                    @endif
+                                    <span class="absolute inset-0 flex items-center justify-center">
+                                        <span class="flex h-7 w-7 items-center justify-center rounded-full bg-black/60 text-white transition group-hover:bg-accent">
+                                            <svg class="ml-0.5 h-3.5 w-3.5" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
+                                        </span>
+                                    </span>
+                                    @if ($story['duration'] ?? false)
+                                        <span class="absolute bottom-1 right-1 bg-black/70 px-1 py-0.5 text-[10px] text-white">{{ $story['duration'] }}</span>
+                                    @endif
+                                </div>
+                                <div class="min-w-0">
+                                    <h3 class="font-display text-base font-bold leading-snug {{ $isActive ? 'text-accent' : 'group-hover:text-accent' }}">{{ $story['title'] }}</h3>
+                                    <p class="mt-1 text-xs font-semibold text-accent">{{ Content::photographer($story['photographer'] ?? null)['name'] ?? '' }}{{ ($story['season'] ?? false) ? ' | S'.$story['season'].' E'.($story['episode'] ?? '') : '' }}</p>
+                                    @if ($story['date'] ?? false)
+                                        <p class="mt-0.5 flex items-center gap-1.5 text-xs text-mist">{!! $calendar !!}{{ date('M j, Y', strtotime((string) $story['date'])) }}</p>
+                                    @endif
+                                </div>
+                            </a>
+                        @endforeach
+                    </div>
+                    <button type="button" data-vslider-down aria-label="More stories" class="absolute bottom-0 left-1/2 z-10 hidden -translate-x-1/2 translate-y-1/2 rounded-full bg-night p-1.5 text-white shadow-lg transition-colors hover:bg-accent">
+                        <svg class="h-4 w-4" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path d="m6 9 6 6 6-6"/></svg>
+                    </button>
                 </div>
             </div>
         </section>
@@ -73,7 +130,7 @@
         <div class="flex items-end justify-between gap-4">
             <div>
                 <p class="kicker">Photographers</p>
-                <h2 class="mt-1 font-display text-2xl font-bold sm:text-3xl">Explore the people behind the images.</h2>
+                <h2 class="mt-1 font-display text-2xl font-bold sm:text-3xl">Explore more photo galleries from the archive.</h2>
             </div>
             <a href="{{ route('photographers') }}" class="hidden shrink-0 text-xs font-bold uppercase tracking-widest text-accent hover:text-accent-deep sm:block">View all photographers &rarr;</a>
         </div>

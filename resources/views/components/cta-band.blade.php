@@ -5,7 +5,7 @@
             <p class="mt-2 text-sm leading-relaxed text-white/70">{{ $text ?? 'sniperalley.photo preserves the voices of photographers, the stories behind their images, and the visual memory of Sarajevo during the siege.' }}</p>
         </div>
         <div class="flex flex-wrap gap-3">
-            <a href="{{ route('my-story-mission') }}" class="btn-primary">Read My Story / Mission</a>
+            <a href="{{ route('my-story-mission') }}" class="btn-primary">Read My Story</a>
             <a href="{{ route('donate') }}" class="btn-outline text-white">Support the Archive</a>
         </div>
     </div>

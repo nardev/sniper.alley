@@ -10,7 +10,8 @@
    class="group block bg-white shadow-sm ring-1 ring-black/5 transition-shadow hover:shadow-lg"
    data-filter-name="{{ mb_strtolower($item['name'] ?? $item['slug']) }}"
    data-filter-text="{{ mb_strtolower(trim(($item['country'] ?? '').' '.($item['role'] ?? '').' '.implode(' ', (array) ($item['tags'] ?? [])))) }}"
-   data-filter-memoriam="{{ ($item['died'] ?? null) ? '1' : '0' }}">
+   data-filter-memoriam="{{ ($item['died'] ?? null) ? '1' : '0' }}"
+   data-photo-count="{{ count($item['photos'] ?? []) }}">
     <div class="aspect-[4/3] overflow-hidden bg-smoke">
         @if ($cover)
             <img src="{{ asset($cover) }}" alt="{{ $item['name'] ?? $item['slug'] }}" loading="lazy"

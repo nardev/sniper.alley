@@ -7,16 +7,16 @@
         <nav aria-label="Site">
             <p class="mb-3 text-xs font-bold uppercase tracking-widest text-white">Site</p>
             <ul class="space-y-2 text-sm">
+                <li><a class="hover:text-white" href="{{ route('latest') }}">Latest</a></li>
                 <li><a class="hover:text-white" href="{{ route('stories-behind-photo') }}">Stories Behind Photo</a></li>
                 <li><a class="hover:text-white" href="{{ route('photographers') }}">Photographers</a></li>
                 <li><a class="hover:text-white" href="{{ route('in-memoriam') }}">In Memoriam</a></li>
-                <li><a class="hover:text-white" href="{{ route('latest') }}">Latest</a></li>
             </ul>
         </nav>
         <nav aria-label="Information">
             <p class="mb-3 text-xs font-bold uppercase tracking-widest text-white">Information</p>
             <ul class="space-y-2 text-sm">
-                <li><a class="hover:text-white" href="{{ route('my-story-mission') }}">My Story / Mission</a></li>
+                <li><a class="hover:text-white" href="{{ route('my-story-mission') }}">My Story</a></li>
                 <li><a class="hover:text-white" href="{{ route('contact') }}">Contact</a></li>
                 <li><a class="hover:text-white" href="{{ route('search') }}">Search</a></li>
                 <li><a class="hover:text-white" href="{{ route('donate') }}">Donate</a></li>

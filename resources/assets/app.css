@@ -99,6 +99,44 @@
     }
 }
 
+/* Endless horizontal photo marquee (story related photographs) */
+@keyframes marquee-x {
+    from { transform: translateX(0); }
+    to { transform: translateX(-50%); }
+}
+
+.marquee {
+    overflow: hidden;
+}
+
+.marquee-track {
+    display: flex;
+    width: max-content;
+    animation: marquee-x 70s linear infinite;
+}
+
+.marquee:hover .marquee-track {
+    animation-play-state: paused;
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .marquee {
+        overflow-x: auto;
+    }
+    .marquee-track {
+        animation: none;
+    }
+}
+
+/* Hidden scrollbar for the vertical story slider */
+.slider-scroll {
+    scrollbar-width: none;
+}
+
+.slider-scroll::-webkit-scrollbar {
+    display: none;
+}
+
 /* Lightbox overlay */
 .lightbox {
     position: fixed;
