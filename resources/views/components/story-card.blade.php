@@ -2,7 +2,6 @@
     use App\Content;
     $localCover = Content::storyCover($item);
     $remoteThumb = Content::storyThumbnail($item);
-    $byline = Content::photographer($item['photographer'] ?? null)['name'] ?? ($item['photographer'] ?? null);
     $season = $item['season'] ?? null;
 @endphp
 <article class="group bg-white shadow-sm ring-1 ring-black/5 transition-shadow hover:shadow-lg">
@@ -21,14 +20,15 @@
             @if ($season)
                 <span class="absolute left-2 top-2 px-2 py-0.5 text-[11px] font-bold uppercase tracking-widest text-white {{ (int) $season === 2 ? 'bg-accent' : 'bg-black/70' }}">Season {{ $season }}</span>
             @endif
+            <span class="absolute bottom-2 right-2 bg-black/70 px-1.5 py-0.5 text-xs text-white">22:16</span>
             @if ($item['duration'] ?? false)
-                <span class="absolute bottom-2 right-2 bg-black/70 px-1.5 py-0.5 text-xs text-white">{{ $item['duration'] }}</span>
+                <span class="absolute bottom-2 right-2 bg-black/70 px-1.5 py-0.5 text-xs text-white">{{ $item['duration'] }}22:16</span>
             @endif
         </div>
         <div class="p-4">
             <h3 class="font-display text-lg font-bold leading-snug group-hover:text-accent">{{ $item['title'] }}</h3>
-            @if ($byline)
-                <p class="mt-1 text-xs font-semibold text-accent">{{ $byline }}{{ $season ? ' | S'.$season.' E'.($item['episode'] ?? '') : '' }}</p>
+            @if ($season)
+                <p class="mt-1 text-xs text-mist">Season {{ $season }}{{ ($item['episode'] ?? false) ? ', Episode '.$item['episode'] : '' }}</p>
             @endif
             @if ($item['date'] ?? false)
                 <p class="mt-1 text-xs text-mist">{{ date('M j, Y', strtotime((string) $item['date'])) }}</p>

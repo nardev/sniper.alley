@@ -1,5 +1,5 @@
 @php
-    $heroImage = $image ?? 'site/hero.jpg';
+    $heroImage = $image ?? \App\Content::headerImage('site', ['site/hero.jpg']);
     $hasImage = file_exists(\Hyde\Hyde::path('_media/'.$heroImage));
 @endphp
 <section class="relative overflow-hidden bg-night text-white">

@@ -42,7 +42,7 @@ Content changes (Markdown files, images) only need `php hyde build`.
 
 The file name (without `.md`) becomes the page URL. Keep slugs lowercase with hyphens.
 
-The home page and the Photographers, Stories Behind the Photos, and In Memoriam landing pages show a photo behind their title. Choose which photos rotate there by editing `content/headers/photos.md`: under `home`, `stories`, `photographers`, or `memoriam`, list image paths relative to `_media/` (for example `photographers/enrico-dagnino/photo.jpg`). One is picked at random each build. Leave a list empty to let the site pick a random photo from that section automatically.
+Every page shows a photo behind its title. Choose which photos rotate there by editing `content/headers/photos.md`: under `home`, `stories`, `photographers`, `memoriam`, or `latest`, list image paths relative to `_media/` (for example `headers/cover-1.jpg`). The `site` list covers pages without their own list (Contact, Donate, My Story). One photo is picked at random from the page's list on each build. Leave a list empty to let the site pick a random photo from that section automatically. The header images themselves live in `_media/headers/`; to add one for In Memoriam, put it there (for example `in-memoriam-2.jpg`) and add it under `memoriam`.
 
 On a photographer's gallery, opening a photo updates the address bar (for example `.../photographers/corinne-dufka.html#photo=...`). Copying that link and opening it reopens the gallery on that exact photo.
 

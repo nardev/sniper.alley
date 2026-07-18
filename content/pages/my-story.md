@@ -2,7 +2,6 @@
 title: "My Story"
 background: bg_1.jpg
 ---
-WAR
 
 My name is Dzemil and I was born in Sarajevo, Bosnia in 1983.
 

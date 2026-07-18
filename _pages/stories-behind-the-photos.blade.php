@@ -27,7 +27,6 @@
         @else
             @if ($featured)
                 @php
-                    $featuredPhotographer = Content::photographer($featured['photographer'] ?? null);
                     $featuredThumb = ($fc = Content::storyCover($featured)) ? asset($fc) : Content::storyThumbnail($featured);
                 @endphp
                 <div class="border-l-4 border-accent bg-white p-6 shadow-lg ring-1 ring-black/5 sm:p-8">
@@ -41,17 +40,15 @@
                                 <svg class="ml-1 h-6 w-6" viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
                             </span>
                         </span>
+                        <span class="absolute bottom-2 right-2 bg-black/70 px-2 py-1 text-xs text-white">21:45</span>
                         @if ($featured['duration'] ?? false)
-                            <span class="absolute bottom-2 right-2 bg-black/70 px-2 py-1 text-xs text-white">{{ $featured['duration'] }}</span>
+                            <span class="absolute bottom-2 right-2 bg-black/70 px-2 py-1 text-xs text-white">{{ $featured['duration'] }}21:45</span>
                         @endif
                     </a>
                     <div>
                         <p class="kicker">OUR LATEST EPISODE</p>
-                        <h2 class="mt-2 font-display text-3xl font-bold">{{ $featured['title'] }}</h2>
-                        @if ($featuredPhotographer)
-                            <a href="{{ route('photographers/'.$featuredPhotographer['slug']) }}" class="mt-2 inline-block font-semibold text-accent hover:text-accent-deep">{{ $featuredPhotographer['name'] }}</a>
-                        @endif
-                        <p class="mt-2 text-sm font-semibold text-accent">Season {{ $featured['season'] ?? '' }}, episode {{ $featured['episode'] ?? '' }}</p>
+                        <h2 class="mt-2 font-display text-3xl font-bold uppercase">{{ $featured['title'] }}</h2>
+                        <p class="mt-2 text-sm font-semibold uppercase text-accent">Season {{ $featured['season'] ?? '' }}, Episode {{ $featured['episode'] ?? '' }}</p>
                         @if ($featured['date'] ?? false)
                             <p class="mt-1 text-xs text-mist">{{ date('F j, Y', strtotime((string) $featured['date'])) }}</p>
                         @endif

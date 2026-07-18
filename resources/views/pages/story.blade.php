@@ -20,24 +20,18 @@
             <div class="absolute inset-0 bg-gradient-to-t from-night via-night/80 to-night/50"></div>
         @endif
         <div class="relative mx-auto max-w-7xl px-4 py-12 sm:px-6 {{ $headerPhoto ? 'pt-24 lg:pt-40' : '' }}">
-            <a href="{{ route('stories-behind-the-photos') }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">&larr; Back to stories</a>
-            <div class="mt-6 max-w-3xl">
-                <p class="kicker">Stories Behind the Photos</p>
+            <div class="max-w-3xl">
+                <p class="kicker">The Story Behind the Photo</p>
                 <h1 class="mt-3 font-display text-4xl font-bold leading-tight sm:text-5xl">{{ $item['title'] }}</h1>
-                @if ($photographer)
-                    <a href="{{ $galleryUrl }}" class="mt-3 inline-block font-semibold text-accent hover:text-white">{{ $photographer['name'] }}</a>
-                @endif
-                <div class="mt-2 flex flex-wrap gap-x-5 gap-y-1 text-sm text-white/60">
-                    @if ($item['location'] ?? false)
-                        <span>{{ $item['location'] }}</span>
+                <div class="mt-3 flex flex-wrap gap-x-5 gap-y-1 text-sm text-white/60">
+                    @if ($item['season'] ?? false)
+                        <span>Season {{ $item['season'] }}{{ ($item['episode'] ?? false) ? ', Episode '.$item['episode'] : '' }}</span>
                     @endif
                     @if ($item['date'] ?? false)
                         <span>{{ date('F j, Y', strtotime((string) $item['date'])) }}</span>
                     @endif
                 </div>
-                @if ($item['excerpt'] ?? false)
-                    <p class="mt-5 leading-relaxed text-white/80">{{ $item['excerpt'] }}</p>
-                @endif
+                <a href="{{ route('stories-behind-the-photos') }}" class="btn-primary mt-8">&larr; Back to all stories</a>
             </div>
         </div>
     </section>
@@ -65,7 +59,7 @@
                 <div class="flex items-end justify-between gap-4">
                     <p class="kicker">Related photographs</p>
                     @if ($galleryUrl)
-                        <a href="{{ $galleryUrl }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">View all photos &rarr;</a>
+                        <a href="{{ $galleryUrl }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">{{ $photographer['name'] }}'s Photos &rarr;</a>
                     @endif
                 </div>
                 <div class="marquee mt-5">

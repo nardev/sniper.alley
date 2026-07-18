@@ -12,6 +12,7 @@
 # /_site
 
 /_site
+/_resources
 tools/scrape/raw/
 tools/scrape/*.log
 /sessions

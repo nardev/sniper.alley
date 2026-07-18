@@ -10,12 +10,12 @@
         'heading' => 'My Story',
         'lede' => 'Why this archive exists, told by its founder.',
         'compact' => true,
-        'image' => ($story['background'] ?? null) ? 'pages/my-story/'.$story['background'] : 'site/hero.jpg',
+        'image' => ($story['background'] ?? null) ? 'pages/my-story/'.$story['background'] : null,
     ])
 
     <article class="mx-auto max-w-3xl px-4 py-14 sm:px-6">
         @if ($story)
-            <p class="kicker">My Story</p>
+            <p class="kicker">WAR</p>
             <div class="prose-site mt-6">{!! Content::renderMarkdown($story['body']) !!}</div>
         @endif
 
