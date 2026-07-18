@@ -20,9 +20,9 @@
             <div class="absolute inset-0 bg-gradient-to-t from-night via-night/80 to-night/50"></div>
         @endif
         <div class="relative mx-auto max-w-7xl px-4 py-12 sm:px-6 {{ $headerPhoto ? 'pt-24 lg:pt-40' : '' }}">
-            <a href="{{ route('stories-behind-photo') }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">&larr; Back to stories</a>
+            <a href="{{ route('stories-behind-the-photos') }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">&larr; Back to stories</a>
             <div class="mt-6 max-w-3xl">
-                <p class="kicker">Story Behind the Photo</p>
+                <p class="kicker">Stories Behind the Photos</p>
                 <h1 class="mt-3 font-display text-4xl font-bold leading-tight sm:text-5xl">{{ $item['title'] }}</h1>
                 @if ($photographer)
                     <a href="{{ $galleryUrl }}" class="mt-3 inline-block font-semibold text-accent hover:text-white">{{ $photographer['name'] }}</a>

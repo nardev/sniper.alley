@@ -2,6 +2,7 @@
 
 document.addEventListener('DOMContentLoaded', () => {
     initNav();
+    initRandomPools();
     initPhotographerFilter();
     initPhotographerSort();
     initVerticalSlider();
@@ -10,6 +11,24 @@ document.addEventListener('DOMContentLoaded', () => {
     initLightbox();
     initEmbeds();
 });
+
+// A [data-random-pool="N"] grid ships more cards than it shows: the extras sit
+// in inert <template> tags so their images never load. Pick N at random per visit.
+function initRandomPools() {
+    for (const pool of document.querySelectorAll('[data-random-pool]')) {
+        const count = parseInt(pool.getAttribute('data-random-pool'), 10) || 1;
+        const items = [];
+        for (const child of [...pool.children]) {
+            items.push(child.tagName === 'TEMPLATE' ? child.content.firstElementChild : child);
+            child.remove();
+        }
+        for (let i = items.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [items[i], items[j]] = [items[j], items[i]];
+        }
+        pool.append(...items.filter(Boolean).slice(0, count));
+    }
+}
 
 function initNav() {
     const toggle = document.querySelector('[data-nav-toggle]');

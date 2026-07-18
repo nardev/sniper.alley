@@ -1,7 +1,7 @@
 ---
 title: "Quella foto è un miracolo"
 description: "Naufraghi.ch (Italian) covered the Sniper Alley project."
-category: media-mention
+category: press
 date: "2021-03-29"
 link: "https://naufraghi.ch/quella-foto-e-un-miracolo/"
 ---

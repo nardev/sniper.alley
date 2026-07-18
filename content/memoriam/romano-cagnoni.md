@@ -3,7 +3,7 @@ name: "Romano Cagnoni"
 born: 1935
 died: 2018
 banner: SLIDE-01_06-scaled.jpg
-photographer: romano-cagnoni-1935-2018
+photographer: romano-cagnoni
 excerpt: "Romano Cagnoni was born in Pietrasanta, Italy. He is internationally recognized as one of the most representative photographers of the twentieth century. It was Harold Evans, formerly editor of the Su"
 ---
 Romano Cagnoni was born in Pietrasanta, Italy. He is internationally recognized as one of the most representative photographers of the twentieth century. It was Harold Evans, formerly editor of the Sunday Times, who included him among the greatest, in his book Pictures on a Page, along with Don McCullin, Eugene Smith and Cartier-Bresson.

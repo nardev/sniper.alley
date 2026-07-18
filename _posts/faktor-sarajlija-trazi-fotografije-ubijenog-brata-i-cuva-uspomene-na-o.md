@@ -1,7 +1,7 @@
 ---
 title: "Sarajlija traži fotografije ubijenog brata i čuva uspomene na opsadu na stranici “Aleja snajpera”"
 description: "FAKTOR (Bosnian) covered the Sniper Alley project."
-category: media-mention
+category: press
 date: "2019-10-01"
 link: "https://faktor.ba/vijest/sarajlija-trazi-fotografije-ubijenog-brata-i-cuva-uspomene-na-opsadu-na-stranici-aleja-snajpera/53349"
 ---

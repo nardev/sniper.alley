@@ -2,6 +2,7 @@
 name: "Gérard Rondeau"
 born: 1953
 died: 2016
+memoriam: gerard-rondeau
 role: Photojournalist
 portrait: sniper_alley_gerard_rondeau_13.jpg
 photos:

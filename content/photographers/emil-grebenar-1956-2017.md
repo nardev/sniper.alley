@@ -2,6 +2,7 @@
 name: "Emil Grebenar"
 born: 1956
 died: 2017
+memoriam: emil-grebenar
 role: Photojournalist
 portrait: sniper_alley_emil_grebenar_11.jpg
 photos:

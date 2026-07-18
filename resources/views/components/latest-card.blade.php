@@ -1,13 +1,13 @@
 @php
     /** @var \Hyde\Pages\MarkdownPost $post */
-    $category = (string) $post->matter('category', 'update');
+    $category = (string) $post->matter('category', '');
     $categoryLabels = [
-        'announcement' => 'Announcement',
-        'media-mention' => 'Media Mention',
-        'film' => 'Film',
+        'press' => 'Press',
+        'photo' => 'Photo',
+        'video' => 'Video',
+        'interview' => 'Interview',
+        'article' => 'Article',
         'memorial' => 'Memorial',
-        'sketch' => 'Sketch',
-        'update' => 'Update',
     ];
     $image = $post->matter('image');
     $external = $post->matter('link');
@@ -20,7 +20,9 @@
             </div>
         @endif
         <div class="p-4">
-            <p class="kicker">{{ $categoryLabels[$category] ?? ucfirst($category) }}</p>
+            @if ($category)
+                <p class="kicker">{{ $categoryLabels[$category] ?? ucwords(str_replace('-', ' ', $category)) }}</p>
+            @endif
             <h3 class="mt-1.5 font-display text-lg font-bold leading-snug group-hover:text-accent">{{ $post->title }}</h3>
             @if ($post->date)
                 <p class="mt-1 text-xs text-mist">{{ $post->date->short }}</p>

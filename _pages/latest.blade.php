@@ -5,12 +5,12 @@
     $posts = collect(Content::latest());
     $categories = [
         '' => 'All',
-        'announcement' => 'Announcements',
-        'media-mention' => 'Media Mentions',
-        'film' => 'Films',
+        'press' => 'Press',
+        'photo' => 'Photos',
+        'video' => 'Videos',
+        'interview' => 'Interviews',
+        'article' => 'Articles',
         'memorial' => 'Memorials',
-        'sketch' => 'Sketches',
-        'update' => 'Updates',
     ];
 
     // Header background: photos defined in content/headers/photos.md (latest),

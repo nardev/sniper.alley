@@ -2,6 +2,7 @@
 name: "Yannis Behrakis"
 born: 1960
 died: 2019
+memoriam: yannis-behrakis
 role: Photojournalist
 portrait: yannis_behrakis_01.jpg
 photos:

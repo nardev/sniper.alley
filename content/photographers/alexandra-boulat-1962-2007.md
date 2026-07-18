@@ -2,6 +2,7 @@
 name: "Alexandra Boulat"
 born: 1962
 died: 2007
+memoriam: alexandra-boulat
 role: Photojournalist
 portrait: sniper_alley_alexandra_boulat_11.jpg
 photos:

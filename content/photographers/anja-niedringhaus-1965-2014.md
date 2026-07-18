@@ -2,6 +2,7 @@
 name: "Anja Niedringhaus"
 born: 1965
 died: 2014
+memoriam: anja-niedringhaus
 role: Photojournalist
 portrait: sniper_alley_anja_niedringhaus_06.jpg
 featured: true

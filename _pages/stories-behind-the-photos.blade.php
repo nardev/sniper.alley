@@ -1,7 +1,7 @@
 @extends('layouts.site')
 @php
     use App\Content;
-    $title = 'Stories Behind Photo';
+    $title = 'Stories Behind the Photos';
     $stories = collect(Content::stories());
     $featured = Content::featuredStory();
     $seasons = $stories->groupBy(fn ($item) => (int) ($item['season'] ?? 0))->sortKeysDesc();
@@ -15,7 +15,7 @@
 @endphp
 @section('main')
     @include('components.hero', [
-        'heading' => 'Stories Behind Photo',
+        'heading' => 'Stories Behind the Photos',
         'lede' => 'Every photograph holds a story beyond the frame. Photographers speak about the moments, the risks, and the human truths behind the images that shaped our memory of Sarajevo and the siege.',
         'compact' => true,
         'image' => $heroImage,
@@ -32,7 +32,7 @@
                 @endphp
                 <div class="border-l-4 border-accent bg-white p-6 shadow-lg ring-1 ring-black/5 sm:p-8">
                     <div class="grid items-center gap-8 lg:grid-cols-2">
-                    <a href="{{ route('stories-behind-photo/'.$featured['slug']) }}" class="group relative block aspect-video overflow-hidden bg-smoke">
+                    <a href="{{ route('stories-behind-the-photos/'.$featured['slug']) }}" class="group relative block aspect-video overflow-hidden bg-smoke">
                         @if ($featuredThumb)
                             <img src="{{ $featuredThumb }}" alt="{{ $featured['title'] }}" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]">
                         @endif
@@ -46,7 +46,7 @@
                         @endif
                     </a>
                     <div>
-                        <p class="kicker">Featured story</p>
+                        <p class="kicker">OUR LATEST EPISODE</p>
                         <h2 class="mt-2 font-display text-3xl font-bold">{{ $featured['title'] }}</h2>
                         @if ($featuredPhotographer)
                             <a href="{{ route('photographers/'.$featuredPhotographer['slug']) }}" class="mt-2 inline-block font-semibold text-accent hover:text-accent-deep">{{ $featuredPhotographer['name'] }}</a>
@@ -58,7 +58,7 @@
                         @if ($featured['excerpt'] ?? false)
                             <p class="mt-3 leading-relaxed text-ink/80">{{ $featured['excerpt'] }}</p>
                         @endif
-                        <a href="{{ route('stories-behind-photo/'.$featured['slug']) }}" class="btn-primary mt-6">Watch the story</a>
+                        <a href="{{ route('stories-behind-the-photos/'.$featured['slug']) }}" class="btn-primary mt-6">Watch the story</a>
                     </div>
                     </div>
                 </div>

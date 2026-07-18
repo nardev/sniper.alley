@@ -2,6 +2,7 @@
 name: "Danilo Krstanovic"
 born: 1951
 died: 2012
+memoriam: danilo-krstanovic
 role: Photojournalist
 portrait: sniper_alley_danilo_krstanovic_02.jpg
 photos:

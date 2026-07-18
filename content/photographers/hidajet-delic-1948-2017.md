@@ -2,6 +2,7 @@
 name: "Hidajet Delic"
 born: 1948
 died: 2017
+memoriam: hidajet-delic
 role: Photojournalist
 portrait: sniper_alley_hidajet_delic_12.jpg
 photos:

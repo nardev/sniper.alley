@@ -6,7 +6,7 @@
     $season = $item['season'] ?? null;
 @endphp
 <article class="group bg-white shadow-sm ring-1 ring-black/5 transition-shadow hover:shadow-lg">
-    <a href="{{ route('stories-behind-photo/'.$item['slug']) }}" class="block">
+    <a href="{{ route('stories-behind-the-photos/'.$item['slug']) }}" class="block">
         <div class="relative aspect-video overflow-hidden bg-smoke">
             @if ($localCover)
                 <img src="{{ asset($localCover) }}" alt="{{ $item['title'] }}" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]">

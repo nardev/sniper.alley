@@ -528,7 +528,7 @@ def convert_sketches() -> None:
 
 # --------------------------------------------------------------------- stories
 
-# The definitive episode list for THE STORY BEHIND THE PHOTO.
+# The definitive episode list for Stories Behind the Photos.
 # (video id, title, season, episode, date, photographer slug)
 # Video ids and dates come from the channel feed:
 # https://www.youtube.com/feeds/videos.xml?channel_id=UCwUNPs8hHJyMYKtrgxnOnbQ

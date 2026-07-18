@@ -1,9 +1,6 @@
 @php
     use App\Content;
     $cover = Content::photographerCover($item);
-    $thumbs = collect($item['photos'] ?? [])->skip($cover && empty($item['portrait']) ? 1 : 0)
-        ->map(fn ($photo) => Content::image('photographers', $item['slug'], $photo['file'] ?? null))
-        ->filter()->take(3);
     $dates = ($item['born'] ?? null) ? ($item['born'].' - '.($item['died'] ?? '')) : null;
 @endphp
 <a href="{{ route('photographers/'.$item['slug']) }}"
@@ -20,13 +17,6 @@
             <div class="flex h-full w-full items-center justify-center text-4xl font-display text-white/30">{{ mb_substr($item['name'] ?? '?', 0, 1) }}</div>
         @endif
     </div>
-    @if ($thumbs->isNotEmpty())
-        <div class="grid grid-cols-3 gap-px bg-black/10">
-            @foreach ($thumbs as $thumb)
-                <img src="{{ asset($thumb) }}" alt="" loading="lazy" class="aspect-[4/3] w-full object-cover">
-            @endforeach
-        </div>
-    @endif
     <div class="p-4">
         <h3 class="font-display text-lg font-bold leading-snug">{{ $item['name'] ?? $item['slug'] }}</h3>
         @if ($dates)

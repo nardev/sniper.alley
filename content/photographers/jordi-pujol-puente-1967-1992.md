@@ -2,6 +2,7 @@
 name: "Jordi Pujol Puente"
 born: 1967
 died: 1992
+memoriam: jordi-pujol-puente
 role: Photojournalist
 portrait: sniper_alley_jordi_pujol_puente_01.jpg
 photos:

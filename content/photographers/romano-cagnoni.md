@@ -2,6 +2,7 @@
 name: "Romano Cagnoni"
 born: 1935
 died: 2018
+memoriam: romano-cagnoni
 role: Photojournalist
 portrait: romano_cagnoni_sniperalley_01.jpg
 photos:

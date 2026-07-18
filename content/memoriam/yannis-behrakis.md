@@ -4,7 +4,7 @@ born: 1960
 died: 2019
 banner: 01-YANNIS-scaled.jpg
 cover: cover.jpg
-photographer: yannis-behrakis-1960-2019
+photographer: yannis-behrakis
 excerpt: "Behrakis was born in Athens in 1960 and had his first foreign assignment to Muammar Qaddafi’s Libya. The photographer’s body of work spanned wars and crises around the world, yet was known to focus on"
 ---
 Behrakis was born in Athens in 1960 and had his first foreign assignment to Muammar Qaddafi’s Libya. The photographer’s body of work spanned wars and crises around the world, yet was known to focus on the dignity of humans in distress, rather than pure pity. Behrakis documented a variety of events and visited numerous conflict zones and areas where natural disasters had hit, including the funeral of Ayatollah Khomeini in Iran, the changes in Eastern Europe and the Balkans, the wars in Croatia, Bosnia and Kosovo, Chechnya, Sierra Leone, Somalia, Afganistan, Lebanon, the first and second Gulf wars in Iraq, the Arab Spring in Egypt, Libya and Tunisia, the civil war in Ukraine, the NATO bombing of ISIS in Kobane, Syria, the Greek financial crisis and the refugee crisis in 2015.

@@ -8,7 +8,7 @@
             <p class="mb-3 text-xs font-bold uppercase tracking-widest text-white">Site</p>
             <ul class="space-y-2 text-sm">
                 <li><a class="hover:text-white" href="{{ route('latest') }}">Latest</a></li>
-                <li><a class="hover:text-white" href="{{ route('stories-behind-photo') }}">Stories Behind Photo</a></li>
+                <li><a class="hover:text-white" href="{{ route('stories-behind-the-photos') }}">Stories Behind the Photos</a></li>
                 <li><a class="hover:text-white" href="{{ route('photographers') }}">Photographers</a></li>
                 <li><a class="hover:text-white" href="{{ route('in-memoriam') }}">In Memoriam</a></li>
             </ul>

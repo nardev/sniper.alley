@@ -1,13 +1,14 @@
 @extends('layouts.site')
 @php
     $categoryLabels = [
-        'announcement' => 'Announcement',
-        'media-mention' => 'Media Mention',
-        'film' => 'Film',
+        'press' => 'Press',
+        'photo' => 'Photo',
+        'video' => 'Video',
+        'interview' => 'Interview',
+        'article' => 'Article',
         'memorial' => 'Memorial',
-        'update' => 'Update',
     ];
-    $category = (string) $page->matter('category', 'update');
+    $category = (string) $page->matter('category', '');
     $image = $page->matter('image');
     $external = $page->matter('link');
 @endphp
@@ -15,7 +16,9 @@
     <section class="bg-night text-white">
         <div class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
             <a href="{{ route('latest') }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">&larr; Back to latest</a>
-            <p class="kicker mt-6">{{ $categoryLabels[$category] ?? ucfirst($category) }}</p>
+            @if ($category)
+                <p class="kicker mt-6">{{ $categoryLabels[$category] ?? ucwords(str_replace('-', ' ', $category)) }}</p>
+            @endif
             <h1 class="mt-2 font-display text-4xl font-bold leading-tight">{{ $page->title }}</h1>
             @if ($page->date)
                 <p class="mt-3 text-sm text-white/60">{{ $page->date->short }}</p>

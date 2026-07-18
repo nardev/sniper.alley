@@ -2,11 +2,10 @@
     $currentKey = ($page ?? null)?->getRouteKey() ?? '';
     $navItems = [
         'latest' => 'Latest',
-        'stories-behind-photo' => 'Stories Behind Photo',
         'photographers' => 'Photographers',
+        'stories-behind-the-photos' => 'Stories Behind the Photos',
         'in-memoriam' => 'In Memoriam',
         'my-story-mission' => 'My Story',
-        'contact' => 'Contact',
     ];
 @endphp
 <header class="sticky top-0 z-50 bg-night text-white">

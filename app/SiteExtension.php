@@ -23,7 +23,7 @@ class SiteExtension extends HydeExtension
         }
 
         foreach (Content::stories() as $slug => $item) {
-            $collection->addPage(InMemoryPage::make("stories-behind-photo/{$slug}", [
+            $collection->addPage(InMemoryPage::make("stories-behind-the-photos/{$slug}", [
                 'title' => $item['title'] ?? $slug,
                 'item' => $item,
                 'navigation' => ['hidden' => true],

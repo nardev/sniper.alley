@@ -1,7 +1,7 @@
 ---
 title: "‘Sniper Alley’ Site Preserves Photo Memories of Sarajevo Siege"
 description: "BALKAN INSIGHT (English) covered the Sniper Alley project."
-category: media-mention
+category: press
 date: "2019-10-01"
 link: "https://balkaninsight.com/2019/10/01/sniper-alley-site-preserves-photo-memories-of-sarajevo-siege/"
 ---

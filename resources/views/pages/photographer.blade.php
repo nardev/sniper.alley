@@ -9,6 +9,7 @@
     $dates = ($item['born'] ?? null) ? trim(($item['born'] ?? '').' - '.($item['died'] ?? ''), ' -') : null;
     $stories = Content::storiesBy($slug);
     $memorial = Content::memorial($item['memoriam'] ?? null);
+    $hasBody = trim($item['body'] ?? '') !== '';
 @endphp
 @section('main')
     <section class="bg-night text-white">
@@ -43,7 +44,7 @@
                             <p class="mt-4 max-w-xl leading-relaxed text-white/80">{{ $item['blurb'] }}</p>
                         @endif
                         @if ($memorial)
-                            <a href="{{ route('in-memoriam/'.$memorial['slug']) }}" class="btn-outline mt-5 text-white">In Memoriam page</a>
+                            <a href="{{ route('in-memoriam/'.$memorial['slug']) }}" class="btn-primary mt-5">In Memoriam page</a>
                         @endif
                     </div>
                 </div>
@@ -57,15 +58,15 @@
         </div>
     </section>
 
-    @if (trim($item['body'] ?? '') !== '')
-        <section class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
+    @if ($hasBody)
+        <section class="mx-auto max-w-3xl px-4 pt-12 pb-4 sm:px-6">
             <p class="kicker">About {{ $item['name'] }}</p>
             <div class="prose-site mt-4">{!! Content::renderMarkdown($item['body']) !!}</div>
         </section>
     @endif
 
     @if ($photos->isNotEmpty())
-        <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6">
+        <section class="mx-auto max-w-7xl px-4 {{ $hasBody ? 'pt-2' : 'pt-12' }} pb-12 sm:px-6">
             <p class="kicker">Gallery</p>
             <p class="mt-4 text-xs text-mist">Click a photo to open it. Photographs remain the property of their authors.</p>
             <div class="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4" data-gallery>

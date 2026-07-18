@@ -2,6 +2,7 @@
 name: "Abbas Attar"
 born: 1944
 died: 2018
+memoriam: abbas-attar
 role: Photojournalist
 portrait: sniper_alley_abbas_attar_01.jpg
 photos:

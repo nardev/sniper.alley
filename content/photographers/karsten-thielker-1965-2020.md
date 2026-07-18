@@ -2,6 +2,7 @@
 name: "Karsten Thielker"
 born: 1965
 died: 2020
+memoriam: karsten-thielker
 role: Photojournalist
 portrait: sniper_alley_karsten_thielker_21.jpg
 photos:
