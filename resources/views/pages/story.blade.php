@@ -57,9 +57,9 @@
         <section class="bg-night text-white">
             <div class="mx-auto max-w-7xl px-4 py-12 sm:px-6">
                 <div class="flex items-end justify-between gap-4">
-                    <p class="kicker">Related photographs</p>
+                    <p class="kicker">{{ $photographer['name'] }}'s Photos</p>
                     @if ($galleryUrl)
-                        <a href="{{ $galleryUrl }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">{{ $photographer['name'] }}'s Photos &rarr;</a>
+                        <a href="{{ $galleryUrl }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">View all photos &rarr;</a>
                     @endif
                 </div>
                 <div class="marquee mt-5">
