@@ -20,7 +20,7 @@ photographers:
   - headers/cover-2.jpg
 memoriam:
   - headers/in-memoriam-1.jpg
-latest:
+our-work:
   - headers/cover-1.jpg
   - headers/cover-2.jpg
 site:

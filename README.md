@@ -35,14 +35,14 @@ Content changes (Markdown files, images) only need `php hyde build`.
 | Photographers | `content/photographers/<slug>.md` | /photographers |
 | Stories Behind the Photos | `content/stories/<slug>.md` | /stories-behind-the-photos |
 | In Memoriam | `content/memoriam/<slug>.md` | /in-memoriam |
-| Latest (news feed) | `_posts/<slug>.md` | /latest |
+| Our Work (news feed) | `_posts/<slug>.md` | /our-work |
 | My Story, Mission, Contact, Donate | `content/pages/<name>.md` | fixed pages |
 | Images | `_media/<section>/<slug>/` | copied to /media on build |
 | Header photo rotation | `content/headers/photos.md` | background of the section landing pages |
 
 The file name (without `.md`) becomes the page URL. Keep slugs lowercase with hyphens.
 
-Every page shows a photo behind its title. Choose which photos rotate there by editing `content/headers/photos.md`: under `home`, `stories`, `photographers`, `memoriam`, or `latest`, list image paths relative to `_media/` (for example `headers/cover-1.jpg`). The `site` list covers pages without their own list (Contact, Donate, My Story). One photo is picked at random from the page's list on each build. Leave a list empty to let the site pick a random photo from that section automatically. The header images themselves live in `_media/headers/`; to add one for In Memoriam, put it there (for example `in-memoriam-2.jpg`) and add it under `memoriam`.
+Every page shows a photo behind its title. Choose which photos rotate there by editing `content/headers/photos.md`: under `home`, `stories`, `photographers`, `memoriam`, or `our-work`, list image paths relative to `_media/` (for example `headers/cover-1.jpg`). The `site` list covers pages without their own list (Contact, Donate, My Story). One photo is picked at random from the page's list on each build. Leave a list empty to let the site pick a random photo from that section automatically. The header images themselves live in `_media/headers/`; to add one for In Memoriam, put it there (for example `in-memoriam-2.jpg`) and add it under `memoriam`.
 
 On a photographer's gallery, opening a photo updates the address bar (for example `.../photographers/corinne-dufka.html#photo=...`). Copying that link and opening it reopens the gallery on that exact photo.
 
@@ -121,7 +121,7 @@ More text. Inline photos are ordinary Markdown images pointing into
 
 Also add `memoriam: jane-doe` to the photographer file so the profile links back to the tribute.
 
-## Posting to Latest
+## Posting to Our Work
 
 Create `_posts/my-post.md`:
 
@@ -131,13 +131,13 @@ title: "New story coming soon"
 description: "One or two sentences shown on the card."
 category: press        # one of: press, photo, video, interview, article, memorial
 date: "2026-07-15"
-image: latest/my-post/cover.jpg   # optional, file under _media/
+image: our-work/my-post/cover.jpg   # optional, file under _media/
 link: "https://example.com/article"    # optional, adds a Read the original button
 ---
 The post body in Markdown.
 ```
 
-The Latest page shows 12 posts at a time; the "View older posts" button reveals more. This is automatic.
+The Our Work page shows 12 posts at a time; the "View older posts" button reveals more. This is automatic.
 
 ### Embedding social media posts and videos
 

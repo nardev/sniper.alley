@@ -1,8 +1,8 @@
 @extends('layouts.site')
 @php
     use App\Content;
-    $title = 'Latest';
-    $posts = collect(Content::latest());
+    $title = 'Our Work';
+    $posts = collect(Content::ourWork());
     $categories = [
         '' => 'All',
         'press' => 'Press',
@@ -13,15 +13,15 @@
         'memorial' => 'Memorials',
     ];
 
-    // Header background: photos defined in content/headers/photos.md (latest),
+    // Header background: photos defined in content/headers/photos.md (our-work),
     // else a random photo drawn from every gallery.
-    $heroImage = Content::headerImage('latest',
+    $heroImage = Content::headerImage('our-work',
         collect(Content::photographers())->flatMap(fn ($p) => collect($p['photos'] ?? [])
             ->map(fn ($ph) => Content::image('photographers', $p['slug'], $ph['file'] ?? null))));
 @endphp
 @section('main')
     @include('components.hero', [
-        'heading' => 'Latest',
+        'heading' => 'Our Work',
         'lede' => 'Updates, stories, and news from the archive. Honoring the past. Sharing it forward.',
         'compact' => true,
         'image' => $heroImage,
@@ -42,7 +42,7 @@
         @else
             <div class="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-3" data-filter-grid>
                 @foreach ($posts as $post)
-                    @include('components.latest-card', ['post' => $post])
+                    @include('components.our-work-card', ['post' => $post])
                 @endforeach
             </div>
             <p class="hidden py-16 text-center text-mist" data-filter-empty>No posts in this category yet.</p>

@@ -8,7 +8,7 @@
 @section('main')
     @include('components.hero', [
         'heading' => 'My Story',
-        'lede' => 'Why this archive exists, told by its founder.',
+        'lede' => 'Why this archive exists and how everything has started, told by its founder.',
         'compact' => true,
         'image' => ($story['background'] ?? null) ? 'pages/my-story/'.$story['background'] : null,
     ])

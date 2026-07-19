@@ -13,7 +13,7 @@
     $external = $post->matter('link');
 @endphp
 <article class="group bg-white shadow-sm ring-1 ring-black/5 transition-shadow hover:shadow-lg" data-category="{{ $category }}">
-    <a href="{{ route('latest/'.$post->identifier) }}" class="block">
+    <a href="{{ route('our-work/'.$post->identifier) }}" class="block">
         @if ($image && file_exists(\Hyde\Hyde::path('_media/'.$image)))
             <div class="aspect-video overflow-hidden bg-smoke">
                 <img src="{{ asset($image) }}" alt="" loading="lazy" class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]">

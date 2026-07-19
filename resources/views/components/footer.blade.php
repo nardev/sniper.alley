@@ -2,12 +2,12 @@
     <div class="mx-auto grid max-w-7xl gap-10 px-4 py-14 sm:px-6 md:grid-cols-2 lg:grid-cols-5">
         <div class="lg:col-span-2">
             <p class="font-display text-xl font-bold text-white">sniperalley<span class="text-accent">.photo</span></p>
-            <p class="mt-3 max-w-xs text-sm leading-relaxed">An archive of photographs, photographers, and stories from Sarajevo under siege, 1992-1996.</p>
+            <p class="mt-3 max-w-xs text-sm leading-relaxed">An archive of photos, photojournalists and their testimonies from Sarajevo under siege, 1992-1996.</p>
         </div>
         <nav aria-label="Site">
             <p class="mb-3 text-xs font-bold uppercase tracking-widest text-white">Site</p>
             <ul class="space-y-2 text-sm">
-                <li><a class="hover:text-white" href="{{ route('latest') }}">Latest</a></li>
+                <li><a class="hover:text-white" href="{{ route('our-work') }}">Our Work</a></li>
                 <li><a class="hover:text-white" href="{{ route('stories-behind-the-photos') }}">Stories Behind the Photos</a></li>
                 <li><a class="hover:text-white" href="{{ route('photographers') }}">Photographers</a></li>
                 <li><a class="hover:text-white" href="{{ route('in-memoriam') }}">In Memoriam</a></li>

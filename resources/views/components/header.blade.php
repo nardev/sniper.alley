@@ -1,7 +1,7 @@
 @php
     $currentKey = ($page ?? null)?->getRouteKey() ?? '';
     $navItems = [
-        'latest' => 'Latest',
+        'our-work' => 'Our Work',
         'photographers' => 'Photographers',
         'stories-behind-the-photos' => 'Stories Behind the Photos',
         'in-memoriam' => 'In Memoriam',

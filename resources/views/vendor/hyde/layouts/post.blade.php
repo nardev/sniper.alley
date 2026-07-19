@@ -15,7 +15,7 @@
 @section('main')
     <section class="bg-night text-white">
         <div class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
-            <a href="{{ route('latest') }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">&larr; Back to latest</a>
+            <a href="{{ route('our-work') }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-white">&larr; Back to our work</a>
             @if ($category)
                 <p class="kicker mt-6">{{ $categoryLabels[$category] ?? ucwords(str_replace('-', ' ', $category)) }}</p>
             @endif

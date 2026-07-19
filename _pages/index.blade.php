@@ -8,7 +8,7 @@
         ->filter(fn ($item) => Content::photographerCover($item))
         ->shuffle();
     $memorials = collect(Content::memoriam())->shuffle();
-    $latestPosts = collect(Content::latest())->take(4);
+    $ourWorkPosts = collect(Content::ourWork())->take(4);
 
     // Header background: photos defined in content/headers/photos.md (home),
     // else a random photo drawn from every gallery.
@@ -117,7 +117,7 @@
                 ['stories-behind-the-photos', 'Stories Behind the Photos', 'Photographers speak about the moment, the image, and what stayed with them.', 'View stories'],
                 ['photographers', 'Photographers', 'Discover the photographers and explore their stories and photo galleries.', 'Explore'],
                 ['in-memoriam', 'In Memoriam', 'Remembering photographers whose work and witness remain part of Sarajevo\'s memory.', 'Visit memoriam'],
-                ['latest', 'Latest', 'Updates, announcements, media mentions and more from the archive.', 'See latest'],
+                ['our-work', 'Our Work', 'Updates, announcements, media mentions and more from the archive.', 'See our work'],
             ] as [$key, $heading, $text, $cta])
                 <a href="{{ route($key) }}" class="group bg-night p-6 text-white transition-colors hover:bg-coal">
                     <h2 class="font-display text-xl font-bold">{{ $heading }}</h2>
@@ -168,15 +168,15 @@
         </section>
     @endif
 
-    @if ($latestPosts->isNotEmpty())
+    @if ($ourWorkPosts->isNotEmpty())
         <section class="mx-auto max-w-7xl px-4 py-14 sm:px-6">
             <div class="flex items-end justify-between gap-4">
-                <p class="kicker">Latest</p>
-                <a href="{{ route('latest') }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-accent-deep">View all latest &rarr;</a>
+                <p class="kicker">Our Work</p>
+                <a href="{{ route('our-work') }}" class="text-xs font-bold uppercase tracking-widest text-accent hover:text-accent-deep">View all our work &rarr;</a>
             </div>
             <div class="mt-6 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
-                @foreach ($latestPosts as $post)
-                    @include('components.latest-card', ['post' => $post])
+                @foreach ($ourWorkPosts as $post)
+                    @include('components.our-work-card', ['post' => $post])
                 @endforeach
             </div>
         </section>

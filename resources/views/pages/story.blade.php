@@ -48,7 +48,7 @@
 
     @if (trim($item['body'] ?? '') !== '')
         <section class="mx-auto max-w-3xl px-4 py-12 sm:px-6">
-            <p class="kicker">The story</p>
+            <p class="kicker">THE STORY BEHIND THE PHOTO</p>
             <div class="prose-site mt-4">{!! Content::renderMarkdown($item['body']) !!}</div>
         </section>
     @endif

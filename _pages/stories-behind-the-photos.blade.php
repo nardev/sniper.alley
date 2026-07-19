@@ -16,7 +16,7 @@
 @section('main')
     @include('components.hero', [
         'heading' => 'Stories Behind the Photos',
-        'lede' => 'Every photograph holds a story beyond the frame. Photographers speak about the moments, the risks, and the human truths behind the images that shaped our memory of Sarajevo and the siege.',
+        'lede' => 'Every picture holds a story beyond the frame. Photographers speak about the moments, the risks and the human truths behind the images that shaped our memory of Sarajevo Siege.',
         'compact' => true,
         'image' => $heroImage,
     ])
@@ -84,6 +84,6 @@
 
     @include('components.cta-band', [
         'heading' => 'Why this archive matters',
-        'text' => 'These stories are more than images. They are witness, memory, and a promise never to forget.',
+        'text' => 'These stories are more than images. They are witness, memory and a promise never to forget.',
     ])
 @endsection

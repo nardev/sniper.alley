@@ -70,9 +70,9 @@ class Content
     }
 
     /** @return array<\Hyde\Pages\MarkdownPost> newest first */
-    public static function latest(): array
+    public static function ourWork(): array
     {
-        return static::$cache['latest'] ??= MarkdownPost::getLatestPosts()->all();
+        return static::$cache['our-work'] ??= MarkdownPost::getLatestPosts()->all();
     }
 
     public static function featuredStory(): ?array
