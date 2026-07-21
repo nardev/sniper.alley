@@ -5,7 +5,7 @@ died: 2018
 banner: 00-ABBAS-scaled.jpg
 cover: cover.jpg
 photographer: abbas-attar-1944-2018
-excerpt: "Abbas Attar better known by his mononym Abbas was born 29 March 1944 in Khash, Iran. He was known for dramatic black and white photographs delivered with a point of view. Abbas was a member of Sipa Pr"
+excerpt: "Abbas Attar better known by his mononym Abbas was born 29 March 1944 in Khash, Iran. He was known for dramatic black and white photographs delivered with a point of view."
 ---
 Abbas Attar better known by his mononym Abbas was born 29 March 1944 in Khash, Iran. He was known for dramatic black and white photographs delivered with a point of view. Abbas was a member of Sipa Press from 1971 to 1973, a member of Gamma from 1974 to 1980, and joined Magnum Photos in 1981. He had dedicated himself to documenting the political and social life of societies in conflict. In his major work since 1970, he had covered wars and revolutions in Biafra, Bangladesh, Northern Ireland, Vietnam, the Middle East, Chile, Cuba, Balkans and South Africa during Apartheid.
 

@@ -5,7 +5,7 @@ died: 2014
 banner: 01-ANJA-scaled.jpg
 cover: cover.jpg
 photographer: anja-niedringhaus-1965-2014
-excerpt: "Anja Niedringhaus was born in Höxter - North Rhine-Westphalia, Germany, and began working as a freelance photographer at age of 17 while still in high school. In 1989, she covered the collapse of the "
+excerpt: "Anja Niedringhaus was born in Höxter - North Rhine-Westphalia, Germany, and began working as a freelance photographer at age of 17 while still in high school."
 ---
 Anja Niedringhaus was born in Höxter - North Rhine-Westphalia, Germany, and began working as a freelance photographer at age of 17 while still in high school. In 1989, she covered the collapse of the Berlin Wall for the German newspaper Göttinger Tageblatt.
 

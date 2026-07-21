@@ -4,7 +4,7 @@ born: 1962
 died: 2007
 cover: cover.jpg
 photographer: alexandra-boulat-1962-2007
-excerpt: "Alexandra Boulat was born in Paris, France, May 2, 1962. She was originally studying graphic design and art history at the Beaux Arts in Paris. She followed in the steps of her father, photographer Pi"
+excerpt: "Alexandra Boulat was born in Paris, France, May 2, 1962. She was originally studying graphic design and art history at the Beaux Arts in Paris."
 ---
 Alexandra Boulat was born in Paris, France, May 2, 1962. She was originally studying graphic design and art history at the Beaux Arts in Paris. She followed in the steps of her father, photographer Pierre Boulat, who worked for LIFE magazine for 25 years and her mother Annie Boulat, founder of Cosmos photo agency which she founded in 1979. Alexandra grew up surrounded with photography and in 1989 she joined Sipa agency and headed for the Balkans where she established herself as one of the very few women conflict photojournalists.
 
