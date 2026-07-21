@@ -10,20 +10,20 @@
 #
 # The site list covers pages without their own list (contact, donate, my story).
 home:
-  - headers/cover-1.jpg
-  - headers/cover-2.jpg
+  - headers/sniperalley-header-01.jpg
+  - headers/sniperalley-header-02.jpg
 stories:
-  - headers/cover-1.jpg
-  - headers/cover-2.jpg
+  - headers/sniperalley-header-01.jpg
+  - headers/sniperalley-header-02.jpg
 photographers:
-  - headers/cover-1.jpg
-  - headers/cover-2.jpg
+  - headers/sniperalley-header-01.jpg
+  - headers/sniperalley-header-02.jpg
 memoriam:
   - headers/in-memoriam-1.jpg
 our-work:
-  - headers/cover-1.jpg
-  - headers/cover-2.jpg
+  - headers/sniperalley-header-01.jpg
+  - headers/sniperalley-header-02.jpg
 site:
-  - headers/cover-1.jpg
-  - headers/cover-2.jpg
+  - headers/sniperalley-header-01.jpg
+  - headers/sniperalley-header-02.jpg
 ---
