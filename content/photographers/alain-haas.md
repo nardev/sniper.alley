@@ -27,7 +27,7 @@ photos:
   - file: sniper_alley_alain_haas_11.jpg
     credit: "Photo Copyright © Alain Haas"
   - file: sniper_alley_alain_haas_12.jpg
-    credit: "sniper_alley_alain_haas_12"
+    credit: "Photo Copyright © Alain Haas"
   - file: sniper_alley_alain_haas_13.jpg
     credit: "Photo Copyright © Alain Haas"
   - file: sniper_alley_alain_haas_14.jpg
