@@ -4,54 +4,55 @@ born: 1953
 died: 2021
 role: Photojournalist
 banner: Tom Stoddart Profile Crop.jpg
-portrait: Tom Stoddart Profile Small.jpg
+cover: Tom Stoddart Profile Crop.jpg
+portrait: sniper_alley_tom_stoddart_05.jpg
 featured: true
 photos:
   - file: sniper_alley_tom_stoddart_01.jpg
     caption: "A smiling child runs across 'Sniper Alley' in Sarajevo during heavy fighting in 1993. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_02.jpg
     caption: "Children use empty ammunition boxes as they play Serb against Bosnians during a break in the real life shelling of Sarajevo of 1992. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_03.jpg
     caption: "SARAJEVO-1994:A Bosnian muslim girl studies the Koran by candlelight during the 47 month long siege of Sarajevo. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_04.jpg
     caption: "Sheltering from a heavy mortar bombardment, 67 year old Antonia Arapovic, hugs her neighbour's terrified child in the darkness of a underground cellar in Sarajevo. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_05.jpg
     caption: "Shrapnel wounds on the face of a frightened boy in a ward at Sarajevo hospital during the siege in 1992. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_06.jpg
     caption: "During a break in the shelling children play basketball in the burnt out financial district of Sarajevo in 1992. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_07.jpg
     caption: "Sarajevo, 1992. A small girl stares silently through a shattered window as a United Nations aid convoy reaches besieged people in the Sarajevo suburb of Dobrinja. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_08.jpg
     caption: "SARAJEVO, BOSNIA - AUGUST 1992: A Dog, Man's Best Friend - He is your friend, your partner, your defender, your dog. You are his life, his love, his leader. He will be yours, faithful and true, to the last beat of his heart. You owe it to him to be worthy of such devotion. A child and puppy in the shattered landscape of Sarajevo. The girl in this picture was identified after the war as Merima Jakupovic with her puppy Smoki. (Photo by Tom Stoddart/Reportage by Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_10.jpg
     caption: "Tears of anguish for a mother as she prepares to send her confused child out of Sarajevo on a bus promised safe passage by the Serb forces during the siege in 1992. After the war the woman was identified as Gordana Burazor holding her baby son Andre. They left Sarajevo and the war behind and were given refugee status by Australia. (Photo by Tom Stoddart/Reportage by Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_11.jpg
     caption: "Amputee Sedija Katica, who lost both legs after being hit by a tank shell, plays with her 5 year old daughter, Amra, near the frontline in Sarajevo, 1994. During the 47 months between the spring of 1992 and February 1996, the people of Sarajevo endured the longest siege Europe has witnessed since the end of the Second World War. More than 10,600 people were killed with a further 56,000 wounded or maimed. (Photo By Tom Stoddart/Reportage by Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_12.jpg
     caption: "Sarajevo, 1994. A small boy stares out of a tram car as it passes burnt out apartments and houses in Sarajevo. During the 47 months between the spring of 1992 and February 1996, the people of Sarajevo endured the longest siege Europe has witnessed since the end of the second world war. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_13.jpg
     caption: "Bosnian soldier Sead Hamzic holds his 53 day old goddaughter Amila outside the family home in Sarajevo shortly before going off to the frontline to fight against Serb forces besieging the former Winter Olympics city. (Photo by Tom Stoddart/Reportage by Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_15.jpg
     caption: "Sarajevo, 1992. Women run for their lives across 'Sniper Alley' under the sights of Serb gunmen during the siege of Sarajevo. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_16.jpg
     caption: "Sarajevo, 1993. In the dangerous suburb of Dobrinja Meliha Vareshanovic walks proudly and defiantly to work during the siege of Sarajevo. Her message to the watching gunmen who surround her city is simple, \"you will never defeat us.\" (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
   - file: sniper_alley_tom_stoddart_17.jpg
     caption: "Sarajevo, 1992. A young widow grieves over the coffin of her husband during his burial in the Lion Cemetery, Sarajevo. (Photo By Tom Stoddart/Getty Images)"
-    credit: "Photo Copyright (c) Tom Stoddart"
+    credit: "Photo Copyright © Tom Stoddart"
 ---
 Everybody liked Tom Stoddart, even other photographers! Especially other photographers.
 Tom was the photographer’s photographer.
