@@ -3,7 +3,7 @@ name: "Tom Stoddart"
 born: 1953
 died: 2021
 role: Photojournalist
-portrait: sniper_alley_tom_stoddart_05.jpg
+portrait: Tom Stoddart Profile Small.jpg
 featured: true
 photos:
   - file: sniper_alley_tom_stoddart_01.jpg
