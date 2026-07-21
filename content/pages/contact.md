@@ -1,7 +1,9 @@
 ---
 title: "Contact"
 ---
-Our website is open to all. Contact us, tell us your story, ask a question, send us war photos.
+Our website is open to all.  
+
+Contact us, tell us your story, ask a question, send us war photos.
 
 It's about all of us, children, victims, survivors.
 
