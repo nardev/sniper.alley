@@ -5,55 +5,55 @@ portrait: sniper_alley_alex_elena_15.jpg
 photos:
   - file: sniper_alley_alex_elena_01.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_02.jpg
     caption: "Iron Maiden concert in Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_03.jpg
     caption: "Iron Maiden concert in Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_04.jpg
     caption: "Iron Maiden concert in Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_05.jpg
     caption: "Iron Maiden concert in Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_06.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_07.jpg
     caption: "1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_08.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_09.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_10.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_11.jpg
     caption: "1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_12.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_13.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_14.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_15.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_16.jpg
     caption: "1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
   - file: sniper_alley_alex_elena_17.jpg
     caption: "Sarajevo, December 1994"
-    credit: "Photo Copyright (c) Alex Elena"
+    credit: "Photo Copyright © Alex Elena"
 ---
 A producer’s story unlike any you've heard before. Alex Elena was raised in the back streets of Rome, Italy. His father, a drummer, and mother, an artist, often entertained and temporarily housed various musician friends from all around the world who would come to jam sessions and record at their home. These multi-cultural artist souls fast became the much older brothers and sisters to this only child, who first picked up a drumstick at age 3 and notoriously slept in the bass drum of his father’s drum kit. Like his father, Alex excelled at playing the drums and he ended up on stage for his very first gig at age 6, in front of a couple of thousand people. At age 17, he moved to London after landing a part in Bruce Dickinson’s (front man for Iron Maiden) solo project band. At age 23 he relocated to New York where he worked as a session musician playing on Avril Lavigne’s multi-platinum debut album "Let Go" as well as on records by Belinda Carlisle, Adam Holzman and Brave New World (ex Miles Davis) to mention a few. His most significant collaboration may have been with musician-producer Tarka Cordell, son of the legendary Denny Cordell, who handed his TriBeCa studio over to Elena during a lengthy stay in England. It was during this time that Elena began honing his production skills. Elena says of Tarka Cordell, “He was the first person who saw me as a producer. Once Alex got behind the console he just couldn't stop and he began to collect equipment and experiment with recording techniques, always in search of that perfect sound as well as fresh new talent to nurture and develop. He also wanted to stir things up stating, “When you have a great pop song to begin with, why would you want to simply follow the modern trends of production? I don't find that challenging. My job is to open up new doors and create the circumstances that allow my artists to fully express themselves”. 
 He later moved to Los Angele where he opened up his own studio in Culver City. He partnered up with Grammy Winning producer mixing and mastering engineer Steve Baughman and together they formed their own production company Two Beards Productions. Alex's studio, M-15 West is managed by Francesco Carrozzo who is also the house engineer and works alongside Alex and Steve. Alex is endorsed by Ehrlund Microphones. One night in December 1994, Bruce Dickinson, with the aid of United Nations soldiers, slipped into Sarajevo and played a concert with his solo band, Alex Dickson, Chris Dale and Alex Elena - Skunkworks.
