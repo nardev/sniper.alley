@@ -11,6 +11,7 @@
         'interview' => 'Interviews',
         'article' => 'Articles',
         'memorial' => 'Memorials',
+        'sketch' => 'Sketches',
     ];
 
     // Header background: photos defined in content/headers/photos.md (our-work),

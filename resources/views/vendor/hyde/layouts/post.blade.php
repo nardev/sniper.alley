@@ -7,6 +7,7 @@
         'interview' => 'Interview',
         'article' => 'Article',
         'memorial' => 'Memorial',
+        'sketch' => 'Sketch',
     ];
     $category = (string) $page->matter('category', '');
     $image = $page->matter('image');

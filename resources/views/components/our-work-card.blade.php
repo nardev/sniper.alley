@@ -8,6 +8,7 @@
         'interview' => 'Interview',
         'article' => 'Article',
         'memorial' => 'Memorial',
+        'sketch' => 'Sketch',
     ];
     $image = $post->matter('image');
     $external = $post->matter('link');
