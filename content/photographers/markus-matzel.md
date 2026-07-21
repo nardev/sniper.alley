@@ -1,47 +1,46 @@
 ---
 name: "Markus Matzel"
 role: Photojournalist
-born: 1967
-portrait: sniper_alley_markus_matzel_01.jpg
+portrait: sniper_alley_markus_matzel_01.jpeg
 photos:
-  - file: sniper_alley_markus_matzel_01.jpg
+  - file: sniper_alley_markus_matzel_01.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_02.jpg
+  - file: sniper_alley_markus_matzel_02.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_03.jpg
+  - file: sniper_alley_markus_matzel_03.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_05.jpg
+  - file: sniper_alley_markus_matzel_05.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_06.jpg
+  - file: sniper_alley_markus_matzel_06.jpeg
     caption: "Dobrinja, Sarajevo."
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_07.jpg
+  - file: sniper_alley_markus_matzel_07.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_08.jpg
+  - file: sniper_alley_markus_matzel_08.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_09.jpg
+  - file: sniper_alley_markus_matzel_09.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_10.jpg
+  - file: sniper_alley_markus_matzel_10.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_11.jpg
+  - file: sniper_alley_markus_matzel_11.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_12.jpg
+  - file: sniper_alley_markus_matzel_12.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_13.jpg
+  - file: sniper_alley_markus_matzel_13.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_14.jpg
+  - file: sniper_alley_markus_matzel_14.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_15.jpg
+  - file: sniper_alley_markus_matzel_15.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_16.jpg
+  - file: sniper_alley_markus_matzel_16.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_17.jpg
+  - file: sniper_alley_markus_matzel_17.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_18.jpg
+  - file: sniper_alley_markus_matzel_18.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_19.jpg
+  - file: sniper_alley_markus_matzel_19.jpeg
     credit: "Photo Copyright © Markus Matzel"
-  - file: sniper_alley_markus_matzel_20.jpg
+  - file: sniper_alley_markus_matzel_20.jpeg
     credit: "Photo Copyright © Markus Matzel"           
 
 ---
