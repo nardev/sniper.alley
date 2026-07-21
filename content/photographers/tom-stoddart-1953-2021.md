@@ -3,6 +3,7 @@ name: "Tom Stoddart"
 born: 1953
 died: 2021
 role: Photojournalist
+banner: Tom Stoddart Profile Crop.jpg
 portrait: Tom Stoddart Profile Small.jpg
 featured: true
 photos:
