@@ -7,7 +7,7 @@
 @section('main')
     @include('components.hero', [
         'heading' => 'Support the Archive',
-        'lede' => 'Help us find, preserve, and share the photographs and stories of Sarajevo under siege.',
+        'lede' => 'Contribute photographs, share a story or help fund the work of preserving our memories.',
         'compact' => true,
     ])
 
