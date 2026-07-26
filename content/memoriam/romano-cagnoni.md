@@ -2,7 +2,8 @@
 name: "Romano Cagnoni"
 born: 1935
 died: 2018
-banner: SLIDE-05.jpg
+banner: ROMANO_CAGNONI_SLIDE.jpg
+cover: ROMANO_CAGNONI_COVER.jpg
 photographer: romano-cagnoni
 excerpt: "Romano Cagnoni was born in Pietrasanta, Italy. He is internationally recognized as one of the most representative photographers of the twentieth century. It was Harold Evans, formerly editor of the Su"
 ---
@@ -22,7 +23,7 @@ Romano Cagnino’s contact sheet archive from Sarajevo 1992-1993.
 Being on the spot and choosing to tell reality through the faces and stories of men, managing to focus on their moods is the path taken by Romano Cagnoni,
 to reveal history in the course of changes and revolutions.
 
-The rest of Romano Cagnoni’s gallery from Sarajevo is here: GALLERY
+The rest of Romano Cagnoni’s gallery from Sarajevo is here: [GALLERY](https://www.sniperalley.photo/photographers/romano-cagnoni.html)
 
 His narration of events is destined to irreversibly modify the order of the world - from the widely documented photojournalist - it becomes a succession of fragments capable of arousing amazement, when the point of view adopted moves the attention to the less obvious element, the most imperceptible, beyond the ordinary news chronicle. It is an innovative process that the photographer implements, communicating his own idea of ​​reality and restoring it to a new unedited vision.
 

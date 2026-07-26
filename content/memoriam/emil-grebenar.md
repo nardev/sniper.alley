@@ -14,19 +14,22 @@ He had ten years of professional wrestling behind him. He was successful and had
 ![Emil Grebenar en - Sniper Alley](/media/memoriam/emil-grebenar/EMIL_SLIDE_04-scaled.jpg)
 
 Popular bathing area Bentbaša during the siege of Sarajevo.
-©Emil Grebenar
+
+Photo © Emil Grebenar
 
 He spent the entire war and siege of the city in Sarajevo, during which he shot close to 12,000 photographs. During the war in Bosnia and Herzegovina, Emil walked the 57-kilometer-long ring of besieged Sarajevo three times, and on countless occasions he found himself in the midst of fighting. With his camera, he recorded the pain and suffering of his fellow citizens day after day. He spent one night in the Ilidža prison when he was arrested by Serb forces while photographing Lord Carrington’s arrival in Sarajevo. He spent countless days photographing the front lines of the city’s defenses together with his colleague from ‘Večernje Novine’ Vildana Selimbegović. “At the time, I worked for Sarajevo’s Večernje Novine and my photojournalist coworker Emil Grebenar and I toured the outskirts of Sarajevo on a daily basis, reporting on the emergence of lines of defense, residents who organized, and ultimatums that arrived.” Vildana Selimbegović
 
 ![Emil Grebenar en - Sniper Alley](/media/memoriam/emil-grebenar/EMIL_SLIDE_10.jpg)
 
 During the siege, Vildana Selimbegović was Emil Grebenar’s inseparable partner..
-©Emil Grebenar
+
+Photo © Emil Grebenar
 
 ![Emil Grebenar en - Sniper Alley](/media/memoriam/emil-grebenar/EMIL_SLIDE_09.jpg)
 
 Pictures from the first line of defense of the Army of BiH (see the rest of the gallery from wartime Sarajevo).
-©Emil Grebenar
+
+Photo © Emil Grebenar
 
 “Mid-May 1992: there was still food in Sarajevo, but also a firm belief that the world would end the agony of the besieged city. The local Territorial Defense commander took us on a tour. They were just taking away the last dead bodies in Gornji Pofalići. Emil took photos of real bunkers. In one of them, most likely blown up by an RPG, we found a scene from old war films: two dead Chetniks, in black uniforms, with long beards and cockades. The house next to the bunker, the fighter explained, belonged to Ratko Mladic’s brother. They found a cache of weapons, food and ammunition in it. The owner, of course, had escaped on time. We climb onto the porch, Emil is still taking photos, and the fighter explains that there are more dead Chetniks nearby and at one point, probably reacting to my paleness, he says: Sorry, ma’am, but we left these for the journalists to see. Let the world know who’s attacking us. On the same day, in the evening news of the Pale television, Ratko Mladić appeared over Sarajevo, most likely at Vraca. He explained the ‘mujahedin’ offensive on Pofalici. The camera shows me, Emil and the commander on the porch of the house, and Mladic says: “You see, the mujahideen also entered my brother’s house.” There was a volley of threats, swearing, promises of destruction.” Vildana Selimbegović
 
@@ -37,21 +40,24 @@ Pictures from the first line of defense of the Army of BiH (see the rest of the 
 ![Emil Grebenar en - Sniper Alley](/media/memoriam/emil-grebenar/EMIL_SLIDE_06.jpg)
 
 Sarajevo 1992 (see the rest of the gallery from wartime Sarajevo).
-©Emil Grebenar
+
+Photo © Emil Grebenar
 
 In 1994, during the siege of Sarajevo, Emil Grebenar organized his first solo war exhibition at the Mak Gallery. Some of the exhibited photos had already been seen in Ankara, Istanbul, Skopje. The exhibition was called ‘Scream of Conscience’. By the way, by 1994, Emil Grebenar had already photographed 8,500 negatives and stored them in his archive. The then Assistant Minister of Culture Mustafa Demir, opening the exhibition, said that one could not help but feel the pleasure of attending this testimony of our Golgotha. In a special, professional way, Emil recorded what we experienced then. That exhibition was another testimony to what our people survived. Nermina Kapić, who was the president of the Board of Directors of ‘Večernje Novine’ at the time, also spoke about Emil Grebenar and his work, saying that his photographs required not only an artistic eye but also a brave heart, because it was necessary to reach the front lines of the defense of the city, that is where everything was photographed and where everything happened.
 
 ![Emil Grebenar en - Sniper Alley](/media/memoriam/emil-grebenar/EMIL_SLIDE_05.jpg)
 
 A girl wounded in one of many Serb mortar attacks during the siege of Sarajevo.
-©Emil Grebenar
+
+Photo © Emil Grebenar
 
 His longtime colleague from ‘Večernje Novine’, Saša Rukavina, remembers. “We had been working together at Večernje Novine for a long time. And no matter how I bring back the memories, there are few where Emil is whining about something, where something is hard for him, where we argue.” While preparing his solo exhibition, he asked Saša for help. “He greeted me at one of my war arrivals to Sarajevo, it must have been in 1993, maybe 1994, all radiant:” You didn’t look at my photos every day, so you will help me choose more objectively about thirty of them for the exhibition. “Yes, he had to make an exhibition. The Association of Journalists of BiH chose him as the war photojournalist of the year. I remember that well: 7,000, yes, he put seven thousand negatives in front of me. We reviewed them in one night. He pulled off that exhibition, I don’t even know how - there was not even water in Sarajevo, let alone photo paper, developers, fixing agents.” Saša Rukavina
 
 ![Emil Grebenar en - Sniper Alley](/media/memoriam/emil-grebenar/EMIL_SLIDE_02.jpg)
 
 During the war Emil Grebenar recorded all aspects of life under siege.
-©Emil Grebenar
+
+Photo © Emil Grebenar
 
 Emil left the country for the Italian city of Prato, where he planned to stay only a few days or months, and stayed for a whole decade. Since 1995, he lived and worked in a small Italian town as a lecturer and photographer. His photos have traveled the world, and numerous awards and professional recognitions have been the crown of his many years of work. He received many awards, of which we single out the award for Bosnia’s best photojournalist of in 1993. Emil Grebenar was especially attached to his city and to the suffering of his people. With his work, which took place in very difficult conditions and with a lack of tools of the trade, he managed to attract and draw the attention of the European public to the tragedy that befell Bosnia, to the brutality of the war that did not spare even civilians. Emil Grebenar’s photos lead us to a whole series of reflections on what was happening so close to us and to the need to awaken human consciousness that is anchored in the values ​​of peace and coexistence among nations. His photos were exhibited in the cities of Ankara, Istanbul, Ohrid, Ljubljana, Maribor, Turin, Prato, Viareggio, Lucca, Collegno, Milan and Florence.
 
@@ -60,7 +66,8 @@ Some of his photographs have traveled the world and the most popular among them 
 ![Emil Grebenar en - Sniper Alley](/media/memoriam/emil-grebenar/EMIL_SLIDE_08.jpg)
 
 A Bosnian Army soldier rescues two children from the rubble after shelling from Serb positions.
-©Emil Grebenar
+
+Photo © Emil Grebenar
 
 Grebenar’s newspaper photographs are characterized by both high documentary content and an exceptional sense of time and place. “The greatest opportunity is photography and the pleasure of doing the job I love. For the last ten years I have worked and lived in the beautiful Italian town of Prato, where I met many dear people, made great friends, of whom I single out my photography students Agostino Gestri and Claudio Muzzetto, whose photographs were exhibited at this first exhibition of mine after a long period of time.” Emil had sixty solo exhibitions throughout Italy, and his photos have toured Europe and other continents. “All these years I have kept in touch with my hometown, but recently I saw a report from Sarajevo in a magazine which made it feel much better, more beautiful and more glamorous than it really is. This prompted me to come again and take a new series of photos with my students, and the result is my exhibition ‘Scream of Conscience II’, where photos of Sarajevo then and now are exhibited.” he adds.
 

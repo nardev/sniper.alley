@@ -2,8 +2,8 @@
 name: "Danilo Krstanovic"
 born: 1951
 died: 2012
-banner: DANILO-00-EN-scaled.jpg
-cover: cover.jpg
+banner: DANILO_KRSTANOVIC_BANNER.jpg
+cover: DANILO_KRSTANOVIC_COVER.jpg
 photographer: danilo-krstanovic-1951-2012
 excerpt: "Danilo Krstanović was born in Sarajevo in 1951 in a family with photography tradition. Danilo inherited his love for photography from his father Slobodan Krstanovic and his uncle Uros Krstanovic, who "
 ---

@@ -2,9 +2,10 @@
 name: "Hidajet Delic"
 born: 1948
 died: 2017
-banner: 00-HIDAJET-EN-scaled.jpg
+banner: HIDAJET_DELIC_BANNER.jpg
+cover: HIDAJET_DELIC_COVER.jpg
 photographer: hidajet-delic-1948-2017
-excerpt: "Hidajet Delic Degi was born in Sarajevo in 1948. He discovered photography in secondary school. His first photojournalism engagements were for daily and weekly publications such as Spektar, Nasi Dani,"
+excerpt: "Hidajet Delic Degi was born in Sarajevo in 1948. He discovered photography in secondary school. His first photojournalism engagements were for daily and weekly publications such as Spektar, Nasi Dani."
 ---
 Hidajet Delic Degi was born in Sarajevo in 1948. He discovered photography in secondary school. His first photojournalism engagements were for daily and weekly publications such as Spektar, Nasi Dani, Oslobodjenje, Svijet. In 1968 he joined the Tanjug news agency as a photojournalist and stayed with them until the dissolution of Yugoslavia.
 
