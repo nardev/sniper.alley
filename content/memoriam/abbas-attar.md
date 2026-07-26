@@ -2,8 +2,8 @@
 name: "Abbas Attar"
 born: 1944
 died: 2018
-banner: 00-ABBAS-scaled.jpg
-cover: cover.jpg
+banner: ABBAS_ATTAR_BANNER.jpg
+cover: ABBAS_ATTAR_COVER.jpg
 photographer: abbas-attar-1944-2018
 excerpt: "Abbas Attar better known by his mononym Abbas was born 29 March 1944 in Khash, Iran. He was known for dramatic black and white photographs delivered with a point of view."
 ---
@@ -60,21 +60,23 @@ Abbas covered ‘Sarajevo under the Siege’, Bosnia and Herzegovina. He came to
 
 ![Abbas Attar](/media/memoriam/abbas-attar/07-ABBAS.jpg)
 
-In the frontline district of Dobrinja, garbage containers and sandbags protect passers-by from Serbian sniper fire. A young boy runs along, his small height making it unnecessary for him to duck down like adults when they cross the Bridge of Death. 1993, Sarajevo. The rest of his gallery from Sarajevo.
+In the frontline district of Dobrinja, garbage containers and sandbags protect passers-by from Serbian sniper fire. A young boy runs along, his small height making it unnecessary for him to duck down like adults when they cross the Bridge of Death. 1993, Sarajevo.
+
 Abbas Attar | Magnum
 
 ![Abbas Attar](/media/memoriam/abbas-attar/08-ATTAR.jpg)
 
 Despite its accompanying cold, Sarajevans love snow. While falling, it protects them from Serbian sniper fire. Children skid on sledges, unaware of the danger of mortar or artillery fire which can strike any part of the city at any time. 1993, Sarajevo.
+
 Abbas Attar | Magnum
 
 One of his most heart-wrenching photographs taken in 1993 shows the body of a young boy, killed in an explosion Sarajevo, as it’s washed down in a morgue. The eyes are still open, the face still animated. “You could see a boy still dreaming boyish dreams.
 I broke down [but] I kept taking photographs, of course,” Abbas says, showcasing both his innate empathy, and his overriding compulsion to document humanity at its most extreme.
 
-NEXT SLIDE IS THE PHOTO IN QUESTION.
-VIEWER’S DISCRETION ADVISED.
+![Abbas Attar](/media/memoriam/abbas-attar/09-ATTAR.jpg)
 
 A boy is washed (Ghusl) in the muslim tradition before burial, killed by a Serbian mortar attack on his school. 1993, Sarajevo.
+
 Abbas Attar | Magnum
 
 According to Abbas, there are two approaches to photography: one is writing with light, and the other is drawing with light. The school of Henri Cartier-Bresson, they draw with light, they sketch with light. The single picture is paramount for them. “For me, that was never the point. My pictures are always part of a series, an essay. Each picture should be good enough to stand on its own but its value is a part of something larger.” Although his official biography states that he was a ‘born photographer’, Abbas told Magnum of how a road trip through New Orleans in 1968 made him a ‘professional’. He explained how through the making of his first photographic essay he learned the significance of sequencing in order to build a narrative.

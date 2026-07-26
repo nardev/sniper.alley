@@ -2,17 +2,18 @@
 name: "Karsten Thielker"
 born: 1965
 died: 2020
-banner: COVER-KARSTEN-EN-scaled.jpg
-cover: cover.jpg
+banner: KARSTEN_THIELKER_BANNER.jpg
+cover: KARSTEN_THIELKER_COVER.jpg
 photographer: karsten-thielker-1965-2020
-excerpt: "Karsten Thielker was born on 12 November 1965 in Bergisch Gladbach in Germany. He initially was interested in travel photography. Thielker has started his career at a Mainz-area regional newspaper but"
+excerpt: "Karsten Thielker was born on 12 November 1965 in Bergisch Gladbach in Germany. He initially was interested in travel photography. Thielker has started his career at a Mainz-area regional newspaper"
 ---
-Karsten Thielker was born on 12 November 1965 in Bergisch Gladbach in Germany. He initially was interested in travel photography. Thielker has started his career at a Mainz-area regional newspaper but an assignment by Associated Press to cover the Yugoslavian War drove him to war genre. He saw it as an opportunity to travel and to check his possible reactions in extreme situations, so he seized it: his career on conflict zones had started. Thielker´s most famous work is a photograph of Rwandan refugees carrying water back to a camp in Tanzania that won him a Pulitzer Prize in 1995. At that time, he reported the Hutus and Tutsis overwhelming civil war together with Jaqueline Artz, Javier Bauluz and Jean-Marc Bouju.
+Karsten Thielker was born on 12 November 1965 in Bergisch Gladbach in Germany. He initially was interested in travel photography. Thielker has started his career at a Mainz-area regional newspaper but an assignment by Associated Press to cover the Yugoslavian War drove him to war genre. Karsten Thilker covered the Siege of Sarajevo. He saw it as an opportunity to travel and to check his possible reactions in extreme situations, so he seized it: his career on conflict zones had started. Thielker´s most famous work is a photograph of Rwandan refugees carrying water back to a camp in Tanzania that won him a Pulitzer Prize in 1995. At that time, he reported the Hutus and Tutsis overwhelming civil war together with Jaqueline Artz, Javier Bauluz and Jean-Marc Bouju.
 
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_01.jpg)
 
 His photo of an overcrowded camp of Rwandan refugees in 1994 in Tanzania was among those selected for the prizewinning package.
-©Karsten Thielker
+
+Photo © Karsten Thielker
 
 His works have been exhibited in various European countries, in Mexico and in Nigeria and he has also conducted workshops for the Goethe Institute in Lagos, Nigeria, and Guadalajara, México. Thielker worked for the Rhein-Zeitung from 1981 to 1990, and for the Associated Press from 1990 to 1996 and as a freelance photographer from Berlin since 1997. He is known to be one of those photo journalists who have worked surrounded by confrontations with death, ethical issues and the consequences they witness when they report from conflict zones. Since 2010, he contributed to theInternet Image Database (www.piaxa.com), and founded the Berlin photography edition “berlindaily”. Apart from his dedication to street photography, he worked mostly for the Taz - Die Tageszeitung, but also for major German papers and magazines like Der Spiegel, Stern, FAZ - Frankfurter Allgemeine Zeitung, Die Zeit.
 
@@ -21,12 +22,14 @@ Thielker’s career took him to many other conflicts and war zones, including Bo
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_02.jpg)
 
 War-torn maternity ward in Sarajevo, a reportage symbolically named ‘Sarajevo birth’.
-©Karsten Thielker
+
+Photo © Karsten Thielker
 
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_06.jpg)
 
 Makeshift basement maternity ward at City’s Koševo Hospital. You can check it out, together with his other works, on his website: www.karstenthielker.photoshelter.com
-©Karsten Thielker
+
+Photo © Karsten Thielker
 
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_12.jpg)
 
@@ -64,8 +67,6 @@ Karsten Thielker diary | October 1993 | Sarajevo, Bosnia & Herzegovina
 
 “Impossible to write in words, to illustrate with photos. So many truths, these extremes. Kosevo Hospital. The shooting started at 4 am. Now I’m sitting again, as a year before, at the entrance of the Emergency Room, lurking my victims. Nothing has changed, only the entrance door switched. My victims: the same. Old women, small children, bleeding soldiers. At breakfast, I enjoyed marmalade and honey sandwiches. Here’s the bloody dessert. People with half faces, missing limbs, disfigured look, spilling guts - blood, blood, blood. Helpless moaning of severely injured - does this fit the format? That’s action, as Richy (AP - stringer in Sarajevo) says, with the negatives of wounded people on the light table. Which only means, some shots document more drama. And even those fail my acceptance - if you image how many photos were made in front of this hospital in the past 18 months. How often we heard the honking cars, signal to get ready for our next shot, meat inspection for our clients, the quest for the new, the other, unheard of - selection of horror - Just like in a commercial. “In TV, you’re sitting in the first row”, they say. But who is really sitting in the first row… not those in the easy chairs, on the sofa, in bed, the boring, lonely, the wisemen - they are only being shown what we, who are really sitting in the first row, are producing.”
 
-(the rest of the gallery from Sarajevo you can see here)
-
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_04-1.jpg)
 
 Karsten Thielker diary | 26 October 1993 | Sarajevo, Bosnia & Herzegovina
@@ -86,14 +87,18 @@ Photo by Sandra Engelke
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_13.jpg)
 
 Karsten’s eternal resting place.
-©Yorck Maecke
+
+Photo © Yorck Maecke
+
+
 
 KARSTEN THIELKER was born on 12 November 1965 in Bergisch Gladbach, Germany.
 
 He died on 3 October 2020 of cancer in Berlin, Germany.
 
-__
 
+
+__
 Cover photo by Rüdiger Knobloch
 Special thanks to Janna L. Ressel
 Thanks to Yorck Maecke
