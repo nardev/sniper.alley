@@ -16,4 +16,4 @@
 - Site content sections: stories behind the photos, photographers, in memoriam, our work, plus pages (my story / mission, contact, donate).
 - Images live in `_media/`. Original archive scrape tooling lives in `tools/scrape/` (not part of the site build).
 - Build: `php hyde build`. Local preview: `php hyde serve`. Assets: `npm run build`.
-- Deploys to GitHub Pages via Actions on push to main. Initial domain: new.sniperalley.photo, later www.sniperalley.photo.
+- Deploys to GitHub Pages via Actions on push to main. Domain: www.sniperalley.photo.

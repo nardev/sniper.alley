@@ -6,6 +6,7 @@
 
 @source '../../_pages';
 @source '../views';
+@source './app.js';
 
 @theme {
     --color-night: #0e0d0c;

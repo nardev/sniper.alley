@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('SITE_URL', 'https://new.sniperalley.photo'),
+    'url' => env('SITE_URL', 'https://www.sniperalley.photo'),
 
     /*
     |--------------------------------------------------------------------------

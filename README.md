@@ -167,13 +167,13 @@ Preview a change before pushing with `php hyde build && php hyde serve`.
 
 ## Domain
 
-The site currently serves from GitHub Pages. To activate `new.sniperalley.photo`:
+The site serves from GitHub Pages at `www.sniperalley.photo`:
 
-1. Add a DNS CNAME record: `new.sniperalley.photo` pointing to `nardev.github.io`.
-2. In the repository settings under Pages, set the custom domain to `new.sniperalley.photo` and enable Enforce HTTPS.
-3. Set `'url' => 'https://new.sniperalley.photo'` in `config/hyde.php` and push, so sitemap and feed URLs are correct.
+1. DNS CNAME record: `www.sniperalley.photo` pointing to `nardev.github.io`.
+2. In the repository settings under Pages, the custom domain is `www.sniperalley.photo` with Enforce HTTPS enabled.
+3. `'url' => 'https://www.sniperalley.photo'` in `config/hyde.php` keeps sitemap and feed URLs correct.
 
-Switching later to `www.sniperalley.photo` is the same three steps with the new name.
+For old links to keep working, the apex `sniperalley.photo` must also point at GitHub Pages (A records 185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153); GitHub then redirects it to `www`. Redirects from old site URLs are generated at build time by `app/Actions/GenerateRedirectsBuildTask.php`.
 
 ## Archive scrape tooling
 

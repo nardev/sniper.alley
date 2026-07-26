@@ -5,52 +5,52 @@ portrait: sniper_alley_marleen_daniels_01.jpg
 photos:
   - file: sniper_alley_marleen_daniels_01.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_02.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_03.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_04.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_05.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_06.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_07.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_08.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_09.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_10.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_11.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_12.jpg
     caption: "Sarajevo, Christmas 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_13.jpg
     caption: "Sarajevo, Christmas 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_14.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_15.jpg
     caption: "Sarajevo, 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
   - file: sniper_alley_marleen_daniels_16.jpg
     caption: "Sarajevo, Christmas 1992"
-    credit: "Photo Copyright (c) Marleen Daniëls"
+    credit: "Photo Copyright © Marleen Daniëls"
 ---
 Marleen Daniels was born on 4 October 1958 in Heusden-Zolder, Limburg. She is a Belgian photographer. Educated in St Lucas, Hasselt and Technicum, Antwerp, she started as freelancer photographer in the eighties, and became fully independent in 1984. Until 1989 she was working mainly for the newspaper Het Belang van Limburg. In 1989 a year of political turmoil, she covered Lebanon, Beyrouth with journalist Marc Hoogsteyns during the last days of Michel Aoun. With the late journalist Hans Klok she traveled through South America, covering the fate of the Amazon Rainforest and the elections in Chile. Later that year they covered the revolution in Romania and the fall of Nicolae Ceauşescu for Het Belang van Limburg From that period on she was attached to the French agency Gamma, regularly providing pictures from hot spots around the world. During the nineties she covered the orphans of Romania, Chernobyl 10 years later, spring in Albania, the first Iraq War, and the Jordanian and Kurdish refugee crisis.. For these features she was rewarded the Belgian Fuji Press Photo Award in 1994.
 In the summer of 1992 the war in former Yugoslavia broke out and soon after the war in Bosnia, Sarajevo became her home base for the next two years. Her war work was published in International magazines Stern, Paris Match, Time, Newsweek, New York Times Magazine, El Mundo and Belgian magazines De Standaard Magazine, De Morgen, Panorama.
