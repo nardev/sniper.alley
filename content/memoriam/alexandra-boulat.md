@@ -89,7 +89,7 @@ She died from complications of a brain aneurysm on 5 October 2007 in Paris, Fran
 
 __
 
-Cover photo by Emmanuel Ortiz
+Cover photo by Nikola Solic and Jerome Delay
 Special thanks to Annie Boulat
 Thanks to VII Photo Agency, National Geographic & The Guardian
 Translated by Mustafa Čorbo
