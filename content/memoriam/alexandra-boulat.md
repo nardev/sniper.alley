@@ -2,7 +2,8 @@
 name: "Alexandra Boulat"
 born: 1962
 died: 2007
-cover: cover.jpg
+banner: ALEXANDRA_BOULAT_BANNER.JPG
+cover: ALEXANDRA_BOULAT_COVER.JPG
 photographer: alexandra-boulat-1962-2007
 excerpt: "Alexandra Boulat was born in Paris, France, May 2, 1962. She was originally studying graphic design and art history at the Beaux Arts in Paris."
 ---

@@ -2,8 +2,8 @@
 name: "Jordi Pujol Puente"
 born: 1967
 died: 1992
-banner: SLIDE-00-EN-scaled.jpg
-cover: cover.jpg
+banner: JORDI_PUJOL_PUENTE_BANNER.jpg
+cover: JORDI_PUJOL_PUENTE_COVER.jpg
 photographer: jordi-pujol-puente-1967-1992
 excerpt: "Jordi Pujol Puente was born in Barcelona 1967, where he studied Information Sciences at the Autonomous University of Barcelona. Before finishing his degree, with three pending subjects, he began worki"
 ---
