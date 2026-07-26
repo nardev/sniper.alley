@@ -17,9 +17,7 @@ Bosnia, Butmir, April 1992, start of the war. Yannis Behrakis | Reuters
 
 ![Yannis Behrakis](/media/memoriam/yannis-behrakis/11-YANNIS.jpg)
 
-Bosnian children fill up bottles with water from a pond after a rainstorm in Sarajevo, August 1993.
-
-Yannis Behrakis | Reuters
+Bosnian children fill up bottles with water from a pond after a rainstorm in Sarajevo, August 1993. Yannis Behrakis | Reuters
 
 ![Yannis Behrakis](/media/memoriam/yannis-behrakis/07-YANNIS.jpg)
 
