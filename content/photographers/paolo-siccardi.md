@@ -4,45 +4,45 @@ role: Photojournalist
 portrait: sniper_alley_paolo_siccardi_13.jpg
 photos:
   - file: sniper_alley_paolo_siccardi_01.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_02.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_03.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_04.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_05.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_06.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_07.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_08.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_09.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_10.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_11.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_12.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_13.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_14.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_15.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_16.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_17.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_18.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_19.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
   - file: sniper_alley_paolo_siccardi_20.jpg
-    credit: "Photo Copyright (c) Paolo Siccardi"
+    credit: "Photo Copyright © Paolo Siccardi"
 ---
 Paolo Siccardi, journalist and freelance photoreporter, he is the author of several books and photographic exhibitions.Since 2000 he has collaborated exclusively with the Italian magazine "Famiglia Cristiana" for all reportages.
 He began his career in the 80s, at the end of the "Years of Lead", documenting the first trials in Turin for terrorism and workers' struggles. Among his most significant works was the conflict over Afghanistan, from the soviet occupation in 1986 to the ISAF mission in 2009.

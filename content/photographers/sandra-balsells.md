@@ -5,64 +5,64 @@ portrait: sniper_alley_sandra_balsells_15.jpg
 photos:
   - file: sniper_alley_sandra_balsells_01.jpeg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_02.jpg
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_03.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_04.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_05.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_06.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_07.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_08.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_09.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_10.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_11.jpeg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_12.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_13.jpg
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_15.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_16.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_17.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_18.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_19.jpg
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_20.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_21.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
   - file: sniper_alley_sandra_balsells_22.jpg
     caption: "Sarajevo 1993"
-    credit: "Photo Copyright (c) Sandra Balsells"
+    credit: "Photo Copyright © Sandra Balsells"
 ---
 Sandra Balsells (Barcelona,1966).
 In 1989, after graduating in journalism at the Universidad Autónoma of Barcelona, she moved to London where she began her career in the field of photojournalism. There, after completing a Postgraduate Diploma in Photojournalism at London College of Printing, she began her career as a freelance photographer.

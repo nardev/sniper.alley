@@ -6,33 +6,33 @@ photos:
   - file: sniper_alley_howard_sayer_01.jpg
     credit: "sniper_alley_howard_sayer_01"
   - file: sniper_alley_howard_sayer_02.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_03.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_04.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_05.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_06.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_07.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_08.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_09.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_10.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_11.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_12.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_13.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_14.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_15.jpg
-    credit: "Photo Copyright (c) Howard Sayer"
+    credit: "Photo Copyright © Howard Sayer"
   - file: sniper_alley_howard_sayer_16.jpg
     credit: "sniper_alley_howard_sayer_16"
 ---

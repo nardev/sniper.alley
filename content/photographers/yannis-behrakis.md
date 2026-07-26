@@ -7,7 +7,7 @@ role: Photojournalist
 portrait: yannis_behrakis_01.jpg
 photos:
   - file: yannis_behrakis_01.jpg
-    credit: "Photo Copyright (c) Yannis Behrakis"
+    credit: "Photo Copyright © Yannis Behrakis"
   - file: yannis_behrakis_02.jpg
-    credit: "Photo Copyright (c) Yannis Behrakis"
+    credit: "Photo Copyright © Yannis Behrakis"
 ---

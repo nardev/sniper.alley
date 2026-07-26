@@ -4,33 +4,33 @@ role: Photojournalist
 portrait: sniper_alley_mario_boccia_03.jpg
 photos:
   - file: sniper_alley_mario_boccia_01.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_02.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_03.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_04.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_05.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_06.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_07.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_08.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_09.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_10.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_11.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_12.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_13.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_14.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
   - file: sniper_alley_mario_boccia_15.jpg
-    credit: "Photo Copyright (c) Mario Boccia"
+    credit: "Photo Copyright © Mario Boccia"
 ---
