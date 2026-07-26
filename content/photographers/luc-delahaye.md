@@ -1,7 +1,7 @@
 ---
 name: "Luc Delahaye"
 role: Photojournalist
-portrait: sniper_alley_luc_delahaye_01.jpg
+portrait: sniper_alley_luc_delahaye_02.jpg
 featured: true
 photos:
   - file: sniper_alley_luc_delahaye_01.jpg
@@ -11,8 +11,6 @@ photos:
   - file: sniper_alley_luc_delahaye_03.jpg
     credit: "Photo Copyright © Luc Delahaye"
   - file: sniper_alley_luc_delahaye_04.jpg
-    credit: "Photo Copyright © Luc Delahaye"
-  - file: sniper_alley_luc_delahaye_05.jpg
     credit: "Photo Copyright © Luc Delahaye"
   - file: sniper_alley_luc_delahaye_06.jpg
     credit: "Photo Copyright © Luc Delahaye"
