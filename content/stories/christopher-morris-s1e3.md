@@ -30,9 +30,12 @@ thanks to: Hasnija Zulić & Anna Prokou
 special thanks to VII Academy: https://vii.academy
 
 
-SUBTITLES: English & Bosnian
-WATCH IT IN 4K
-_ 
+SUBTITLES: English & Bosnian  
 
+WATCH IT IN 4K  
+
+_ 
+  
+  
 
 Thanks to photographers for the photos used in the title sequence.
