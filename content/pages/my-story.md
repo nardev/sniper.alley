@@ -55,12 +55,12 @@ As I searched and searched, I discovered many great shots and really stunning pi
 
 ![My Story](/media/pages/my-story/ANJA_NIEDRINGHAUS.jpg)
 
-Anja Niedringhaus 6th of May 1995.
+Anja Niedringhaus 6th of May 1995. Our private archive
 
 ![My Story](/media/pages/my-story/FATHER_AND_SON.jpg)
 
 Anja Niedringhaus behind me and my late father,
-6th of May 1995.
+6th of May 1995. Photo from our private archive.
 
 APPEAL
 
@@ -93,8 +93,10 @@ Anything.
 
 12.08.2019.
 
-Music used:
-Franz Schubert - Sonata in A Minor, D.959 - II. Andantino
-Performed by: Charlie Albright (piano)
-Boston: Isabella Stewart Gardner Museum
-Creative Commons Attribution-NonCommercial-NoDerivs 4.0
+
+
+
+
+March 2021 update: https://www.rferl.org/a/sarajevo-siege-bosnia-snipers-alley-photograph/31791550.html
+
+
