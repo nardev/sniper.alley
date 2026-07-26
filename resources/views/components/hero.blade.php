@@ -10,7 +10,7 @@
     <div class="relative mx-auto max-w-7xl px-4 py-16 sm:px-6 {{ ($compact ?? false) ? 'lg:py-20' : 'lg:py-28' }}">
         <h1 class="max-w-3xl font-display text-4xl font-bold leading-tight sm:text-5xl {{ ($compact ?? false) ? '' : 'lg:text-6xl' }}">{!! $heading !!}</h1>
         @isset ($lede)
-            <p class="mt-5 max-w-xl text-base leading-relaxed text-white/80 sm:text-lg">{{ $lede }}</p>
+            <p class="mt-5 max-w-xl text-base leading-relaxed text-white/80 sm:text-lg">{!! $lede !!}</p>
         @endisset
         @isset ($actions)
             <div class="mt-8 flex flex-wrap gap-3">{!! $actions !!}</div>

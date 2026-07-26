@@ -3,6 +3,7 @@
 document.addEventListener('DOMContentLoaded', () => {
     initNav();
     initRandomPools();
+    initFeaturedHighlight();
     initPhotographerFilter();
     initPhotographerSort();
     initVerticalSlider();
@@ -28,6 +29,25 @@ function initRandomPools() {
         }
         pool.append(...items.filter(Boolean).slice(0, count));
     }
+}
+
+// The featured story block is a random pool of one, so each visit shows a
+// different story. Mirror the pick in the story slider next to it: highlight
+// the matching row and scroll it into view.
+function initFeaturedHighlight() {
+    const pool = document.querySelector('[data-featured-pool]');
+    const track = document.querySelector('[data-vslider]');
+    if (!pool || !track || !pool.firstElementChild) return;
+    const slug = pool.firstElementChild.getAttribute('data-story-slug');
+    const row = slug && track.querySelector(`[data-story-slug="${slug}"]`);
+    if (!row) return;
+    row.classList.add('bg-black/[0.04]');
+    const title = row.querySelector('h3');
+    if (title) {
+        title.classList.remove('group-hover:text-accent');
+        title.classList.add('text-accent');
+    }
+    track.scrollTop = Math.max(0, row.offsetTop - track.offsetTop);
 }
 
 function initNav() {
