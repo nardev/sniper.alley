@@ -2,8 +2,8 @@
 name: "Paul Marchand"
 born: 1961
 died: 2009
-banner: 00-PAUL-EN-2-scaled.jpg
-cover: cover.jpg
+banner: PAUL_MARCHAND_BANNER.jpg
+cover: PAUL_MARCHAND_COVER.jpg
 excerpt: "Paul Marchand was born on 1 October in 1961. in Amiens, France. He studied at the Institute for political science in Grenoble. Paul started his career as a journalist in a small private radio station "
 ---
 Paul Marchand was born on 1 October in 1961. in Amiens, France. He studied at the Institute for political science in Grenoble. Paul started his career as a journalist in a small private radio station ‘Radio 100’ managed by Hélène Tavelle. At the same time, he took criminology lessons and did internships at the hospital morgue. Barely 22 years old, he abandoned his studies and left to report in Beirut during their civil war. Six months later, he was a correspondent for Radio-France and several Canadian media. For many years, he was the only Western journalist to practice in West Beirut, on the Muslim side. The French government considering that he is in danger, forcibly expels him to Cyprus: Paul fled and returned to West Beirut.
@@ -41,8 +41,6 @@ The movie director Guillaume de Fontenay tried to collect funding for the movie 
 
 ![Paul Marchand](/media/memoriam/paul-marchand/03-PAUL.jpg)
 
-Trailer for the film ‘The Sympathy for the Devil’ you can watch here.
-
 “At the time, the war in Bosnia was intimately linked to the voice of Paul Marchand, whose stories I heard from Radio-Canada,” recalls the filmmaker who offers his first film. It is a conflict that shocked me; to see that the international community has left like this for four years of siege where dozens of civilians, on average, died every day. I still have this problem with our collective apathy: The same thing is repeated in Syria.” Guillaume de Fontenay
 
 Co-producer of ‘Sympathy for the Devil’ Amra Bakšić Čamo considers that a war reporter cannot separate himself from his subjects. “His book is thus more interesting since it depicts a journalist who leave a typical journalist atmosphere. Suddenly, he had friends who lose members of their family and are starving to death. For most journalists it is a sort of blitzkrieg: they come there for a while, write their story, go back home and strive not to bring those experiences into their everyday life. But for those who remained and were in Sarajevo for a long period of time, their lives have changed forever.” explains Amra, and afterwards she asks: “How did they manage to draw a line between objectivity and lives of the Sarajevo people? I think that we must always be conscious of the fact that we are not only making movies for tomorrow; we make movies for eternity. So, it is not only the matter of the direct impact of the movie distribution in Bosnia and Herzegovina or France in the present, but of the fact how will be this movie perceived 40 years after its premiere”, Amra Bakšić Čamo concludes.
@@ -58,6 +56,7 @@ Paul Marchand
 ![Paul Marchand](/media/memoriam/paul-marchand/08-PAUL.jpg)
 
 Paul and Boba having dinner before he was wounded. October 1993, Sarajevo.
+
 Photo © private archive
 
 Behind this brave man who came to the most dangerous place on earth, to convey the truth about the sufferings and killings of Sarajevans, there will be this book, this film ‘Sympathy for the Devil’ which will tell a story of a great love during the war. Love that ignited amidst war in the city that was about to be burnt and dead, in a city that survived all the bullets and bombs. Love was stronger than all of it. Slobodanka Boba Lizdek knows that very well.
@@ -81,7 +80,7 @@ He left us on 20 June 2009 in Paris, France.
 
 __
 
-Cover Photo: Emmanuel Ortiz
+
 Special thanks to: Slobodanki Boba Lizdek
 Translations: Asmir i Edina Demir
 Sources: Klix.ba, Oslobodjenje.ba, Azra.ba & BalkanInsight.com

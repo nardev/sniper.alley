@@ -2,8 +2,8 @@
 name: "Anja Niedringhaus"
 born: 1965
 died: 2014
-banner: 01-ANJA-scaled.jpg
-cover: cover.jpg
+banner: ANJA_NIEDRINGHAUS_BANNER.jpg
+cover: ANJA_NIEDRINGHAUS_COVER.jpg
 photographer: anja-niedringhaus-1965-2014
 excerpt: "Anja Niedringhaus was born in Höxter - North Rhine-Westphalia, Germany, and began working as a freelance photographer at age of 17 while still in high school."
 ---
@@ -75,7 +75,6 @@ In a memo to staff, AP President Gary Pruitt remembered Niedringhaus as “spiri
 ![Anja Niedringhaus](/media/memoriam/anja-niedringhaus/03-ANJA-Grave.jpg)
 
 Anja Niedringhaus eternal resting place in Höxter.
-You can watch short video of her funeral here.
 
 ![Anja Niedringhaus](/media/memoriam/anja-niedringhaus/ANJA-COVER-2.jpg)
 

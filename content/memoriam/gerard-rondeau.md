@@ -5,7 +5,7 @@ died: 2016
 banner: 00-GERARD-scaled.jpg
 cover: cover.jpg
 photographer: gerard-rondeau-1953-2016
-excerpt: "Gérard Rondeau was born in Chalons-en-Champagne on 10 April in 1953, in a family of teachers. He studied in Reims and in the 1970s he worked at the Alliance Française in Colombo, Sri Lanka. The discov"
+excerpt: "Gérard Rondeau was born in Chalons-en-Champagne on 10 April in 1953, in a family of teachers. He studied in Reims and in the 1970s he worked at the Alliance Française in Colombo, Sri Lanka."
 ---
 Gérard Rondeau was born in Chalons-en-Champagne on 10 April in 1953, in a family of teachers. He studied in Reims and in the 1970s he worked at the Alliance Française in Colombo, Sri Lanka. The discovery of Henri Cartier-Bresson’s book about the USSR, in the library of the Alliance, was a revelation for him. As soon as he was back in Champagne, he launched his career as a self-taught photographer. or over more than twenty years, he maintained a close partnership with the newspaper Le Monde, producing a large portrait collection of painters and contemporary writers, with lasting friendships emerging from those interactions. He photographed the painter Paul Rebeyrolle in action and traveled the battlefields of the First World War with the novelist Yves Gibeau. He toured some of the most famous music venues in the world with the Ysaÿe Quartet. He also proceeded with the realization of an inventory of the streets that marked his life with the help of the writer Bernard Franck, as well as went up the Marne with Jean-Paul Kauffman.
 
@@ -24,7 +24,7 @@ Gérard Rondeau presented numerous solo shows in institutions such as the Galeri
 ![Gérard Rondeau](/media/memoriam/gerard-rondeau/03-GERARD.jpg)
 
 Sarajevo, January 1994
-Gérard Rondeau (his gallery of Sarajevo during the war )
+Gérard Rondeau
 
 ![Gérard Rondeau](/media/memoriam/gerard-rondeau/01-GERARD.jpg)
 

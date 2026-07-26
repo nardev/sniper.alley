@@ -85,7 +85,9 @@ Peter Andrews
 
 ![Danilo Krstanovic](/media/memoriam/danilo-krstanovic/DANILO-09.jpg)
 
-Danilo Krstanovic and Peter Andrews helping a wounded woman, 28 August 1995.
+Danilo Krstanovic and Peter Andrews helping a wounded woman, 28 August 1995.  
+
+
 Rikard Larma
 
 During the war in Bosnia and Herzegovina, Danilo had two exhibitions about Sarajevo. The first one in 1993, titled Sarajevo War Pictures, and the second one titled Sarajevo. The exhibition toured Europe and in 1996 was donated to the Art Gallery of BIH. In addition to high artistic qualities, Danilo Krstanovic’s photos have great documentary value for the future study of the aggression against our country and all that it brought with it. He was a member of the Sarajevo Photo Club and was holder of the title First-Class Photographer. He participated in numerous exhibitions in Bosnia and abroad receiving many awards and commendations for his photographs.
@@ -96,7 +98,6 @@ During the war in Bosnia and Herzegovina, Danilo had two exhibitions about Saraj
 
 Danilo Krstanovic
 
-Danilo’s gallery of ‘Sarajevo Under Siege’
 
 During the war Danilo and his colleagues would count film strips by centimeters, they would weigh paper and chemicals by grams, take photographs, cry, suffer, starve but would not give up, out of spite to them. “This craziness will pass. Will you ever be able to look us in the eye? Better not, let the memories about our parties and barbecues until early morning hours stay intact. Let the memory of the Olympic Games live, when we used to work together as one. We used to go to the forest camping together. Today I don’t want to invite you to come back from your woods, you traitors. You betrayed the people and our honorable profession. That’s why you need to stay in the woods. Amongst the werewolves, where you belong.” Danilo Krstanovic
 
@@ -108,7 +109,8 @@ Danilo Krstanovic
 
 ![Danilo Krstanovic](/media/memoriam/danilo-krstanovic/DANILO-12.jpg)
 
-Newlyweds Emir i Sanela Klaric, 29 July 1995, Sarajevo.
+Newlyweds Emir i Sanela Klaric, 29 July 1995, Sarajevo.  
+
 Danilo Krstanovic
 
 ![Danilo Krstanovic](/media/memoriam/danilo-krstanovic/DANILO-10.jpg)
@@ -122,6 +124,9 @@ DANILO KRSTANOVIC was born on 17 July 1951 in Sarajevo, Bosnia and Herzegovina.
 He passed away on 12 May 2012, in his city, Sarajevo.
 
 
+
+  
+__  
 
 
 Special thanks to: Renata Krstanovic, Peter Andrews, Rikard Larma and Amel Emric
