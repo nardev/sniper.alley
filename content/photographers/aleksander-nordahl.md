@@ -22,4 +22,4 @@ photos:
     caption: "Sarajevo 1993"
     credit: "Photo Copyright © Aleksander Nordahl, NTB"
 ---
-Aleksander Nordahl was born in 1971 and studied at the Norwegian Institute of Journalism. He was a staff photographer at the Norwegian news agency NTB from 1992 to 1997, when he joined the staff of Dagbladet newspaper. Nordahl is currently working on Dagbladet’s Saturday magazine, producing national and international documentary stories as well as portraits and features.
+Aleksander Nordahl was born in 1971 and studied at the Norwegian Institute of Journalism. He was a staff photographer at the Norwegian news agency NTB from 1992 to 1997, when he joined the staff of Dagbladet newspaper. Aleksander Nordahl was in Sarajevo during the Siege of Sarajevo. He is currently working on Dagbladet’s Saturday magazine, producing national and international documentary stories as well as portraits and features.
