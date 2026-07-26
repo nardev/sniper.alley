@@ -99,9 +99,9 @@ ABBAS ATTAR was born 29 March 1944 in Khash, Iran.
 
 He died in Paris 25 April 2018. He was 74.
 
-Translated by Mustafa Corbo
-Music used: ‘Close Up Theme’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-© 2020 Sniper Alley. All Rights reserved.
+
+__
+
+
+

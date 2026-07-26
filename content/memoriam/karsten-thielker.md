@@ -92,11 +92,8 @@ KARSTEN THIELKER was born on 12 November 1965 in Bergisch Gladbach, Germany.
 
 He died on 3 October 2020 of cancer in Berlin, Germany.
 
+__
+
 Cover photo by Rüdiger Knobloch
 Special thanks to Janna L. Ressel
 Thanks to Yorck Maecke
-Music used: ‘Mozart - Requiem’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2021 Sniper Alley. All Rights Reserved.

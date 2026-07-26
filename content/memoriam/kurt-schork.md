@@ -121,12 +121,10 @@ KURT SCHORK was born on 25 January 1947 in Washington, D.C., USA.
 
 He was killed in an ambush on 24 May 2000 in Sierra Leaone.
 
+
+__
+
 Special thanks to Sabina Ćosić, Mark Chisholm & Glen Felgate
 www.ksmemorial.com & www.ksmfund.org & Julian Borger
 Sources: www.theguardian.com www.reuters.com www.apnews.com www.washingtonpost.com
 Cover photo by Thomas James Hurst
-Music used: ‘Dire Straits - Brothers in Arms’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2022 Sniper Alley. All Rights Reserved.

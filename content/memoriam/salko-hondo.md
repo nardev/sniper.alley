@@ -36,11 +36,8 @@ SALKO HONDO was born 25 March 1938 in Konjic, Bosnia and Herzegovina.
 
 He was killed on duty on 16 July 1992 in Sarajevo.
 
+__
+
 Interviews and editorial by Sanela Gojak
 Translated by Mustafa Čorbo
 Cover photo: Oslobođenja Archive
-Music used: ‘Aldona Dvarionaite - Frédéric Chopin: Prelude in E-Minor (op.28 no. 4)’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2020 Sniper Alley. All Rights Reserved.

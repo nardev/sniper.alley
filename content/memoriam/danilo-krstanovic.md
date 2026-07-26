@@ -121,10 +121,8 @@ DANILO KRSTANOVIC was born on 17 July 1951 in Sarajevo, Bosnia and Herzegovina.
 
 He passed away on 12 May 2012, in his city, Sarajevo.
 
+
+
+
 Special thanks to: Renata Krstanovic, Peter Andrews, Rikard Larma and Amel Emric
 Translated by Mustafa Corbo
-Music used: ‘Edin Bosnic Quartet - Song For My Mom’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2020 Sniper Alley. All rights reserved.

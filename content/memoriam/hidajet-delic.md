@@ -59,12 +59,6 @@ Hidajet Delic Degi in Sarajevo
 HIDAJET DELIC was born in 1948, Sarajevo - Bosnia and Herzegovina.
 He died 26 February 2017.
 
-Special Thanks to:
-Nihad Kresevljakovic, Mustafa Corbo, Bojan Mustur,
+__
+Special Thanks to: Nihad Kresevljakovic, Mustafa Corbo, Bojan Mustur,
 Sanela Gojak, Klix.ba and Nedim Grabovica
-Music used:
-‘Grieg ~ Peer Gynt - Death of Ase’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2020 Sniper Alley. All Rights reserved.

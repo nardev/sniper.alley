@@ -58,10 +58,7 @@ GÉRARD RONDEAU was born 10 April 1953 in Chalons-en-Champagne, France.
 
 He died of cancer on 13 September 2016, at the Henri Mondor Hospital in Créteil, Val-de-Marne, France.
 
-Special thanks to Zlatko Dizdarević
-Translated by Mustafa Čorbo
-Music used: ‘Gustav Mahler - Symphony No. 5’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-© 2020 Sniper Alley. All Rights Reserved.
+__
+
+Special thanks to Zlatko Dizdarević

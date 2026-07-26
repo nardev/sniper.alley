@@ -2,7 +2,7 @@
 name: "Romano Cagnoni"
 born: 1935
 died: 2018
-banner: SLIDE-01_06-scaled.jpg
+banner: SLIDE-05.jpg
 photographer: romano-cagnoni
 excerpt: "Romano Cagnoni was born in Pietrasanta, Italy. He is internationally recognized as one of the most representative photographers of the twentieth century. It was Harold Evans, formerly editor of the Su"
 ---
@@ -46,9 +46,4 @@ He passed away 30 January 2018.
 
 Please visit Romano Cagnoni’s website for more of his great work: www.romanocagnoni.com
 
-Music used:
-‘Adagio For Strings by Samuel Barber’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2020 Sniper Alley. All Rights reserved.
+__

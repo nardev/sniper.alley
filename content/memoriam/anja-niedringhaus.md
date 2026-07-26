@@ -92,10 +92,4 @@ She was killed 4 April 2014 in Afghanistan.
 
 “… and my grandfather’s globe keeps turning I realized that there is always more to report.”
 
-Translated by Mustafa Corbo
-Music used:
-‘Erik Satie - Gnossienne No.1’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2020 Sniper Alley. All Rights reserved.
+__

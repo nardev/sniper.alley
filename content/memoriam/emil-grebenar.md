@@ -88,11 +88,8 @@ EMIL GREBENAR was born on November 29, 1956 in Sarajevo, Bosnia and Herzegovina.
 
 He died on October 18, 2017 in Sarajevo.
 
+
+__
+
 Special thanks to InfoBiro & Knjiga Vremena
 Thanks to Vildana Selimbegović, Saša Rukavina and Oslobođenje.
-Music used: ‘Fabio Biondi & Europa Galante:
-Vivaldi Violin Concerto In F, Op. 8 no.3, RV 293, ‘The Four Seasons (Autumn)’ - 2. Adagio Molto’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2022 Sniper Alley. All Rights Reserved.

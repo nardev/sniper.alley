@@ -85,12 +85,10 @@ ALEXANDRA BOULAT was born on 2 May 1962 in Paris, France.
 
 She died from complications of a brain aneurysm on 5 October 2007 in Paris, France.
 
+
+__
+
 Cover photo by Emmanuel Ortiz
 Special thanks to Annie Boulat
 Thanks to VII Photo Agency, National Geographic & The Guardian
 Translated by Mustafa Čorbo
-Music used: ‘Debussy - Clair de Lune’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2021 Sniper Alley. All Rights Reserved.

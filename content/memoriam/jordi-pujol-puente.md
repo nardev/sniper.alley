@@ -79,9 +79,7 @@ JORDI PUJOL PUENTE was born 1967 in Barcelona, Spain.
 
 He was killed while doing his job, on 17 May 1992 in Sarajevo, Bosnia & Herzegovina.
 
-Special thanks to Eric Hauck.
-Music used: ‘Knocking On Heaven’s Door’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-© 2020 Sniper Alley. All rights reserved.
+__
+
+Special thanks to Eric Hauck.

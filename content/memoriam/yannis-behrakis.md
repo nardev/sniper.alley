@@ -80,13 +80,10 @@ He passed away 2 March 2019.
 
 
 
-Please watch TEDxAthens talk Yannis did in 2013:
-A Sierra Leone story: Yannis Behrakis
+Please watch TEDxAthens talk Yannis did in 2013: 
+A Sierra Leone story: Yannis Behrakis https://www.youtube.com/watch?v=qMVSgq2nZP4
 
-Music used:
-‘Dire Straits - Brothers in Arms’
+
+
+__
 Cover photo by Enric Martí
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2020 Sniper Alley. All Rights reserved.

@@ -78,12 +78,10 @@ PAUL MARCHAND was born on 1 October 1961 in Amiens, France.
 
 He left us on 20 June 2009 in Paris, France.
 
+
+__
+
 Cover Photo: Emmanuel Ortiz
 Special thanks to: Slobodanki Boba Lizdek
 Translations: Asmir i Edina Demir
 Sources: Klix.ba, Oslobodjenje.ba, Azra.ba & BalkanInsight.com
-Music used: ‘Erik Satie - Gymnopédie No.1’
-The song is permitted for non-commercial use under license:
-Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
-
-© 2020 Sniper Alley. All Rights reserved.
