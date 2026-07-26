@@ -2,8 +2,8 @@
 name: "Emil Grebenar"
 born: 1956
 died: 2017
-banner: COVER_00-scaled.jpg
-cover: COVER_00-scaled.jpg
+banner: EMIL_GREBENAR_02_COVER.jpg
+cover: EMIL_GREBENAR_01_COVER.jpg
 photographer: emil-grebenar-1956-2017
 excerpt: "Emil Grebenar was born on November 29, 1956 in Sarajevo, Bosnia and Herzegovina, to a Bosnian mother and a Hungarian father. He was involved in photography since elementary school. His parents enrolle"
 ---
@@ -82,7 +82,8 @@ Emil Grebenar
 
 Eternal resting place of Emil Grebenar, city graveyard
 Bare - Sarajevo.
-©Abdullah Ibradžić
+
+Photo © Abdullah Ibradžić
 
 EMIL GREBENAR was born on November 29, 1956 in Sarajevo, Bosnia and Herzegovina.
 
