@@ -2,9 +2,9 @@
 name: "Kurt Schork"
 born: 1947
 died: 2000
-banner: 00_KURT_EN.png
-cover: cover.jpg
-excerpt: "Kurt Schork was born on 25 January 1947 in Washington, D.C.. He graduated from Jamestown College in 1969, and studied at Oxford University as a Rhodes scholar later that year - at the same time as the"
+banner: KURT_SCHORK_BANNER.jpg
+cover: KURT_SCHORK_COVER.jpg
+excerpt: "Kurt Schork was born on 25 January 1947 in Washington, D.C.. He graduated from Jamestown College in 1969, and studied at Oxford University as a Rhodes scholar later that year."
 ---
 Kurt Schork was born on 25 January 1947 in Washington, D.C.. He graduated from Jamestown College in 1969, and studied at Oxford University as a Rhodes scholar later that year - at the same time as the future United States President Bill Clinton. Schork worked as a property developer, a political adviser and then chief of staff for the New York City Transit Authority before becoming a journalist. Kurt Schork was lured to journalism late in his life, when at the age of 43 he realized his dream was to become a foreign correspondent. “He was at a stage when he decided he just had to do it,” says his brother, John Schork. “And if he was going to be a journalist, he wouldn’t do things by half-measure. He was into ice climbing and he was an avid and expert skier.”
 
