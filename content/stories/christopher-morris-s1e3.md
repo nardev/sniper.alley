@@ -19,13 +19,21 @@ Admir Subašić (05.07.1985.), 9 years old
 
 The youngest victim was Jasmina Brković who was killed just ten days before her fifth birthday. She was killed together with her sister Indira.
 
-a film by Džemil Hodžić
-producer: Adnan Pašefendić
-camera: Emir Jordamović
-sound design: Linus Bergman
-lights: Adnan Pertef
-graphics: Duha Meher
-thanks to: Hasnija Zulić & Anna Prokou
+a film by DŽEMIL HODŽIĆ  
+
+producer: ADNAN PAŠEFENDIĆ  
+
+director of photography EMIR JORDAMOVIĆ  
+
+editing DŽEMIL HODŽIĆ
+
+sound design LINUS BERGMAN  
+
+lights AADNAN PERTEF  
+
+graphics DUHA MAHER  
+
+thanks to HASNIJA ZULIĆ & ANNA PROKOU  
 
 special thanks to VII Academy: https://vii.academy
 
@@ -35,7 +43,6 @@ SUBTITLES: English & Bosnian
 WATCH IT IN 4K  
 
 _ 
-  
-  
+
 
 Thanks to photographers for the photos used in the title sequence.

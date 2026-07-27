@@ -24,6 +24,12 @@ graphics DUHA MAHER
 
 
 
-SUBTITLES: English & Bosnian  
+SUBTITLES: English & Bosnian
 
-Thanks to photographers for the photos used in the title sequence.
+
+WATCH IT IN 4K  
+
+_ 
+
+
+Thanks to photographers for the photos used in the title sequence.  

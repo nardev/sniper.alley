@@ -46,13 +46,10 @@ and the help of ASBIS d.o.o.
 
 SUBTITLES: English, Italian & Bosnian  
 
+
 WATCH IT IN 4K  
 
-Thanks to photographers for the photos used in the title sequence.  
+_ 
 
-PAUL LOWE BOOKS:
-Bosnians (2005)
-Understanding Photojournalism (2017)
-Reporting the Siege of Sarajevo (2021)
-Photography, Bearing Witness and the Yugoslav Wars (2022)
 
+Thanks to photographers for the photos used in the title sequence.

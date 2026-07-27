@@ -48,5 +48,5 @@ WATCH IT IN 4K
 _ 
 
 
-Thanks to photographers for the photos used in the title sequence.  
+Thanks to photographers for the photos used in the title sequence.
 
