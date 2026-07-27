@@ -22,7 +22,7 @@ The youngest victim was Jasmina Brković who was killed just ten days before her
 a film by DŽEMIL HODŽIĆ  
 producer: ADNAN PAŠEFENDIĆ  
 director of photography EMIR JORDAMOVIĆ  
-editing DŽEMIL HODŽIĆ
+editing DŽEMIL HODŽIĆ  
 sound design LINUS BERGMAN  
 lights AADNAN PERTEF  
 graphics DUHA MAHER  
