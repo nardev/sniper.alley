@@ -98,15 +98,10 @@ Anything.
 
 
 12.08.2019.  
-
-
-
-
-
-
   
     
-    
+      
+      
 March 2021 update:  
 https://www.rferl.org/a/sarajevo-siege-bosnia-snipers-alley-photograph/31791550.html
 
