@@ -28,7 +28,7 @@ thanks to NIHAD KREŠEVLJAKOVIĆ & HANA BAJROVIĆ
 
 in association with IMAGEFIELDS LAB & Modul Memorije
 
-This film was made with the financial support of MEMORIAL CENTER SARAJEVO
+This film was made with the financial support of MEMORIAL CENTER SARAJEVO  
 and DOMOD company https://domod.ba/
 
 
