@@ -100,4 +100,4 @@ He died on October 18, 2017 in Sarajevo.
 __
 
 Special thanks to InfoBiro & Knjiga Vremena
-Thanks to Vildana Selimbegović, Saša Rukavina and Oslobođenje.
+Thanks to Vildana Selimbegović,  Saša Rukavina and Oslobođenje.

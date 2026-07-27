@@ -125,6 +125,5 @@ He was killed in an ambush on 24 May 2000 in Sierra Leaone.
 __
 
 Special thanks to Sabina Ćosić, Mark Chisholm & Glen Felgate
-www.ksmemorial.com & www.ksmfund.org & Julian Borger
+www.ksmemorial.com  & www.ksmfund.org & Julian Borger
 Sources: www.theguardian.com www.reuters.com www.apnews.com www.washingtonpost.com
-Cover photo by Thomas James Hurst

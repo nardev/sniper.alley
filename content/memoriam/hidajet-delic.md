@@ -31,11 +31,17 @@ The importance of Hidajet Delic’s exhibition and photography book ‘Women of 
 
 Hidajet Delic’s photos, just like all the photos of women of Sarajevo taken during the aggression, depict them as living monuments.
 
+![Hidajet Delic](/media/memoriam/hidajet-delic/08-HIDAJET.jpg)
+
 ‘Women in Sarajevo Under Siege’ Hidajet Delic Degi
 
 “Looking back at it now, I think women in the war were, first and foremost, brave and only then beautiful. The first war year in Sarajevo, especially for women, was quite difficult. There was no food, no water, no electricity, no gas… What I used to see back then was everyone trying to keep clean, everyone was washing their clothes, everybody was carrying water so they could bathe, wash their hair… I think the Sarajevans in the early days of the war, and it lasted, unfortunately, for a long time, fought back with beauty.” Hidajet Delic Degi
 
+![Hidajet Delic](/media/memoriam/hidajet-delic/04-HIDAJET.jpg)
+
 ‘Women in Sarajevo Under Siege’ Hidajet Delic Degi
+
+![Hidajet Delic](/media/memoriam/hidajet-delic/05-HIDAJET.jpg)
 
 ‘Women in Sarajevo Under Siege’ Hidajet Delic Degi
 
@@ -45,11 +51,15 @@ Hidajet Delic’s photos, just like all the photos of women of Sarajevo taken du
 
 In one of his last interviews, with Sanela Gojak in December 2016, Hidajet explains that cultural memory is very important. “I think that in Sarajevo, and throughout BiH, too little is being done. The Memory Module tried it, as did the Museum of Childhood, which is a great idea. Things that are not recorded, photographed or filmed are quickly forgotten. As time goes by, new generations come and they can only see and hear about the war on TV.” said Hidajet Delic Degi.
 
+![Hidajet Delic](/media/memoriam/hidajet-delic/06-HIDAJET.jpg)
+
 ‘Women in Sarajevo Under Siege’ Hidajet Delic Degi
 
 Most of Hidajet Delic’s work is documentary photography; he always wanted to show the public the true, objective and real image of an event.
 
 At the very end of the war, he was captured by Serb forces. According to official records, Hidajet Delic was the last registered prisoner of war. “I and a colleague, who worked with me for the Associated Press, were abducted by Serb special forces on the Bridge of Brotherhood and Unity (Most bratstva i jedinstva) because they needed someone to exchange. The Bosnian government forces had previously arrested some of their colonels or lieutenant colonels on the outskirts of Sarajevo. Since my colleague was a Serb from Belgrade, he was released after two days, and I was stuck in a camp for 45 days. First I was in Pale, and later in Foca, in a prison where they accused me of faking all those massacres around Sarajevo. There was one particularly stupid question, like, “Where did you get so much red paint?!” It was crazy to think that one could get paint in Sarajevo. All the time they were trying to convince me that we were faking it ourselves, shelling and killing ourselves, which was ludicrous.” Hidajet Delic Degi
+
+![Hidajet Delic](/media/memoriam/hidajet-delic/07-HIDAJET.jpg)
 
 “Fortunately, after 45 days I was exchanged for some of their journalists and soldiers who were captured on Mount Ozren. They accused me of killing Serbs in Sarajevo - I who did not even serve in the army because I have myopia. I was accused of ordering the killing of some Serbs who did refused to sing partisan songs. Nonsense. The worst part is that some of those people who accused me are working in the Republika Srpska judiciary today.” Hidajet Delic Degi
 
@@ -60,6 +70,7 @@ Hidajet Delic Degi in Sarajevo
 HIDAJET DELIC was born in 1948, Sarajevo - Bosnia and Herzegovina.
 He died 26 February 2017.
 
-__
+__  
+
 Special Thanks to: Nihad Kresevljakovic, Mustafa Corbo, Bojan Mustur,
-Sanela Gojak, Klix.ba and Nedim Grabovica
+Sanela Gojak,  Klix.ba and Nedim Grabovica

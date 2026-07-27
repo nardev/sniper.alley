@@ -98,7 +98,8 @@ He died on 3 October 2020 of cancer in Berlin, Germany.
 
 
 
-__
+__  
+
 Cover photo by Rüdiger Knobloch
 Special thanks to Janna L. Ressel
 Thanks to Yorck Maecke
