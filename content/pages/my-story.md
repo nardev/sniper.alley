@@ -40,7 +40,7 @@ I remember, when he was killed, we needed his photo for newspapers and funeral s
 
 This photo was taken a few months prior to his heinous murder. My late brother had received a scholarship and the sponsors needed his photo. I wish they needed more photographs because this is the only photo we have of him.
 
-![My Story](/media/pages/my-story/AMEL?HODZIC.JPG)  
+![My Story](/media/pages/my-story/AMEL_HODZIC.JPG)  
 
 
 MISSION
@@ -104,7 +104,9 @@ Anything.
 
 
 
-
+  
+    
+    
 March 2021 update:  
 https://www.rferl.org/a/sarajevo-siege-bosnia-snipers-alley-photograph/31791550.html
 
