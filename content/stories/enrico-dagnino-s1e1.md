@@ -12,11 +12,16 @@ In this episode of our ‘The Story Behind the Photo’ series, Italian photojou
 He explains how he managed to snap the photographs of the execution of innocent civilians while being arrested by Arkan soldiers in Ilidza.  
 
 
-a film by DŽEMIL HODŽIĆ
-camera EMIR JORDAMOVIĆ
-editing DŽEMIL HODŽIĆ
-sound design LINUS BERGMAN 
+a film by DŽEMIL HODŽIĆ  
+
+camera EMIR JORDAMOVIĆ  
+
+editing DŽEMIL HODŽIĆ  
+
+sound design LINUS BERGMAN  
+
 graphics DUHA MAHER  
+
 
 
 SUBTITLES: English & Bosnian  

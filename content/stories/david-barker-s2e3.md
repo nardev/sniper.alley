@@ -11,20 +11,34 @@ The third episode, The Story Behind the Photo features British TV and Film camer
 
 While David Barker was in Sarajevo he took some important pictures of the city and its citizens, he photographed children playing in the park and the daily lives of ordinary Sarajevans. In this episode, he recounts the heartbreaking incident in which two young siblings were killed in an explosion.
 
-a film by DŽEMIL HODŽIĆ
-executive producer ĐANI HASEČIĆ
-producer ANNA PROKOU 
-production manager DINELA JELČIN
-director of photography EMIR JORDAMOVIĆ
-sound designer LINUS BERGMAN 
-editor DŽEMIL HODŽIĆ
-colorist KISHORE KANCHAN 
-music ATHAR SAEED
-end credits theme NUR ESRA
-art director HÉLOÏSE DORSAN-RACHET
-special thanks to DAVID BARKER
-thanks to CLAUDIA ZINI
-thanks to DAVID MALONE
+a film by DŽEMIL HODŽIĆ  
+
+executive producer ĐANI HASEČIĆ  
+
+producer ANNA PROKOU  
+
+production manager DINELA JELČIN  
+
+director of photography EMIR JORDAMOVIĆ  
+
+sound designer LINUS BERGMAN  
+
+editor DŽEMIL HODŽIĆ  
+
+colorist KISHORE KANCHAN  
+
+music ATHAR SAEED  
+
+end credits theme NUR ESRA  
+
+art director HÉLOÏSE DORSAN-RACHET  
+
+special thanks to DAVID BARKER  
+
+thanks to CLAUDIA ZINI  
+
+thanks to DAVID MALONE  
+
 
 in association with IMAGEFIELDS LAB & 1M40
 
