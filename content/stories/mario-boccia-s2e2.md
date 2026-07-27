@@ -40,7 +40,7 @@ translations CRISTIANA LUCIA GRILLI
 
 in association with IMAGEFIELDS LAB
 
-This film was made with the financial support of MEMORIAL CENTER SARAJEVO
+This film was made with the financial support of MEMORIAL CENTER SARAJEVO  
 and the help of ASBIS d.o.o.  
 
 

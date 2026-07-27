@@ -25,5 +25,5 @@ To možete učiniti putem našeg PayPal računa.
 
 **FONDACIJA SNIPER ALLEY PHOTO**\
 Broj računa: 1413115320029127\
-Registrovana 17.10.2023. godine pod JIB 4203248300003\
+Fondacija je registrovana 2023. godine pod jedinstvenim identifikacionim brojem 4203248300003\
 71000, Novi Grad, Sarajevo
