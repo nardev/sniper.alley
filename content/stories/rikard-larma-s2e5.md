@@ -11,34 +11,19 @@ featured: true
 In the fifth episode of ‘The Story Behind The Photo’ we bring you our legendary Bosnian photographer who was covering the siege of Sarajevo for the Associated Press. Some of the most iconic photos were taken by Rikard Larma. He tells us the story of his favorite photo, the City Hall photograph, Vijecnica from August 1992 when it was on fire. Very moving and emotional episode with some of the insights he never mentioned before.
 
 a film by DŽEMIL HODŽIĆ  
-
 executive producer ADNAN PAŠEFENDIĆ  
-
 producer DIMITRIS SIDERIDIS  
-
 producer ANNA PROKOU  
-
 production manager DINELA JELČIN  
-
 director of photography EMIR JORDAMOVIĆ  
-
 additional camera DIMITRIS SIDERIDIS  
-
 editor DŽEMIL HODŽIĆ  
-
 colorist KISHORE KANCHAN  
-
 art director HÉLOÏSE DORSAN-RACHET  
-
 composer ATHAR SAEED  
-
 sound designer LINUS BERGMAN  
-
 special thanks to RIKARD LARMA  
-
-thanks to NIHAD KREŠEVLJAKOVIĆ  
-
-thanks to HANA BAJROVIĆ  
+thanks to NIHAD KREŠEVLJAKOVIĆ & HANA BAJROVIĆ  
 
 
 in association with IMAGEFIELDS LAB & Modul Memorije

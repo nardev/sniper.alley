@@ -11,16 +11,12 @@ In the second episode of our ‘The Story Behind the Photo’ series, American p
 Thomas describes how he covered the war as a photojournalist, his approach and main focus during the Siege of Sarajevo.
 
 a film by DŽEMIL HODŽIĆ  
-
-producer: Adnan Pašefendić  
-
-camera: Emir Jordamović  
-
-editing: Džemil Hodžić  
-
-sound: Linus Bergman  
-
-gfx: Duha Maher  
+executive producer ADNAN PAŠEFENDIĆ 
+production manager DINELA JELČIN  
+director of photography EMIR JORDAMOVIĆ  
+editing Džemil Hodžić  
+sound design LINUS BERGMAN  
+graphics DUHA MAHER 
 
 
 

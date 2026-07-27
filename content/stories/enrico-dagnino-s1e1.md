@@ -13,15 +13,10 @@ He explains how he managed to snap the photographs of the execution of innocent 
 
 
 a film by DŽEMIL HODŽIĆ  
-
-camera EMIR JORDAMOVIĆ  
-
+director of photography EMIR JORDAMOVIĆ  
 editing DŽEMIL HODŽIĆ  
-
 sound design LINUS BERGMAN  
-
 graphics DUHA MAHER  
-
 
 
 SUBTITLES: English & Bosnian
