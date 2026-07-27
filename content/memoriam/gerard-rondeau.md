@@ -2,8 +2,8 @@
 name: "Gérard Rondeau"
 born: 1953
 died: 2016
-banner: GÉRARD_RONDEAU_BANNER.jpg
-cover: GÉRARD_RONDEAU_COVER.jpg
+banner: GERARD_RONDEAU_BANNER.jpg
+cover: GERARD_RONDEAU_COVER.jpg
 photographer: gerard-rondeau-1953-2016
 excerpt: "Gérard Rondeau was born in Chalons-en-Champagne on 10 April in 1953, in a family of teachers. He studied in Reims and in the 1970s he worked at the Alliance Française in Colombo, Sri Lanka."
 ---
