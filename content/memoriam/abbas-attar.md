@@ -73,7 +73,7 @@ Abbas Attar | Magnum
 One of his most heart-wrenching photographs taken in 1993 shows the body of a young boy, killed in an explosion Sarajevo, as it’s washed down in a morgue. The eyes are still open, the face still animated. “You could see a boy still dreaming boyish dreams.
 I broke down [but] I kept taking photographs, of course,” Abbas says, showcasing both his innate empathy, and his overriding compulsion to document humanity at its most extreme.
 
-![Abbas Attar](/media/memoriam/abbas-attar/09-ATTAR.jpg)
+![Abbas Attar](/media/memoriam/abbas-attar/09-ABBAS.jpg)
 
 A boy is washed (Ghusl) in the muslim tradition before burial, killed by a Serbian mortar attack on his school. 1993, Sarajevo.
 
