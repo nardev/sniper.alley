@@ -15,8 +15,7 @@ Abbas referred to his photographs as prompts, there is a photo from 1968, of thr
 
 ![Abbas Attar](/media/memoriam/abbas-attar/04-ABBAS.jpg)
 
-African-Americans resting on their porch. U.S.A. Louisiana, New Orleans 1968. 
-_Abbas Attar_
+African-Americans resting on their porch. U.S.A. Louisiana, New Orleans 1968.  _Abbas Attar_
 
 From 1978 to 1980, Abbas photographed the revolution in Iran. When the events that resulted in the overthrow of Shah Mohammed Reza Pahlavi in 1979 began, Abbas supported change, but he soon became disillusioned with Ayatollah Ruhollah Khomeini, who took over the government. “When the revolution started, it was democratic. It was my country, my people and my revolution. Then, slowly, it was being hijacked.” _Abbas Attar_
 
@@ -27,8 +26,7 @@ _Abbas Attar_
 
 ![Abbas Attar](/media/memoriam/abbas-attar/02-ABBAS.jpg)
 
-Grand Ayatollah Kazem Shariatmadari meets with Ayatollah Khomeini, Qom, March 3, 1979.
-##### _Abbas Attar_
+Grand Ayatollah Kazem Shariatmadari meets with Ayatollah Khomeini, Qom, March 3, 1979.  _Abbas Attar_
 
 It was then that Abbas decided to focus his camera on the religions of the world. “Before the Iran revolution I had no desire to photograph religion,” he explains. “But covering the revolution for two years I could see that the waves of passion [that were] raised by the revolution were not going to stop at the borders of Iran.”
 
