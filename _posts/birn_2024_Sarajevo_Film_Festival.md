@@ -1,7 +1,7 @@
 ---
 title: "At Sarajevo Film Festival, One Man’s Search for a Photo of His Murdered Brother"
 description: "BIRN (English) Interview"
-category: interviews
+category: interview
 date: "2024-08-15"
 link: "https://balkaninsight.com/2024/08/15/at-sarajevo-film-festival-one-mans-search-for-a-photo-of-his-murdered-brother/btj/"
 ---
@@ -46,5 +46,5 @@ Hodzic said he’s only “half-way” through the Sniper Alley online project a
 ‘Sniper Alley – To My Brother’ will be shown on August 18 as part of the documentary programme of the Sarajevo Film Festival. Online screening is also available via festival’s official app. More information about Sniper Alley is available here: https://www.youtube.com/watch?v=b0HYP9ScDQk
 
 
-__
+__  
 Published by BIRN in English on August 15, 2024.
