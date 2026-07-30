@@ -1,7 +1,7 @@
 ---
 title: "Kada zločin postane normalna stvar, to je najveća kriza čovječanstva"
 description: "Odgovor.ba (Bosnian) covered the Sniper Alley project."
-category: press
+category: photos
 date: "2026-04-06"
 link: "https://odgovor.ba/article/pogledi/17733/"
 ---
