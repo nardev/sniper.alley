@@ -6,7 +6,7 @@ date: "2019-08-22"
 ---
 ![memories](/media/our-work/sketch/79_scth.jpg)
 _Photo ©️ Thomas James Hurst_  
-~ 
+~   
 We don’t need much to start dreaming.  
 One small detail is enough, a word, a blink of an eye.  
 
