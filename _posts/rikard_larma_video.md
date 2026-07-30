@@ -1,13 +1,14 @@
 ---
-title: "Kada zločin postane normalna stvar, to je najveća kriza čovječanstva"
+title: "Ratne uspomene sarajevskog fotoreportera Rikarda Larme "
 description: "Odgovor.ba (Bosnian) covered the Sniper Alley project."
 category: video
 date: "2026-09-27"
 link: "https://odgovor.ba/article/813/"
 ---
-![Odgovor](/media/our-work/interview/mohsen_odgovor.jpeg)
+![Odgovor](/media/our-work/video/rikard_larma_odgovor.jpg)
+_Photo ©️ Emir Jordamović_
 
-Novi nastavak dokumentarnog serijala [The Story Behind the Photo] (https://www.youtube.com/watch?v=jB-onZx6XuA) donosi priču o radu i životu bh. fotografa Rikarda Larme, čije su fotografije postale svjedočanstvo opsade Sarajeva.
+Novi nastavak dokumentarnog serijala [The Story Behind the Photo](https://www.youtube.com/watch?v=jB-onZx6XuA) donosi priču o radu i životu bh. fotografa Rikarda Larme, čije su fotografije postale svjedočanstvo opsade Sarajeva.
 
 Džemil Hodžić, čovjek iza projekta Sniper Alley Photo, za portal !Odgovor kazao je da je ovo jedanaesta epizoda u sklopu serijala. 
 "Trenutno radimo na još četiri filma koji će biti dio treće sezone. Svaka epizoda je na svoj način jedinstvena ali i slična u pristupu snimanja fotografske profesije. Ovaj put sa nama je bosanskohercegovački fotoreporter Rikard Larma, koji dijeli sa nama uspomene iz opsade grada Sarajeva ali i detalje iz privatnog života”, govori on. 
