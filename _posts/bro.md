@@ -5,7 +5,7 @@ category: sketch
 date: "2019-10-18"
 ---
 ![Bro](/media/our-work/sketch/brothers_scth.JPG)
-~ 
+~  
 You know that term ‘bro’.  
  
 People use it when calling their brothers, cousins, close friends,  

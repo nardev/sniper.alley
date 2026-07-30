@@ -5,7 +5,7 @@ category: sketch
 date: "2019-11-26"
 ---
 ![Father](/media/our-work/sketch/father_scth.JPG)
-~ 
+~  
 My father used to instruct us to walk behind him  
 when facing sniper side of the street.  
 
