@@ -21,12 +21,12 @@ From 1978 to 1980, Abbas photographed the revolution in Iran. When the events th
 ![Abbas Attar](/media/memoriam/abbas-attar/01-ABBAS.jpg)
 
 Demonstrators carry a poster of Khomeini, Tehran, January 1979.
-Abbas Attar
+_Abbas Attar_
 
 ![Abbas Attar](/media/memoriam/abbas-attar/02-ABBAS.jpg)
 
 Grand Ayatollah Kazem Shariatmadari meets with Ayatollah Khomeini, Qom, March 3, 1979.
-Abbas Attar
+###### _Abbas Attar_
 
 It was then that Abbas decided to focus his camera on the religions of the world. “Before the Iran revolution I had no desire to photograph religion,” he explains. “But covering the revolution for two years I could see that the waves of passion [that were] raised by the revolution were not going to stop at the borders of Iran.”
 
@@ -36,7 +36,7 @@ It was then that Abbas decided to focus his camera on the religions of the world
 
 An unknown cleric carries a gun, Tehran, February 1979.
 Gallery of Iranian Revolution
-Abbas Attar
+_Abbas Attar_
 
 “They urged me not to show the negative side of the revolution for the world,” he said. “The violence would come from shah, not the protesters. I told them that it was my revolution too, but I still needed to honor my duty as a journalist - or a historian, if you want.” The revolution, however, had taken an interest in him for what people in the whole world did in the name of God.
 
@@ -54,7 +54,7 @@ Abbas Attar
 
 “When you are 35 you are immortal basically. People say, “Oh, great courage, great courage!” I tell you very frankly, physical courage is very often the lack of imagination. You can not imagine it will happen to you, therefore you go to the battle.“
 
-Abbas Attar
+_Abbas Attar_
 
 Abbas covered ‘Sarajevo under the Siege’, Bosnia and Herzegovina. He came to Sarajevo in 1993 and left behind a wealth of striking images and compelling photo essays which remain among the finest examples of photojournalism. This little tribute to him and his work is but a scratch on the surface, so make sure to visit his Magnum profile to learn more about the iconic photographer and be inspired with all his works.
 
@@ -62,13 +62,13 @@ Abbas covered ‘Sarajevo under the Siege’, Bosnia and Herzegovina. He came to
 
 In the frontline district of Dobrinja, garbage containers and sandbags protect passers-by from Serbian sniper fire. A young boy runs along, his small height making it unnecessary for him to duck down like adults when they cross the Bridge of Death. 1993, Sarajevo.
 
-Abbas Attar | Magnum
+_Abbas Attar | Magnum_
 
 ![Abbas Attar](/media/memoriam/abbas-attar/08-ATTAR.jpg)
 
 Despite its accompanying cold, Sarajevans love snow. While falling, it protects them from Serbian sniper fire. Children skid on sledges, unaware of the danger of mortar or artillery fire which can strike any part of the city at any time. 1993, Sarajevo.
 
-Abbas Attar | Magnum
+_Abbas Attar | Magnum_
 
 One of his most heart-wrenching photographs taken in 1993 shows the body of a young boy, killed in an explosion Sarajevo, as it’s washed down in a morgue. The eyes are still open, the face still animated. “You could see a boy still dreaming boyish dreams.
 I broke down [but] I kept taking photographs, of course,” Abbas says, showcasing both his innate empathy, and his overriding compulsion to document humanity at its most extreme.
@@ -77,7 +77,7 @@ I broke down [but] I kept taking photographs, of course,” Abbas says, showcasi
 
 A boy is washed (Ghusl) in the muslim tradition before burial, killed by a Serbian mortar attack on his school. 1993, Sarajevo.
 
-Abbas Attar | Magnum
+__Abbas Attar | Magnum_
 
 According to Abbas, there are two approaches to photography: one is writing with light, and the other is drawing with light. The school of Henri Cartier-Bresson, they draw with light, they sketch with light. The single picture is paramount for them. “For me, that was never the point. My pictures are always part of a series, an essay. Each picture should be good enough to stand on its own but its value is a part of something larger.” Although his official biography states that he was a ‘born photographer’, Abbas told Magnum of how a road trip through New Orleans in 1968 made him a ‘professional’. He explained how through the making of his first photographic essay he learned the significance of sequencing in order to build a narrative.
 
@@ -87,7 +87,7 @@ Abbas, an Iranian transplanted to Paris, returned to Iran in 1997 after a 17-yea
 
 “I don’t just make stories about what’s happening. I’m making stories about my way of seeing what’s happening.”
 
-Abbas Attar
+_Abbas Attar_
 
 “He was a pillar of Magnum, a godfather for a generation of younger photojournalists. Citizen of the world who relentlessly documented; its wars, its disasters, its revolutions and upheavals, and its beliefs - all his life. It is with immense sadness that we lose him. May the gods and angels of all the world’s major religions he photographed so passionately, be there for him.” Magnum president Thomas Dworzak
 
@@ -95,7 +95,7 @@ Abbas Attar
 
 “Let the photos live their lives and keep their mystery.”
 
-Abbas Attar
+_Abbas Attar_
 
 ABBAS ATTAR was born 29 March 1944 in Khash, Iran.
 
