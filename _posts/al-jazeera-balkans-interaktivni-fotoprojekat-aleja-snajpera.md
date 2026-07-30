@@ -3,6 +3,7 @@ title: "Interaktivni fotoprojekat: Aleja snajpera"
 description: "AL JAZEERA BALKANS (Bosnian) covered the Sniper Alley project."
 category: press
 cover: press_spicasta.jpg
+banner: press_spicasta.jpg
 date: "2019-09-02"
 link: "http://balkans.aljazeera.net/blog/interaktivni-fotoprojekat-aleja-snajpera"
 ---
@@ -11,7 +12,8 @@ link: "http://balkans.aljazeera.net/blog/interaktivni-fotoprojekat-aleja-snajper
 ![Interaktivni fotoprojekat: Aleja snajpera](/media/our-work/press/press_spicasta.jpg)
 ###### _Moj ubijeni brat je stota žrtva ‘sijača smrti’ sa zloglasne Špicaste stijene (Al Jazeera)_  
 
-
+  
+  
 Trebalo mi je dugo da sjednem i napišem bilo šta vezano za svoju tragediju i nešto što me je, kako tek sada vidim, definisalo kao osobu. Pune 24 godine je trebalo da se skupi hrabrosti ako se to može nazvati hrabrošću.
 
 Momenat kad se osamiš, zalutaš u djetinjstvo, udubiš u san i počneš da plačeš na svaku zamišljenu crticu. Tegobno je vraćati se u komore sjećanja, roviti po lijepim uspomenama koje su neponovljive, tražiti momente koji bude čežnju, prisjećati se tog dana i vrtiti film naprijed-nazad sa ciljem detaljnijeg opisa.

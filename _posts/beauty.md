@@ -31,4 +31,7 @@ Forever.
 Beauty.  
 ~    
 
+_Džemil Hodžić, september 2019_  
 
+
+__
