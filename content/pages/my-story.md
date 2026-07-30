@@ -26,7 +26,7 @@ Those moments, that day, I will never forget. I remember our last meal, the last
 
 ![My Story](/media/pages/my-story/BROTHERS.jpg)
 
-_ ###### My brother (left) and me (right) before the war, circa 1991.  Maybe the last photo with two of us together._
+_My brother (left) and me (right) before the war, circa 1991.  Maybe the last photo with two of us together._
 
 ### TODAY  
 
@@ -48,7 +48,7 @@ That’s one of the reasons we made this website.
 The aim is to find, locate and archive photos taken in Sarajevo, Bosnia during the war from the period 1992 - 1996. This website will document the war from people like myself and my family who went through it. We would like to credit and acknowledge the brave and courageous photographers who lived it with us and bore witness to our suffering. Some of whom tragically lost their lives in the process. This website will honour those brave war photographers whose work allowed the world to see what was happening to us.
 
 ![My Story](/media/pages/my-story/DZENAZA.jpg)
-_ ###### This is the photo by Anja Niedringhaus, it is from the funeral of my brother.  6th of May 1995._
+_This is the photo by Anja Niedringhaus, it is from the funeral of my brother.  6th of May 1995._
 
 Occasionally, at least once a year I look through photos from my brother’s funeral. My family has a photo album dedicated to my brother only, from him being a baby till his murder. I go through the pictures, think of those times, imagine events, laugh and contemplate. 
 The end of the album is only funeral pictures, family members, friends and some photos of foreign photographers who were there taking pictures. I don’t know them and I always wondered who are they and where they are now. My close friend helped me track down one of them. Famous photographer Anja Niedringhaus, looking, holding her cameras. When I tried searching for a photo of her during her mission in Bosnia, I couldn’t find any, there are always photos of her work but never pictures of her. Photographers don’t get photographed I guess.
@@ -71,7 +71,7 @@ This is my way of finding out about other photographers from the album. I wonder
 
 At least 6 of them were there.
 
-Writing this wasn’t easy, it took me more than 20 years. Lots of stops and starts. I hope this will help me and help all other kids who lived through the war.
+Writing this wasn’t easy, it took me more than 20 years. Lots of stops and starts.  I hope this will help me and help all other kids who lived through the war.
 
 Our website is open to all, contact us, share your story, ask a question, and send us photos.
 As much as it is my story it is more about all of us, children. It is about war photographers.
@@ -99,9 +99,8 @@ Anything.
     
 
   
-    
-      
-      
+         
+__      
 March 2021 update:  
 https://www.rferl.org/a/sarajevo-siege-bosnia-snipers-alley-photograph/31791550.html
 
