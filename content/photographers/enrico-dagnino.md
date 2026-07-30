@@ -1,7 +1,7 @@
 ---
 name: "Enrico Dagnino"
 role: Photojournalist
-portrait: sniper_alley_enrico_dagnino_01.jpg
+portrait: sniper_alley_enrico_dagnino_17.jpg
 photos:
   - file: sniper_alley_enrico_dagnino_01.jpg
     credit: "Photo Copyright © Enrico Dagnino"

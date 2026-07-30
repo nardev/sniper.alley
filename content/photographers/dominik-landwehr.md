@@ -1,7 +1,7 @@
 ---
 name: "Dominik Landwehr"
 role: Photojournalist
-portrait: snipera_ellay_dominik_landwehr_01.jpeg
+portrait: snipera_ellay_dominik_landwehr_04.jpeg
 photos:
   - file: snipera_ellay_dominik_landwehr_01.jpeg
     caption: "Sarajevo 1995 © Dominik Landwehr - International Committee of the Red Cross ICRC"

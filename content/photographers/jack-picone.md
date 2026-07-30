@@ -1,7 +1,7 @@
 ---
 name: "Jack Picone"
 role: Photojournalist
-portrait: sniper_alley_jack_picone_01.jpg
+portrait: sniper_alley_jack_picone_04.jpg
 photos:
   - file: sniper_alley_jack_picone_01.jpg
     caption: "\"Dispatching The Dead\" Only the dead have seen the end of war. “The siege of Sarajevo.” 1995"

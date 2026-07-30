@@ -22,6 +22,7 @@ Upravo ovakva svjedočenja u serijala The Story Behind the Photo donose bitne č
 "Govorimo o posljedicama rata ali i pokazujemo obim ožiljaka i preživjele boli novinara, kamermana i fotografa koji su izvještavali za medijske kuće. U ovoj epizode se može vidjeti i doživjeti ratna trauma koja je još uvijek prisutna i toliko godina poslije. Na ovaj način pokušavamo da prikažemo koliko je zaista plemenita novinarska profesija bila bitna, kako tada, tako i dan danas, kada možemo da pratimo izvještavanja širom svijeta i da vidimo njen doprinos. Ogromna je žrtva medijskih radnika da bi nama istina bila dostupna”, naglašava autor projekta. 
 
 Dodao je i kako cijeli serijal i naša video produkcija ne bi bila moguća bez podrške i pomoći određenih ljudi i institucija.  
+ 
 "Koristim priliku da se zahvalim kompaniji 'Domod' na njihovoj financijskoj pomoći. Također se zahvaljujem Memorijalnom Centru Sarajevo na podršci i partnerstvu. Osoblju Messa i Modula Memorije, posebno Nihadu Kreševljakoviću i Hani Bajrović.” 
 
 __  

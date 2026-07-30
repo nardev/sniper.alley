@@ -1,7 +1,7 @@
 ---
 name: "Dario Mitidieri"
 role: Photojournalist
-portrait: sniper_alley_dario_mitidieri_04.jpg
+portrait: sniper_alley_dario_mitidieri_09.jpg
 photos:
   - file: sniper_alley_dario_mitidieri_01.jpg
     caption: "Gorazde, 12 November 1995."
