@@ -1,5 +1,5 @@
 ---
-title: "The Watch"
+title: "The Watch."
 description: "My brother Amel bought this for 10 euros. I think it was late 1994."
 category: sketch
 date: "2020-07-12"

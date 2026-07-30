@@ -1,5 +1,5 @@
 ---
-title: "Topa"
+title: "Topa."
 description: "Sa svakim ramazanom dođu i uspomene. Draga sjećanja..."
 category: sketch
 date: "2020-04-30"
