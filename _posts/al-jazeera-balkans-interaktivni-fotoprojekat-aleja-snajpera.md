@@ -9,6 +9,7 @@ link: "http://balkans.aljazeera.net/blog/interaktivni-fotoprojekat-aleja-snajper
 
 ###### BLOG
 ![Interaktivni fotoprojekat: Aleja snajpera](/media/our-work/press/press_spicasta.jpg)
+###### _Moj ubijeni brat je stota žrtva ‘sijača smrti’ sa zloglasne Špicaste stijene (Al Jazeera)_  
 
 
 Trebalo mi je dugo da sjednem i napišem bilo šta vezano za svoju tragediju i nešto što me je, kako tek sada vidim, definisalo kao osobu. Pune 24 godine je trebalo da se skupi hrabrosti ako se to može nazvati hrabrošću.
