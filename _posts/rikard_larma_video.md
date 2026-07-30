@@ -2,7 +2,7 @@
 title: "Ratne uspomene sarajevskog fotoreportera Rikarda Larme "
 description: "Odgovor.ba (Bosnian) covered the Sniper Alley project."
 category: video
-date: "2026-09-27"
+date: "2025-09-27"
 link: "https://odgovor.ba/article/813/"
 ---
 ![Odgovor](/media/our-work/video/rikard_larma_odgovor.jpg)
