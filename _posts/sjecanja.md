@@ -1,10 +1,9 @@
 ---
-title: "sjećanja"
-description: "Sjećanja. Ne treba čovjeku pun oda sanja..."
+title: "Sjećanja."
+description: "Ne treba čovjeku puno da sanja..."
 category: sketch
 date: "2019-08-21"
 ---
-### ‘sjećanja’
 ![beauty](/media/our-work/sketch/brothers_scth.JPG)
 ~  
 Sjećanja.  

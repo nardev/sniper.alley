@@ -1,11 +1,9 @@
 ---
-title: "beauty"
+title: "Beauty."
 description: "morgue coldness chilling air with dimmed lights silence, random distant whispers..."
 category: sketch
 date: "2019-09-02"
 ---
-### ‘beauty’  
-
 ![beauty](/media/our-work/sketch/beauty_scth.jpg)
 _Photo ©️ Gilles Peress_
   
