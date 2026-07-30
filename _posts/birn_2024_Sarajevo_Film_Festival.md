@@ -2,7 +2,7 @@
 title: "At Sarajevo Film Festival, One Man’s Search for a Photo of His Murdered Brother"
 description: "BIRN (English) Interview"
 category: interviews
-date: "2024-15-08"
+date: "2024-08-15"
 link: "https://balkaninsight.com/2024/08/15/at-sarajevo-film-festival-one-mans-search-for-a-photo-of-his-murdered-brother/btj/"
 ---
 ![BIRN](/media/our-work/interview/interview_sff_2024.jpg)
