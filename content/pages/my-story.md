@@ -17,7 +17,7 @@ Even though there was a war on, for us kids, it was fun. We played, pretending t
 
 My father had joined the Bosnian army to defend our country from the Serbian aggressors. He was a proud man and considered it dishonorable to leave his motherland. My mother worked full time as a nurse in the local hospital throughout the war. Even though she saw people die every day, mortuary she would say - she never brought it home to us. I never felt the pain, depression or any kind of misery that she had witnessed in the hospital. I worked out that with my father’s army deployments and my mother’s night shifts, during three years of war they were away for one full year. My brother and I were home alone, most of the time. Upon hearing the warning sirens, we wouldn’t go to school, it would be too dangerous. But for us the sound of the sirens meant play time and we would rebel and not go to the shelter. Bizarrely, in the middle of a war zone we would go out and play, all day long. No homework, no parents to nag us, it was every child’s dream. That sounds crazy from today’s perspective, but as a child in 1995, even though there was a war only a stone’s throw from my home I felt liberated, happy and free.
 
-1995  
+### 1995  
 
 
 Almost at the end of the war, in May 1995, during a truce between both sides, if something like that was possible in the minds of the beasts who tortured us for 3 years, my life changed forever. We were playing outdoors; my older brother was playing tennis and I was playing marbles with my gang. Suddenly a sniper started shooting at us. My brother was shot in his chest, he started walking towards home, holding his wound. He was the only one shot. Tallest amongst us, the oldest, in-a-couple-of-years-time-potential-soldier. Kids screaming, crying, mother’s calling out names, total chaos. While he was trying to get home, still standing, his wound bleeding, I rushed to get help and tell my mother, who was making us lunch after her night shift in hospital. As she was trying to help him I grabbed blanket to wrap him, I phoned the ambulance and went out to witness what would be the last moments of my brother. He died on my mother’s lap while she tried her best to bring him back to life.
@@ -26,10 +26,9 @@ Those moments, that day, I will never forget. I remember our last meal, the last
 
 ![My Story](/media/pages/my-story/BROTHERS.jpg)
 
-My brother (left) and me (right) before the war, circa 1991. Maybe the last photo with two of us together.
+_ ###### My brother (left) and me (right) before the war, circa 1991.  Maybe the last photo with two of us together._
 
-TODAY  
-
+### TODAY  
 
 Unfortunately, I do not have any photos growing up in Sarajevo during the war, as we didn’t have the means nor any of my family and that’s something that I think of all the time. It bothers me that I don’t have any school, birthday or family photos from that period. A single photo from that time would make my day. Looking at the kids growing up today with all the gadgets and possibilities, it feels as if I grew up in a large prison, I have memories and I can remember most of the things, they are so vivid, bad and good ones. We’ve all heard the line before, “If you didn’t document it, it didn’t happen.” 
 The only photo of myself I have is from my brother’s funeral which I don’t consider wartime. It doesn’t count. For me, the bloody war was finished the day he was killed. It must be something psychological, some kind of a blockade or denial.
@@ -39,19 +38,17 @@ I would love to find photos of my brother, maybe his classmates or some friends 
 I remember, when he was killed, we needed his photo for newspapers and funeral services. We had only photos from his early age and then my late father remembered that my brother received some scholarship and they had taken a photo of him. That’s the last photo we have of him, one of the most precious possessions we own.
 
 This photo was taken a few months prior to his heinous murder. My late brother had received a scholarship and the sponsors needed his photo. I wish they needed more photographs because this is the only photo we have of him.
-
 ![My Story](/media/pages/my-story/AMEL_HODZIC.JPG)  
 
 
-MISSION
+### MISSION
 
 There are other kids and families who have similar and maybe worse tragedies that happened to them. Perhaps someone else is looking for a photo or a person from those unfortunate times. There are many photographers who visited Bosnia during the war, maybe they have some unshared archive. Something that the world needs to see. 
 That’s one of the reasons we made this website. 
 The aim is to find, locate and archive photos taken in Sarajevo, Bosnia during the war from the period 1992 - 1996. This website will document the war from people like myself and my family who went through it. We would like to credit and acknowledge the brave and courageous photographers who lived it with us and bore witness to our suffering. Some of whom tragically lost their lives in the process. This website will honour those brave war photographers whose work allowed the world to see what was happening to us.
 
 ![My Story](/media/pages/my-story/DZENAZA.jpg)
-
-This is the photo by Anja Niedringhaus, it is from the funeral of my brother. 6th of May 1995.
+_ ###### This is the photo by Anja Niedringhaus, it is from the funeral of my brother.  6th of May 1995._
 
 Occasionally, at least once a year I look through photos from my brother’s funeral. My family has a photo album dedicated to my brother only, from him being a baby till his murder. I go through the pictures, think of those times, imagine events, laugh and contemplate. 
 The end of the album is only funeral pictures, family members, friends and some photos of foreign photographers who were there taking pictures. I don’t know them and I always wondered who are they and where they are now. My close friend helped me track down one of them. Famous photographer Anja Niedringhaus, looking, holding her cameras. When I tried searching for a photo of her during her mission in Bosnia, I couldn’t find any, there are always photos of her work but never pictures of her. Photographers don’t get photographed I guess.
@@ -60,14 +57,14 @@ As I searched and searched, I discovered many great shots and really stunning pi
 
 ![My Story](/media/pages/my-story/ANJA_NIEDRINGHAUS.jpg)
 
-Anja Niedringhaus 6th of May 1995. Our private archive
+_Anja Niedringhaus 6th of May 1995. Our private archive_
 
 ![My Story](/media/pages/my-story/FATHER_AND_SON.jpg)
 
-Anja Niedringhaus behind me and my late father,
-6th of May 1995. Photo from our private archive.
+_Anja Niedringhaus behind me and my late father,
+6th of May 1995. Photo from our private archive._
 
-APPEAL  
+### APPEAL  
 
 
 This is my way of finding out about other photographers from the album. I wonder if they are alive, covering other war zones, do they have more photos, do they have stories to share.
