@@ -78,7 +78,7 @@ As much as it is my story it is more about all of us, children. It is about war 
 
 It is about my brother.
 
-His name is Amel Hodzic, born 08.03.1979.
+His name is Amel Hodzic, born 8 March in 1979.
 
 This year he would have been 40 years old.
 
