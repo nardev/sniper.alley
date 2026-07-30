@@ -2,10 +2,12 @@
 title: "Interaktivni fotoprojekat: Aleja snajpera"
 description: "AL JAZEERA BALKANS (Bosnian) covered the Sniper Alley project."
 category: press
+cover: press_spicasta.jpg
 date: "2019-09-02"
 link: "http://balkans.aljazeera.net/blog/interaktivni-fotoprojekat-aleja-snajpera"
 ---
 
+###### BLOG
 ![Interaktivni fotoprojekat: Aleja snajpera](/media/our-work/press/press_spicasta.jpg)
 
 
