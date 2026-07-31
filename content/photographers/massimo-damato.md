@@ -1,7 +1,7 @@
 ---
 name: "Massimo D'amato"
 role: Photojournalist
-portrait: sniper_alley_massimo_damato_01.jpg
+portrait: sniper_alley_massimo_damato_06.jpg
 photos:
   - file: sniper_alley_massimo_damato_01.jpg
     caption: "Sarajevo 1995"

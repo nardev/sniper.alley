@@ -1,7 +1,7 @@
 ---
 name: "Patricia Franceschetti"
 role: Photojournalist
-portrait: sniper_alley_patricia_franceschetti_15.jpg
+portrait: sniper_alley_patricia_franceschetti_10.jpg
 photos:
   - file: sniper_alley_patricia_franceschetti_01.jpg
     caption: "Sarajevo, 1992"

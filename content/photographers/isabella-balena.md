@@ -1,7 +1,7 @@
 ---
 name: "Isabella Balena"
 role: Photojournalist
-portrait: sniper_alley_isabella_balena_17.jpg
+portrait: sniper_alley_isabella_balena_13.jpg
 photos:
   - file: sniper_alley_isabella_balena_01.jpg
     caption: "National Library Vijecnica, Sarajevo, Bosnia, 1995"

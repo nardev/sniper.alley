@@ -1,7 +1,7 @@
 ---
 name: "William Ney"
 role: Photojournalist
-portrait: sniper_alley_william_ney_33.jpg
+portrait: sniper_alley_william_ney_15.jpg
 photos:
   - file: sniper_alley_william_ney_01.jpg
     credit: "Photo Copyright © William Ney"

@@ -1,7 +1,7 @@
 ---
 name: "Roger Hutchings"
 role: Photojournalist
-portrait: sniper_alley_roger_hutchings_01.jpg
+portrait: sniper_alley_roger_hutchings_05.jpg
 photos:
   - file: sniper_alley_roger_hutchings_01.jpg
     caption: "Children playing with guns in Sarajevo during the Bosnian War. Throughout 1993, the Bosnian capital of Sarajevo was a city struggling for survival. Two years of virtual siege had numbed and exhausted the population of 300,000, 15,000 of whom had been killed in the war by the end of the year. There was talk of autonomous provinces, safe havens and cease-fires, but the reality was one of bombs and bullets."

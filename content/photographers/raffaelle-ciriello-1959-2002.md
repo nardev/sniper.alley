@@ -3,7 +3,7 @@ name: "Raffaele Ciriello"
 born: 1959
 died: 2002
 role: Photojournalist
-portrait: sniper_alley_raffaelle_ciriello_01.jpg
+portrait: sniper_alley_raffaelle_ciriello_08.jpg
 photos:
   - file: sniper_alley_raffaelle_ciriello_01.jpg
     credit: "Photo Copyright © Raffaele Ciriello"

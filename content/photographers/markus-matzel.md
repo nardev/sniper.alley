@@ -1,7 +1,7 @@
 ---
 name: "Markus Matzel"
 role: Photojournalist
-portrait: sniper_alley_markus_matzel_01.jpeg
+portrait: sniper_alley_markus_matzel_20.jpeg
 photos:
   - file: sniper_alley_markus_matzel_01.jpeg
     credit: "Photo Copyright © Markus Matzel"
