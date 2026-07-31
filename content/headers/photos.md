@@ -21,8 +21,8 @@ photographers:
 memoriam:
   - headers/in-memoriam-1.jpg
 our-work:
-  - cover-our-work-thomas.jpg
-  - cover-our-work-thomas.jpg
+  - headers/cover-our-work-thomas.jpg
+  - headers/cover-our-work-thomas.jpg
 site:
   - headers/sniperalley-header-01.jpg
   - headers/sniperalley-header-02.jpg
