@@ -1,6 +1,6 @@
 ---
 title: "Artists in Conversation #2. An artist talk by Džemil Hodžić."
-description: "Kuma International (English) covered the Sniper Alley project."
+description: "Kuma International (English)"
 category: press
 date: "2021-03-18"
 link: "https://www.youtube.com/watch?v=4pnY2YK06lM"

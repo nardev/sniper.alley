@@ -5,4 +5,4 @@ category: press
 date: "2019-10-02"
 link: "https://mojabih.oslobodjenje.ba/zivotne-price/sarajlija-trazi-fotografije-ubijenog-brata-i-cuva-uspomene-na-opsadu-na-stranici-aleja-snajpera/1408"
 ---
-Published by OSLOBOĐENJE in Bosnian on October 2, 2019.
+Published by Oslobođenje in Bosnian on October 2, 2019.
