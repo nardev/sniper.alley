@@ -43,8 +43,8 @@ Hodzic said he’s only “half-way” through the Sniper Alley online project a
 
 “Repeating the story is the only way to resist fascists and war criminals.”
 
-‘Sniper Alley – To My Brother’ will be shown on August 18 as part of the documentary programme of the Sarajevo Film Festival. Online screening is also available via festival’s official app. More information about Sniper Alley is available here: https://www.youtube.com/watch?v=b0HYP9ScDQk
-
+‘Sniper Alley – To My Brother’ will be shown on August 18 as part of the documentary programme of the Sarajevo Film Festival. Online screening is also available via festival’s official app. More information about Sniper Alley is available here:  
+[![YouTube Video b0HYP9ScDQk](https://img.youtube.com/vi/b0HYP9ScDQk/maxresdefault.jpg)](https://www.youtube.com/watch?v=b0HYP9ScDQk)
 
 __  
 Published by BIRN in English on August 15, 2024.
