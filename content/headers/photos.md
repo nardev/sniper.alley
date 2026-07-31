@@ -21,8 +21,8 @@ photographers:
 memoriam:
   - headers/in-memoriam-1.jpg
 our-work:
-  - headers/sniperalley-header-01.jpg
-  - headers/sniperalley-header-02.jpg
+  - headers/cover-our-work-paul-lowe.jpg
+  - headers/cover-our-work-paul-lowe.jpg
 site:
   - headers/sniperalley-header-01.jpg
   - headers/sniperalley-header-02.jpg
