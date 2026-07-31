@@ -1,6 +1,6 @@
 ---
 title: "Interaktivni fotoprojekat: Aleja snajpera"
-description: "AL JAZEERA BALKANS (Bosnian) covered the Sniper Alley project."
+description: "Al Jazeera Balkans (Bosnian)"
 category: press
 cover: press_spicasta.jpg
 banner: press_spicasta.jpg

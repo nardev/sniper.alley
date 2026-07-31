@@ -1,6 +1,6 @@
 ---
 title: "Čovjek koji je raskrinkao laž iz (RT)RS-a: Niko od vlasti se nije ni počešao, a djecu nam drugi put ubijaju"
-description: "Oslobodjenje (Bosnian) covered the Sniper Alley project."
+description: "Oslobodjenje (Bosnian)"
 category: article
 date: "2023-08-10"
 link: "https://www.oslobodjenje.ba/vijesti/bih/covjek-koji-je-raskrinkao-laz-iz-rtrs-a-niko-od-vlasti-se-nije-ni-pocesao-a-djecu-nam-drugi-put-ubijaju-883651/"
