@@ -71,9 +71,9 @@ koji će dokumentovati ratna zbivanja od ljudi koji su ga preživjeli i zabilje�
 
 Međunarodni krivični sud za bivšu Jugoslaviju (MKSJ) osudio je ratnog predsjednika Republike Srpske Radovana Karadžića na doživotni zatvor, uz ostalo, zbog opsade Sarajeva.
 
-Na istu kaznu pred MKSJ osuđen je i komandant Vojske RS Ratko Mladić.
+Na istu kaznu pred MKSJ osuđen je i komandant Vojske RS Ratko Mladić.  
 
-[![YouTube Video nlqVFJr1hEs](https://img.youtube.com/vi/nlqVFJr1hEs/maxresdefault.jpg)](https://www.youtube.com/watch?v=nlqVFJr1hEs)
+[![YouTube Video nlqVFJr1hEs](https://img.youtube.com/vi/nlqVFJr1hEs/maxresdefault.jpg)](https://www.youtube.com/watch?v=nlqVFJr1hEs)  
 
 __  
 Published by Radio Sarajevo in Bosnian on January 3, 2025.
