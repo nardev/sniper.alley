@@ -82,7 +82,8 @@ Rekao bih da je dan bio poseban i sretan ali ne mogu zbog vijesti da su se imigr
 
 ### Petak, 23. august: Odlazak  
 
-Spremio sam se, kupio sam stvari sa spiska, spakovao određene proizvode koje nosim svojoj porodici.  
+Spremio sam se, kupio sam stvari sa spiska,  
+spakovao određene proizvode koje nosim svojoj porodici.  
 
 Nahranio sam dušu. Sretan sam. Zadovoljan.  
 
@@ -91,7 +92,8 @@ Nažalost, nisam vidio sve drage ljude koje sam planirao.
 I nakon tri mjeseca bi bilo isto, nedovoljno i nedovršeno.  
 Vremena nikad dosta.  
 
-Ovo pišem dok sjedim u avionu negdje iznad Iraka. Svoje kratke crtice, moja tužna i sretna zapažanja.  
+Ovo pišem dok sjedim u avionu negdje iznad Iraka.  
+Svoje kratke crtice, moja tužna i sretna zapažanja.  
 
 Možda je bolje što sam daleko, možda sam spašen.  
 Vjerovatno projekat i ne bi postojao da živim u Sarajevu.  
