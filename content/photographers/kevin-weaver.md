@@ -3,7 +3,7 @@ name: "Kevin Weaver"
 born: 1963
 died: 2024
 role: Photojournalist
-portrait: sniper_alley_kevin_weaver_01.jpg
+portrait: sniper_alley_kevin_weaver_02.jpg
 photos:
   - file: sniper_alley_kevin_weaver_01.jpg
     credit: "Photo Copyright © Kevin Weaver"

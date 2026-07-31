@@ -1,7 +1,7 @@
 ---
 name: "Fernando Costa Netto"
 role: Photojournalist
-portrait: sniper_alley_fernando_costa_netto_12.jpg
+portrait: sniper_alley_fernando_costa_netto_03.jpg
 photos:
   - file: sniper_alley_fernando_costa_netto_02.jpg
     credit: "Photo Copyright © Fernando Costa Netto"

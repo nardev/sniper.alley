@@ -1,7 +1,7 @@
 ---
 name: "Greg Locke"
 role: Photojournalist
-portrait: sniper_alley_greg_locke_01.jpg
+portrait: sniper_alley_greg_locke_02.jpg
 photos:
   - file: sniper_alley_greg_locke_01.jpg
     caption: "Archive photos of conflict in Bosnia and Herzegovina by Greg Locke © 1995/1996"
