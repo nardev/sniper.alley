@@ -40,8 +40,10 @@ Twenty four years after Amel was forcibly taken from me, I went on a journey in 
 My battles, the battles of my family, are now for all those who were murdered, burned to death, raped, slaughtered in wars. When people are gone, those who stay behind can represent them, and can confront their enemies with the truth. Survivors of war can’t afford to stay quiet when we see wars and crimes are committed to someone else. That luxury of silence we don’t have. How could we sit idle and watch the same suffering we endured taking place somewhere else?  
 
 My life might be defined by that day when my brother was killed.  
-My soul might be wounded forever. But as a person, I am not damaged or deprived of love and empathy.  
+My soul might be wounded forever. But as a person,  
+I am not damaged or deprived of love and empathy.  
 So I keep preserving the truth and the facts, for my brother, for all of us.  
+
 One photo at the time. One by one. Till I breathe.     
 
 __  
