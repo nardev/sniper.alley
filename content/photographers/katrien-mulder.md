@@ -97,7 +97,6 @@ photos:
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_45.jpg
     credit: "Photo Copyright © Katrien Mulder"
-    credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_46.jpg
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_47.jpg
