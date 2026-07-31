@@ -29,4 +29,4 @@ Dodao je i kako cijeli serijal i naša video produkcija ne bi bila moguća bez p
 
 
 __  
-Published by Odgovor in Bosnian on September 27, 2025.
+Published by Odgovor.ba in Bosnian on September 27, 2025.
