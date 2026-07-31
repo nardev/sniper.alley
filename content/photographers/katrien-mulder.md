@@ -85,6 +85,8 @@ photos:
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_39.jpg
     credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_40.jpg
+    credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_41.jpg
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_42.jpg
@@ -95,4 +97,44 @@ photos:
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_45.jpg
     credit: "Photo Copyright © Katrien Mulder"
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_46.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_47.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_48.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_49.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_50.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_51.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_52.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_53.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_54.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_55.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_56.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_57.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_58.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_59.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_60.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_61.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_62.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_63.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_64.jpg
+    credit: "Sarajevo, February 1995  Photo Copyright © Katrien Mulder"
 ---
