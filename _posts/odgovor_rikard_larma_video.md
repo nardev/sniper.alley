@@ -25,7 +25,7 @@ Dodao je i kako cijeli serijal i naša video produkcija ne bi bila moguća bez p
 
 "Koristim priliku da se zahvalim kompaniji 'Domod' na njihovoj financijskoj pomoći. Također se zahvaljujem Memorijalnom Centru Sarajevo na podršci i partnerstvu. Osoblju Messa i Modula Memorije, posebno Nihadu Kreševljakoviću i Hani Bajrović.”  
 
-[![RIKARD LARMA VIDEO](https://img.youtube.com/vi/jB-onZx6XuA.jpg)]  
+[![https://www.youtube.com/watch?v=jB-onZx6XuA](https://img.youtube.com/vi/jB-onZx6XuA.jpg)]  
 
 
 __  

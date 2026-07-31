@@ -59,4 +59,4 @@ Nedam da se zaboravi, nedam da nestane…
 
 
 __  
-Published by AL JAZEERA BALKANS in Bosnian on September 2, 2019.
+Published by Al Jazeera Balkans in Bosnian on September 2, 2019.
