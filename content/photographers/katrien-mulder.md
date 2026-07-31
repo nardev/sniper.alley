@@ -16,7 +16,7 @@ photos:
   - file: sniper_alley_katrien_mulder_06.jpg
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_07.jpg
-    caption: "From left to right: Eldin Darman Selvedin Drakovac Ervin Nadarevic Nermin Subašić (RIP) February 1995 Hrasno, Trg Heroja | Sarajevo | Bosnia and Herzegovina"
+    caption: "From left to right: Eldin Darman, Selvedin Drakovac, Ervin Nadarevic, Nermin Subašić (RIP),  February 1995 Hrasno, Trg Heroja | Sarajevo | Bosnia and Herzegovina"  
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_08.jpg
     credit: "Photo Copyright © Katrien Mulder"
@@ -45,7 +45,7 @@ photos:
   - file: sniper_alley_katrien_mulder_20.jpg
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_21.jpg
-    caption: "From left to right: Olivera Skakavac Nermin Sanela Ljumic Curo Naida Carsimanovic Vukotic"
+    caption: "From left to right: Olivera Skakavac Nermin Sanela Ljumic Curo Naida Carsimanovic Vukotic"  
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_22.jpg
     credit: "Photo Copyright © Katrien Mulder"
@@ -77,7 +77,7 @@ photos:
   - file: sniper_alley_katrien_mulder_35.jpg
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_36.jpg
-    caption: "Nela Pavlović"
+    caption: "Nela Pavlović"  
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_37.jpg
     credit: "Photo Copyright © Katrien Mulder"
@@ -135,7 +135,7 @@ photos:
   - file: sniper_alley_katrien_mulder_63.jpg
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_64.jpg
-    caption: "Sarajevo, February 1995"
+    caption: "Sarajevo, February 1995"  
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_65.jpg
     credit: "Photo Copyright © Katrien Mulder"
