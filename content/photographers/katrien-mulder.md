@@ -157,4 +157,71 @@ photos:
     credit: "Photo Copyright © Katrien Mulder"
   - file: sniper_alley_katrien_mulder_74.jpg
     credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_75.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_76.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_77.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_78.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_79.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_80.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_81.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_82.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_83.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_84.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_85.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_86.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_87.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_88.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_89.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_90.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_91.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_92.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_93.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_94.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_95.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_96.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_97.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_98.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_99.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_100.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_101.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_102.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_103.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_104.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_105.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_106.jpg
+    credit: "Photo Copyright © Katrien Mulder"
+  - file: sniper_alley_katrien_mulder_107.jpg
+    credit: "Photo Copyright © Katrien Mulder"
 ---
+Katrien Mulder recalls how she documented everyday life as it continued in besieged Sarajevo, with children growing up despite the devastation around them. Katrien Mulder was sent on assignment to Sarajevo, the besieged capital of Bosnia and Herzegovina, she didn’t know much about what life was really like during wartime. She was covering the Sarajevo Siege in February 1995. 
