@@ -1,7 +1,7 @@
 ---
 name: "Tomas Muscionico"
 role: Photojournalist
-portrait: sniper_alley_tomas_muscionico_19.jpg
+portrait: sniper_alley_tomas_muscionico_02.jpg
 photos:
   - file: sniper_alley_tomas_muscionico_01.jpg
     caption: "Sarajevo, Dobrinja 1993"

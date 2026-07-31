@@ -1,7 +1,7 @@
 ---
 name: "Tony Ashby"
 role: Photojournalist
-portrait: sniper_alley_tony_ashby_04.jpg
+portrait: sniper_alley_tony_ashby_08.jpg
 photos:
   - file: sniper_alley_tony_ashby_01.jpg
     caption: "Gravediggers find room in the sporting grounds adjacent to the Lion cemetery in the capital Sarajevo, 1993."

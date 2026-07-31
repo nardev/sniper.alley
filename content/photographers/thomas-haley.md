@@ -1,7 +1,7 @@
 ---
 name: "Thomas Haley"
 role: Photojournalist
-portrait: Sniper_Alley_Thomas_Haley_001.jpg
+portrait: Sniper_Alley_Thomas_Haley_02.jpg
 photos:
   - file: Sniper_Alley_Thomas_Haley_001.jpg
     credit: "Photo Copyright © Thomas Haley"

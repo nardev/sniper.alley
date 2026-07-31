@@ -1,7 +1,7 @@
 ---
 name: "Uliano Lucas"
 role: Photojournalist
-portrait: sniper_alley_uliano_lucas_01.jpg
+portrait: sniper_alley_uliano_lucas_06.jpg
 photos:
   - file: sniper_alley_uliano_lucas_01.jpg
     caption: "Sarajevo, 1993"
