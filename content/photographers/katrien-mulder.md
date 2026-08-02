@@ -225,8 +225,8 @@ photos:
 ---
 Katrien Mulder recalls how she documented everyday life as it continued in besieged Sarajevo, with children growing up despite the devastation around them. She was sent on assignment to Sarajevo, the besieged capital of Bosnia and Herzegovina, she didn’t know much about what life was really like during wartime. Katrien Mulder was covering the Sarajevo Siege in February 1995. 
 
-_Katrien Mulder website:  
-_https://www.facebook.com/share/p/1Q1epAwN7h/  
+_Katrien Mulder website:_  
+https://www.facebook.com/share/p/1Q1epAwN7h/  
 
 _Katrien Mulder interview:_  
 https://balkaninsight.com/2023/10/26/women-picturing-bosnias-war-2-life-amid-death-in-besieged-sarajevo/btj/  
