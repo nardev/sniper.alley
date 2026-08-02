@@ -5,7 +5,7 @@ category: video
 date: "2024-12-27"
 link: "https://n1info.ba/english/news/30-years-later-wartime-photo-reconnects-two-girls-from-besieged-sarajevo/"
 ---
-![Oslobodjenje](/media/our-work/video/staffan-löfving-foto-emir-jordamovic.jpg)
+![Oslobodjenje](/media/our-work/video/staffan-lofving-foto-emir-jordamovic.jpg)
 _Photo ©️ Emir Jordamović_  
 
 ## The "Sniper Alley Photo" project, launched by Dzemil Hodzic, aims to locate and archive photographs taken during the Sarajevo siege (1992–1995). As part of this initiative, the series “The Story Behind the Photo” features foreign photojournalists recounting the stories behind their images from the siege. The first episode of the series' second season focuses on photographer and anthropologist Staffan Löfving and his photograph of two young girls in wartime Sarajevo.  
