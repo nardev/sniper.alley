@@ -5,7 +5,7 @@ category: press
 date: "2023-08-09"
 link: "https://balkans.aljazeera.net/teme/2023/8/9/ubijena-sarajevska-djeca-na-spisku-republike-srpske-kao-zrtve-armije-bih"
 ---
-![Al Jazeera Balkans](/media/our-work/press/spisak_ubijene_djece_RS.jpg)  
+![Al Jazeera Balkans](/media/our-work/press/spisak_djece_RS_press.jpg)  
 
 Web stranica Sniper Alley na Twitter nalogu piše o petero djece predstavljena kao žrtve Armije BiH, premda su ubijena u opkoljenom Sarajevu od strane Vojske Republike Srpske.  
 
@@ -26,5 +26,5 @@ Iz Centra u Banjoj Luci nisu odmah odgovorili na upit Al Jazeere o tome kako su 
 Premda je kompletno vojno i političko rukovodstvo Republike Srpske osuđeno pred Međunarodnim sudom u Hagu za najteže ratne zločine tokom rata u Bosni i Hercegovini, uključujući genocid u Srebrenici i terorisanje građana Sarajeva u najdužoj opsadi jednog grada u novijoj historiji ratovanja, čelnici tog entiteta odbacuju priznati odgovornost za zločine.  
 
 
-__
+__  
 Published by Al Jazeera Balkans in Bosnian on August 09, 2023.  
