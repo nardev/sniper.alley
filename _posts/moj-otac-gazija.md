@@ -4,7 +4,7 @@ description: "Trideset je godina prošlo od ovih fotografija sa dženaze našeg 
 category: sketch
 date: "2025-05-06"
 ---
-![Moj Otac Gazija](/media/our-work/sketch/father_scth.jpg)
+![Moj Otac Gazija](/media/our-work/sketch/father_gazija_scth.jpg)
 _[Photo ©️ Luigi Baldelli](https://www.sniperalley.photo/photographers/luigi-baldelli.html)_  
 
 Trideset je godina prošlo od ovih fotografija sa dženaze našeg Amela gdje moj rahmetli otac diktira i govori fotografima gdje da stanu i šta da uslikaju. Rukama im pokazuje da zabilježe godište njegovog šesneastogodišnjeg sina. Tada, sa svojih dvanaest godina ja to nisam shvatao i nije mi bilo jasno zašto on njima maše i govori da pređu ispred nas. Kako da ne poslušaju čovjeka kojem je ubijen sin. Oni su to i uradili, slikali su nas dvojicu kako “poziramo” pored Amelovog mezara. Na mojoj ruci visi njegov sat, Seiko 5 sa tragovima krvi i prevelikom narukvicom. Ja sam njega prisvojio odmah na putu ka bolnici dok je Amel još uvijek krvario u autu. Skinuo sam ga sa njega da ga neko slučajno ne bi uzeo. Momentalno je postao moj sat koji je bio umeljan tomplom Amelovom krvlju.  
