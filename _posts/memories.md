@@ -5,7 +5,7 @@ category: sketch
 date: "2019-08-22"
 ---
 ![memories](/media/our-work/sketch/79_scth.jpg)
-_Photo ©️ Thomas James Hurst_  
+_[Photo ©️ Thomas James Hurst](https://www.sniperalley.photo/photographers/thomas-james-hurst.html)_  
 ~   
 We don’t need much to start dreaming.  
 One small detail is enough, a word, a blink of an eye.  
