@@ -6,6 +6,8 @@ date: "2026-06-04"
 link: "https://odgovor.ba/article/pogledi/17733/"
 ---
 ![Odgovor](/media/our-work/interview/mohsen_odgovor.jpeg)
+_[Photo ©️ Mohsen Rastani](https://www.sniperalley.photo/photographers/mohsen-rastani.html)_  
+
 "U normalnom životu ne možete razumjeti čovjeka u potpunosti. Ali u ratu, ljudi vam pokažu sve one skrivene, najdublje slojeve svog karaktera", kazao je u razgovoru za !Odgovor Mohsen Rastani, jedan od najznačajnijih iranskih dokumentarnih fotografa. 
 Rastani je tokom svoje karijere dokumentovao društvene i humanitarne teme u različitim kriznim i poslijeratnim područjima, uključujući Bosnu i Hercegovinu od 1994. do sredine 1996, kada je snimio fotografije u Sarajevu, Tuzli i Mostaru. Fotografije je izlagao na brojnim izložbama u Iranu i drugim zemljama, između kojih su najznačajnije na Venecijanskom bijenalu 2011. i u Muzeju moderne umjetnosti u Parizu 2014. godine. Danas Mohsen Rastani živi i radi u Njemačkoj. 
 U okviru saradnje Ministarstva za boračka pitanja Kantona Sarajevo, Univerziteta u Sarajevu i WARM Festivala, u Memorijalnom centru Sarajevo od 4. do 17. juna 2026. bit će otvorena izložba njegovih fotografija. 
