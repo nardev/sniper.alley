@@ -15,7 +15,7 @@ Godinama kasnije, Džemil prikuplja ratne fotografije i svjedočenja fotoreporte
 
 Film “Aleja snajpera – mom bratu” priča je o gubitku, borbi i neumornoj potrebi da se pamti i svjedoči.  
 
-To je glas za 1.601 ubijeno dijete, i podsjetnik da nas istina mora nadživjeti. Film su režirali Cristiana Lucia Grilli i Francesco Toscani.  
+To je glas za ubijenu djecu i podsjetnik da nas istina mora nadživjeti. Film su režirali Cristiana Lucia Grilli i Francesco Toscani.  
 
 U nastavku tekst Džemila Hodžića  
 
