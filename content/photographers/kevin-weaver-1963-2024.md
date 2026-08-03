@@ -60,6 +60,6 @@ photos:
   - file: sniper_alley_kevin_weaver_28.jpg
     caption: "Dobrinja, Sarajevo"
     credit: "Photo Copyright © Kevin Weaver"
-  - file: sniper_alley_kevin_weaver_29.jpg
+  - file: sniper_alley_kevin_weaver_13.jpg
     credit: "Photo Copyright © Kevin Weaver"
 ---
