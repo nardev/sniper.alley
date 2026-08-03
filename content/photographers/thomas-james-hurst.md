@@ -3,8 +3,6 @@ name: "Thomas James Hurst"
 role: Photojournalist
 portrait: sniper_alley_thomas_james_hurst_01.jpg
 photos:
-  - file: sniper_alley_thomas_james_hurst_07.jpg
-    credit: "snPhoto Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_01.jpg
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_02.jpg
@@ -16,6 +14,8 @@ photos:
   - file: sniper_alley_thomas_james_hurst_05.jpg
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_06.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_07.jpg
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_08.jpg
     credit: "Photo Copyright © Thomas James Hurst"
@@ -116,7 +116,7 @@ photos:
     caption: "Elvis Zlatić, Sarajevo 1993."
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_56.jpg
-    caption: "[Džemil Hodžić](https://www.sniperalley.photo/my-story.html), Sarajevo 1993."
+    caption: "Džemil Hodžić, Sarajevo 1993."
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_57.jpg
     credit: "Photo Copyright © Thomas James Hurst"
