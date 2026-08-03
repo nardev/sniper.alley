@@ -10,11 +10,11 @@
 #
 # The site list covers pages without their own list (contact, donate, my story).
 home:
-  - headers/sniperalley-header-01.jpg
+  - headers/sniperalley-header-02.jpg
 stories:
-  - headers/sniperalley-header-02.jpg
+  - headers/sniperalley-header-01.jpg
 photographers:
-  - headers/sniperalley-header-02.jpg
+  - headers/sniperalley-header-01.jpg
 memoriam:
   - headers/in-memoriam-1.jpg
 our-work:
