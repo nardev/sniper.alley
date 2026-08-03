@@ -15,7 +15,7 @@ photos:
     caption: "Children in the war damaged streets of Mostar, BosniaWarchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
     credit: "Photo Copyright © Keith Brame"
   - file: sniper_alley_keith_brame_03.jpg
-    caption: "\"Sniper Alley\" Sarajevo Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
+    caption: "Sniper Alley Sarajevo Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"
     credit: "Photo Copyright © Keith Brame"
   - file: sniper_alley_keith_brame_04.jpg
     caption: "Music therapy projects run by Warchild in Mostar, Bosnia.Warchild projects in Mostar and Sarajevo, in Bosnian Wars, 1994-1995"

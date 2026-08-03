@@ -17,3 +17,4 @@ photos:
     credit: "Photo Copyright © Laurent Rebours"
   - file: sniper_alley_laurent_rebours_07.jpg
     credit: "Photo Copyright © Laurent Rebours"
+---
