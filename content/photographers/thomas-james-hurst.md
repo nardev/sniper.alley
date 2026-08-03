@@ -113,8 +113,10 @@ photos:
   - file: sniper_alley_thomas_james_hurst_54.jpg
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_55.jpg
+    caption: "Elvis Zlatić, Sarajevo 1993."
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_56.jpg
+    caption: "[Džemil Hodžić](https://www.sniperalley.photo/my-story.html), Sarajevo 1993."
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_57.jpg
     credit: "Photo Copyright © Thomas James Hurst"
