@@ -3,7 +3,7 @@ name: "Thomas James Hurst"
 role: Photojournalist
 portrait: sniper_alley_thomas_james_hurst_01.jpg
 photos:
-  - file: sniper_alley_thomas_james_hurst_007.jpg
+  - file: sniper_alley_thomas_james_hurst_07.jpg
     credit: "snPhoto Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_01.jpg
     credit: "Photo Copyright © Thomas James Hurst"
@@ -109,7 +109,116 @@ photos:
     credit: "sniper_alley_thomas_james_hurst_52"
   - file: sniper_alley_thomas_james_hurst_53.jpg
     caption: "Adnan Husić with his dad."
-    credit: "sniper_alley_thomas_james_hurst_53"
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_54.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_55.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_56.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_57.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_58.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_59.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_60.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_61.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_62.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_63.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_64.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_65.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_66.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_67.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_68.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_69.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_70.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_71.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_72.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_73.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_74.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_75.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_76.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_77.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_78.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_79.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_80.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_81.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_82.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_83.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_84.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_85.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_86.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_87.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_88.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_89.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_90.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_91.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_92.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_93.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_94.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_95.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_96.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_97.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_98.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_99.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_100.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_101.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_102.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_103.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_104.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_105.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_106.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+  - file: sniper_alley_thomas_james_hurst_107.jpg
+    credit: "Photo Copyright © Thomas James Hurst"
+
 ---
 Thomas James Hurst grew up in Mill Valley, Calif. He first picked up a camera, an old Nikormat, at the age of 21 when he went to Bosnia in 1992. After returning to Bosnia a second time in 1993, he decided to study photojournalism at San Francisco State University. 
 During winter and summer breaks, he traveled to Haiti, Afghanistan and Rwanda and also interned at daily newspapers. His work has appeared in such publications as Time magazine, The New York Times and The Boston Globe. 
