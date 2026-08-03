@@ -3,6 +3,7 @@ title: "Meni je maj najokrutniji mjesec."
 description: "Maj mi je uvijek bio tužan mjesec: moja porodica na jedan jednostavan i povučen način obilježava godišnjicu ubistva mog rahmetli brata."
 category: sketch
 date: "2026-05-05"
+link: "https://odgovor.ba/article/pogledi/15746/"
 ---
 ![Mjesec maj](/media/our-work/sketch/father_gazija_scth.jpg)
 _[Photo ©️ Luigi Baldelli](https://www.sniperalley.photo/photographers/luigi-baldelli.html)_  
@@ -23,7 +24,12 @@ Obilježavanje 5. maja i sjećanje na ubijenu djecu je možda i najbitniji dan z
 
 Šta bi život bio bez patnje i kakva bi svrha bila boriti se u životu bez nade u bolje sutra. Amel, ime koje i moj sin nosi, na arapskom znači nada, a kćerkino blagodat. Za sebe kažem i smatram da sam preživio genocid i da sam svjedok opsade Sarajeva, ali kada su moja djeca u pitanju onda sam borac za pravdu i istinu. U njihovim očima ja moram biti svjetlo i iskra ka dobru na putu pobjede. Mi smo ti koji odgajamo buduće ratnike. Jednostavno, nemam ja, niti iko drugi ko je preživio genocid, taj luksuz da drugima prepustimo da naše buduće Naniće, Vikiće, Hadžiće, Hujdure i sve druge sinove bosanske podučavaju o historiji drage nam otadžbine. Rad na projektu je prvobitno bio radi ubijene djece, ali je on zaista u konačnici za naraštaje koji tek dolaze.  
 
-Za našu djecu. Čeljad Republike Bosne i Hercegovine. Za nadu i blagodat naše domovine.  
+Za našu djecu.  
+
+Čeljad Republike Bosne i Hercegovine.  
+
+Za nadu i blagodat naše domovine.  
+
 
 __  
 Published by Odgovor.ba in Bosnian on May 5, 2026.
