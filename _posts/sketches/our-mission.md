@@ -22,7 +22,7 @@ We would like to give them a place in our history.
 
 This website will honour those brave men and women, our unsung heroes, who risked their lives to tell our stories, who’s lenses opened a window onto our world so that humanity could see what was happening to us and bear witness to a tragedy unfolding.  
  
-There are kids and families who suffered a lot during the war, 11,541 civilians were killed during the ‘Siege of Sarajevo’,
+There are kids and families who suffered a lot during the war, 11,541 people were killed during the ‘Siege of Sarajevo’,
 there are those who have survived, there are those who have stories to tell.  
 
 Reports indicate that between 5 and 15 people wounded daily were victims  
