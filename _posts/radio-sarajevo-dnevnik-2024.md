@@ -34,9 +34,9 @@ Dan poslije premijere i emocije se još nisu slegle. Moram da svoja razmišljanj
 
 Kao i prethodna dva, zauzeto. Korisno prije svega i konstruktivno. Uživam u gradu tek onoliko u prolazu, između sastanaka i kafa.
 
-Pogledao sam film You Play My Father o predstavi koju izvodi Alma Mustafić. Predstavi koja govori o genocidu u Srebrenici i kako je ubijen njen otac. Film je trajao 27 minuta, a ja sam htio da je duži, bilo mi je nedovoljno.
+Pogledao sam film "You Play My Father" o predstavi koju izvodi Alma Mustafić. Predstavi koja govori o genocidu u Srebrenici i kako je ubijen njen otac. Film je trajao 27 minuta, a ja sam htio da je duži, bilo mi je nedovoljno.
 
-Htio sam da saznam još detalja. Htio sam sve da znam u vezi Alme. Sve me je zanimalo. U paketu sa ovim filmom bio je i film Brother koji se bavi migrantima i njihovim smrtonosnim prelascima preko rijeká između Srbije i Bosne, Bosne i Hrvatske. Ljudi bez imená i bez licá umiru na našim prostorima a mi to i ne vidimo, ne znamo, ne zanima nas i ne možemo pomoći. 
+Htio sam da saznam još detalja. Htio sam sve da znam u vezi Alme. Sve me je zanimalo. U paketu sa ovim filmom bio je i film "Brother" koji se bavi migrantima i njihovim smrtonosnim prelascima preko rijeká između Srbije i Bosne, Bosne i Hrvatske. Ljudi bez imená i bez licá umiru na našim prostorima a mi to i ne vidimo, ne znamo, ne zanima nas i ne možemo pomoći. 
 
 Dan pun emocija. Toliko toga za procesuirati.
 
@@ -46,7 +46,7 @@ Sinoć je žena zaklana u Sarajevu. Treba sada vidjeti kako će ovo da mediji po
 
 Kada se bavite smrću na dnevnoj bazi onda nakon nekog vremena uvidite da ljude zaista mrtvi i ne zanimaju toliko koliko oni tvrde. Bilo, prošlo, i to je to. Lagano je sve svaliti na političare i populističke lešinare a šta je sa umjetnicima koji zaboravljaju svoje kolege. Sada nakon smrti vidite da to njihovo prijateljstvo nije ni postojalo i da je to sve bilo prividno. To isprazno "Slava mu”, uz neku staru sliku na kojoj se jedva razaznaju pikseli od lica. Toliko je to mučno gledati. 
 
-U ovom gradu apsolutno ne postoji ni jedna nagrada s imenom naših glumaca i glumica, nema fondacija, nema ni stipendija, nema da se obilježi i zabilježi da je u ovom gradu nekad postojao Muharem Osmanagaić, Šefik Uzunović, Hakija Hadžalić... Ko su njima ti tamo anonimni snimatelji?! Ja još nisam ni spomenuo sve, toliko novinara, umjetnika, pisaca koji nisu iz svijeta filma. Karim Zaimović ima svoju fondaciju i na tome se sve završava. Nema posebnih projekcija ako govorim o glumcima, neka baza ili stranica sa onima koji nisu više sa nama, nema kuća slavnih ili "In Memoriam" projekcije u čast naših kolega. Gdje su Mirsad Tuka, Haris Burina, Saša Petrović, Davor Janjić, Mustafa Nadarević… Mene ne zanima ko je dobio "Srce Sarajeva" prije dvadeset godina. Ja bih volio da vidim sliku Mirsada Tuke. a ne Mike Leigh-a.
+U ovom gradu apsolutno ne postoji ni jedna nagrada s imenom naših glumaca i glumica, nema fondacija, nema ni stipendija, nema da se obilježi i zabilježi da je u ovom gradu nekad postojao Muharem Osmanagaić, Šefik Uzunović, Hakija Hadžalić... Ko su njima ti tamo anonimni snimatelji?! Ja još nisam ni spomenuo sve, toliko novinara, umjetnika, pisaca koji nisu iz svijeta filma. Karim Zaimović ima svoju fondaciju i na tome se sve završava. Nema posebnih projekcija ako govorim o glumcima, neka baza ili stranica sa onima koji nisu više sa nama, nema kuća slavnih ili "In Memoriam" projekcije u čast naših kolega. Gdje su Mirsad Tuka, Haris Burina, Saša Petrović, Davor Janjić, Mustafa Nadarević… Mene ne zanima ko je dobio "Srce Sarajeva" prije dvadeset godina. Ja bih volio da vidim sliku Mirsada Tuke, a ne Mike Leigh-a.
 
 Zašto je to teško?
 
@@ -56,7 +56,7 @@ Ipak, ovo je "grad filma”! Ili nije? Gdje vam je taj i šta to na kraju krajev
 
 ### Srijeda, 21. august: David Bowie iz Srebrenice
 
-Danas smo snimali dva intervjua. U sklopu našeg serijala The Story Behind The Photo imamo fotografe koji su bili u Sarajevu u toku opsade. Jedan od tih fotografa je trenutno u Sarajevu i iskoristili smo priliku da ga snimamo za naš projekat. Kao i svaki put, ponavljam se, uvijek nešto naučim. Prije svega sebi, o Sarajevu. Proveli smo četiri sata skupa i bilo je više nego korisno.
+Danas smo snimali dva intervjua. U sklopu našeg serijala The Story Behind The Photo gdje imamo fotografe koji su bili u Sarajevu u toku opsade. Jedan od tih fotografa je trenutno u Sarajevu i iskoristili smo priliku da ga snimamo za naš projekat. Kao i svaki put, ponavljam se, uvijek nešto naučim. Prije svega o sebi pa o Sarajevu. Proveli smo četiri sata skupa i bilo je više nego korisno.
 
 Poslije podne imao sam još jedno snimanje ali ovaj put sa Bosancem. Svaka riječ mi je bila bliska i dok sam slušao emotivna ispovijedanja, sjećao sam se svog brata. Kao da sam slušao sebe. Odzvanjalo mi je u glavi. Imao sam sunčane naočale i suze se nisu vidjele.
 
@@ -66,7 +66,7 @@ Moram da kažem da ove godine ni jedan dugometražni nisam pogledao.  I nije mi 
 
 ### Četvrtak, 22. august: Podrška
 
-Današnji dan je bio poseban! Dan koji će ostati zabilježen za rad našeg projekta "Sniper Alley Photo". Sasvim neplanski i bez mog znanja jedna draga osoba je ugovorila sastanak sa gradonačelnicom Sarajeva Benjaminom Karić i zamolila me da se sastanemo. Okružen sam takvim ljudima, podrškom, motivacijom, isključivo zbog projekta. i na tome sam kao pojedinac jako počašćen.
+Današnji dan je bio poseban! Dan koji će ostati zabilježen za rad našeg projekta "Sniper Alley Photo". Sasvim neplanski i bez mog znanja jedna draga osoba je ugovorila sastanak sa gradonačelnicom Sarajeva Benjaminom Karić i zamolila me da se sastanemo. Okružen sam takvim ljudima, podrškom, motivacijom, isključivo zbog projekta i na tome sam kao pojedinac jako počašćen.
 
 Moram da priznam da se svaki put iznova iznenadim. Lijepe riječi, komentari, komplimenti, pomoć, sve to dolazi od 'anonimnih' pratilaca, neopjevanih heroja koji su podjednako bitni i zaslužni za naš uspjeh. 
 
@@ -78,7 +78,7 @@ Svakodnevno dijelom slike i informacije razrušenog grada. Svake godine, svakog 
 
 Izrazila je želju da pomogne naš rad i našu Misiju. Jako sam zahvalan na tome, ovo su novi momenti kada je projekat u pitanju.
 
-Rekao bih da je dan bio poseban i sretan ali ne mogu zbog vijesti da su se imigranti prevrnuli u rijeci Drini i da je među njima bila beba i majka. Baš kao i u filmu Brother koji sam gledao na festivalu. Živimo filmove koje gledamo. Možda je bolje da ne čitamo vijesti i da samo nastavimo uživati u svom izolovanom životu. Da ne pokvarimo atmosferu. Grad je lijep i veseo, što da to kvarimo...
+Rekao bih da je dan bio poseban i sretan ali ne mogu zbog vijesti da su se imigranti prevrnuli u rijeci Drini i da je među njima bila beba i majka. Baš kao i u filmu "Brother" koji sam gledao na festivalu. Živimo filmove koje gledamo. Možda je bolje da ne čitamo vijesti i da samo nastavimo uživati u svom izolovanom životu. Da ne pokvarimo atmosferu. Grad je lijep i veseo, što da to kvarimo...
 
 ### Petak, 23. august: Odlazak  
 
