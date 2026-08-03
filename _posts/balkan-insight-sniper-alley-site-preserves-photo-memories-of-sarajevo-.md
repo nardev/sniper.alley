@@ -28,7 +28,7 @@ For Hodzic, who was nine years old when the war started, the project is also a w
 
 “Through this project and my story, I’ve initiated a search for any photos of my brother, Amel, so I am using this opportunity to call on all of those who might have a photo of him, any story, to share it with me,” Hodzic said, appealing to people to get in contact via the Sniper Alley site.
 
-## ‘Everyone suffered’  
+### ‘Everyone suffered’  
 
 In his personal story on the site, Hodzic writes about his disrupted childhood and the death of his brother. He admitted that this was not an easy task for him.
 
@@ -42,7 +42,7 @@ Recalling such memories can be painful, but Hodzic insisted it is important to d
 
 “I do not want to condemn anyone but I would like to invite people to write, even if it is anonymously. Anything, anytime. I chose to write and I must admit, it helps me,” he added.
 
-## A legacy of truth  
+### A legacy of truth  
 
 Ethnically-divided interpretations of the country’s wartime history and denials of wartime crimes also make it important for those who survived the conflict to tell their stories truthfully, he said.  
 
@@ -59,6 +59,7 @@ Hodzic still visits Sarajevo, mostly during the summer season and says that main
 “I am proud of all those who lost their lives for our city. Fighters. Nurses. Journalists. Children. Parents. Photographers. This city knows how to appreciate those who love it.”  
 
 
-_Wrritten by Mladen Lakić_
+_Wrritten by Mladen Lakić_  
+
 __  
 Published by BALKAN INSIGHT in English on October 1, 2019.

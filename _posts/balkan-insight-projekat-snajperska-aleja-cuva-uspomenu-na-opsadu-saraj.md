@@ -28,7 +28,7 @@ Takođe, Hodžiću bi ovaj projekat mogao da pomogne da pronađe još fotografij
 
 „Kroz ovaj projekat krenuo sam u potragu za bilo kakvim fotografijama mog brata Amela, pa koristim ovu priliku da apelujem na sve one koji možda imaju neku njegovu sliku, neku priču, da to podijele sa mnom”, rekao je Hodžić pozivajući ljude da ga kontaktiraju putem stranice ‘Aleja snajpera’.  
 
-## „Svi su patili“  
+### „Svi su patili“  
 
 U svojoj ličnoj priči na toj stranici, Hodžić piše o prekinutom detinjstvu i smrti svoga brata. Priznaje da je za njega to bio težak zadatak.
 
@@ -42,7 +42,7 @@ Takva sećanja mogu biti bolna, ali Hodžić insistira da ih je važno dokumento
 
 „Ne želim nikoga da osuđujem, ali volio bih pozvati ljude da pišu, čak i ako to urade anonimno. Bilo šta, bilo kad. Ja sam odlučio da pišem i moram priznati da mi to pomaže”, dodaje on.  
 
-Nasleđe istine
+### Nasleđe istine  
 
 Zbog etnički podeljenih tumačenja ratne istorije zemlje i negiranja ratnih zločina važno je da oni koji su preživeli sukob ispričaju istinu, kaže on.
 
