@@ -16,8 +16,8 @@ But the mark of his superiority as a journalist was the fact that the story neve
 
 ![Kurt Schork](/media/memoriam/kurt-schork/01_KURT.jpg)
 
-_Anja Niedringhaus (left), Kurt Schork (in the middle) and Joel Brand (right) in Sarajevo during the war._  
-_Photo © Kurt Schork Memorial Fund_
+_Anja Niedringhaus (left), Kurt Schork (in the middle) and Joel Brand (right)_
+_in Sarajevo during the war. Photo © Kurt Schork Memorial Fund_
 
 “Above all else, he was a humanitarian. He knew better than most journalists how to walk the fine line between doing what he had to do to be a reporter and doing what he needed to do to help people,” says Joel Brand.
 
@@ -38,8 +38,8 @@ _Photo © Patrick Robert_
 
 ![Kurt Schork](/media/memoriam/kurt-schork/04_KURT.jpg)
 
-_Kurt Schork and Thomas James Hurst helping a man shot by a Serb sniper in the lobby of the war hotel Holiday Inn, Sarajevo 1992._  
-_Photo © John Downing_  
+_Kurt Schork and Thomas James Hurst helping a man_
+_shot by a Serb sniper in the lobby of the war hotel Holiday Inn, Sarajevo 1992. Photo © John Downing_  
 
 In 2000, Schork went to cover the civil war in Sierra Leone, in western Africa. On 24 May, he and three other news personnel “set out in two vehicles with an army escort on a daily trip to pick up news from the war front.” Everything appeared safe, but then they heard gunfire up ahead. Suddenly, they were ambushed by rebels 50 miles from Freetown who may have thought the vehicles belonged to someone else. Kurt was shot in the head and died instantly. His colleague, Miguel Gil Moreno, an Associated Press cameraman and producer who was also among the finest in his field, was killed too. Yannis Behrakis, a Reuters photographer and Mark Chisholm, a Reuters cameraman, were both wounded. All four knew each other from the Bosnian war and during the siege of Sarajevo in the mid-1990s. They had become a ‘band of brothers’. Schork’s death was a great shock to all who knew him and to those who read his news stories.
 
@@ -91,12 +91,11 @@ But Nera Ismić, mother of murdered Admira, remembers him for another reason. �
 ![Kurt Schork](/media/memoriam/kurt-schork/28_KURT.jpg)
 
 After Kurt Schork was killed, Sabina buried half of his ashes next to his mother in Washington, D.C. - USA, and brought the other half to the Sarajevo Lion’s cemetery in Bosnia and Herzegovina, next to the grave of Boško and Admira.
-
 _Photo © Emir Jordamović_  
 
 The Kurt Schork Memorial Award was established ‘to recognize freelance journalists who make a critical contribution to international understanding, but whose work is often overlooked.’ Also, the newsroom at Schork’s alma mater, Jamestown College, was named in his honor. Many great people have reflected on his life and achievements, one of them Martin Bell, himself a veteran reporter, said of Kurt: ‘He did more than file dispatches, which he did faster and better than anyone, he helped the helpless, he rescued the wounded and became the conscience in residence of the Sarajevo press corps.” A webpage dedicated to the memory of Kurt and articles written in the aftermath of his death can be found here: www.ksmemorial.com
 
-![Kurt Schork](/media/memoriam/kurt-schork/02_KURT.jpg)  
+![Kurt Schork](/media/memoriam/kurt-schork/02_KURT.jpg)
 _Photo © Jockel Finck_  
 
 At the service, Schork was praised for his sense of compassion for the people of Bosnia and other war-ravaged countries. One of the most famous incidents in his life was when he rushed to the aid of a woman wounded during an attack on a funeral in Sarajevo in August 1992. “Kurt believed if he shone the flashlight of truth, truth in the form of facts, as Kurt presented them in his precise and sparse style, then the world would not be able to ignore indefinitely what was happening. Bosnia proved him right. His reporting was read around the world by millions who, because he wrote for a wire service, rarely if ever knew his name. His stories moved people to anger, they affected leaders and ultimately, belatedly, they helped rouse governments to action.” said late Richard Holbrooke, U-S Ambassador to the U-N at the time, at Kurt Schork memorial service. This photo was taken in the same cemetery where Kurt is buried now, not far from this same location.
