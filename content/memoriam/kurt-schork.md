@@ -76,21 +76,19 @@ Glen Felgate
 Bosnia’s Independent Union of Journalists initiated the action in honor of Reuters correspondent Kurt Schork and Miguel Gil Moreno de Mora of the AP. In June 2000, Sarajevo government officials awarded them Bosnian passports posthumously. Their passports were given to Reuters and AP representatives by officials of the Sarajevo cantonal interior ministry. Schork, a U.S. citizen, and Gil Moreno de Mora, a Spaniard, were widely recognized for their reporting on Bosnia’s bloody war. The journalist union’s chief, Mehmed Husić, said the two men were true friends of Bosnia. He added: “They were really the people who have said the truth about Bosnia in the times when it was the most difficult and most important thing.” Kurt’s partner Sabina had obtained a Bosnian driver’s license for him during the war, as his US license had expired. Kurt was incredibly proud of the license and showed it to everyone in the US and used it to rent cars when traveling in Europe. Sabina discussed with local officials the possibility of Kurt applying for a Bosnian passport for him, but was rejected.
 
 ![Kurt Schork](/media/memoriam/kurt-schork/05_KURT.jpg)
-
 _Kurt Schork’s honorary Bosnian passport._  
 _Photo © Danilo Krstanović_  
 
 Part of the road from Sarajevo airport into the city was renamed in memory of Kurt Schork. His Street connects the airport to the boulevard nicknamed “Sniper Alley” by foreign reporters during the 1992-95 war, when Serb sharpshooters made Sarajevans run a perilous daily gauntlet. “During 1,425 days of the siege, he showed the whole world the truth about the war, the heroism and the scale of the suffering of the citizens of Sarajevo,” a plaque reads. Among those at the renaming ceremony was the mother of Admira Ismić, a girl killed with her sweetheart Boško Brkić while the 25-year-olds were trying to escape the city. Their bodies lay for days in no man’s land. Schork’s ‘Romeo and Juliet’ account of their tragic story was among his most moving reports from Sarajevo. You can read Kurt Schork’s signature dispatch from siege of Sarajevo here.
 
-![Kurt Schork](/media/memoriam/kurt-schork/08_KURT.jpg)  
+![Kurt Schork](/media/memoriam/kurt-schork/08_KURT.jpg)
 _The bodies of Bosko Brkić and girlfriend Admira Ismić in Sarajevo in May 1993._  
 _Photo © Jerome Delay_   
 
 But Nera Ismić, mother of murdered Admira, remembers him for another reason. “When all the other journalists were besieging us in search of an exclusive story - and of course they were only doing their job - Kurt was the only one who really tried to help us recover their bodies and did not mention the story. “He was buried next to my children and every time I go to the cemetery, I bring him flowers as well. It was an honor to have known him,” she said.
 
 ![Kurt Schork](/media/memoriam/kurt-schork/28_KURT.jpg)
-
-After Kurt Schork was killed, Sabina buried half of his ashes next to his mother in Washington, D.C. - USA, and brought the other half to the Sarajevo Lion’s cemetery in Bosnia and Herzegovina, next to the grave of Boško and Admira.
+After Kurt Schork was killed, Sabina buried half of his ashes next to his mother in Washington, D.C. - USA, and brought the other half to the Sarajevo Lion’s cemetery in Bosnia and Herzegovina, next to the grave of Boško and Admira.  
 _Photo © Emir Jordamović_  
 
 The Kurt Schork Memorial Award was established ‘to recognize freelance journalists who make a critical contribution to international understanding, but whose work is often overlooked.’ Also, the newsroom at Schork’s alma mater, Jamestown College, was named in his honor. Many great people have reflected on his life and achievements, one of them Martin Bell, himself a veteran reporter, said of Kurt: ‘He did more than file dispatches, which he did faster and better than anyone, he helped the helpless, he rescued the wounded and became the conscience in residence of the Sarajevo press corps.” A webpage dedicated to the memory of Kurt and articles written in the aftermath of his death can be found here: www.ksmemorial.com
@@ -99,7 +97,6 @@ The Kurt Schork Memorial Award was established ‘to recognize freelance journal
 _Photo © Jockel Finck_  
 
 At the service, Schork was praised for his sense of compassion for the people of Bosnia and other war-ravaged countries. One of the most famous incidents in his life was when he rushed to the aid of a woman wounded during an attack on a funeral in Sarajevo in August 1992. “Kurt believed if he shone the flashlight of truth, truth in the form of facts, as Kurt presented them in his precise and sparse style, then the world would not be able to ignore indefinitely what was happening. Bosnia proved him right. His reporting was read around the world by millions who, because he wrote for a wire service, rarely if ever knew his name. His stories moved people to anger, they affected leaders and ultimately, belatedly, they helped rouse governments to action.” said late Richard Holbrooke, U-S Ambassador to the U-N at the time, at Kurt Schork memorial service. This photo was taken in the same cemetery where Kurt is buried now, not far from this same location.
-
 
 
 “Does it make any difference what kind of war you get killed covering?” asked The Washington Post’s veteran front man Jonathan C. Randal. “Probably not. It’s a high-war correspondence. I keep fighting the cliche that Kurt died doing what he liked to do.” 
@@ -117,15 +114,15 @@ Anthony Loyd in his book ‘Another Bloody Love Letter’, a memoir of war and a
 _Kurt Schork’s eternal resting place in the Lion’s cemetery in Sarajevo._  
 _Photo © Emir Jordamović_  
 
+
 KURT SCHORK was born on 25 January 1947 in Washington, D.C., USA.  
 
 He was killed in an ambush on 24 May 2000 in Sierra Leaone.  
 
 
-__
+__  
 
 Special thanks to Sabina Ćosić, Mark Chisholm & Glen Felgate  
 www.ksmemorial.com & www.ksmfund.org & Julian Borger  
 Sources: www.theguardian.com www.reuters.com www.apnews.com www.washingtonpost.com  
-
 __  
