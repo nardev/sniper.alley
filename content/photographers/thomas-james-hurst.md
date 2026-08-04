@@ -116,7 +116,7 @@ photos:
     caption: "Elvis Zlatić, Sarajevo 1993."
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_56.jpg
-    caption: "[Džemil Hodžić](https://www.sniperalley.photo/my-story-mission.html), Sarajevo 1993."
+    caption: "Džemil Hodžić, Sarajevo 1993."
     credit: "Photo Copyright © Thomas James Hurst"
   - file: sniper_alley_thomas_james_hurst_57.jpg
     caption: "Vedrana Glavaš and Roki Sulejmanović in the morgue, Sarajevo 1992."
