@@ -5,7 +5,7 @@ category: video
 date: "2021-01-03"
 link: "https://radiosarajevo.ba/metromahala/teme/objavljen-dokumentarac-slavni-novinar-o-grckim-i-ruskim-borcima-koji-su-ubijali-civile-u-sarajevu/573791"
 ---
-![mario Boccia](/media/our-work/video/mario-boccia-foto-emir-jordamovic.jpg)
+![Mario Boccia](/media/our-work/video/mario-boccia-foto-emir-jordamovic.jpg)
 _Photo ©️ Emir Jordamović_  
 
 Fotografije Marija Boccie nastale prve ratne zime u Bosni i Hercegovini i opkoljenom Sarajevu i okolici, obišle su svijet.  
