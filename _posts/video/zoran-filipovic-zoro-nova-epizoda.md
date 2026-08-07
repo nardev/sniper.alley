@@ -5,7 +5,7 @@ category: video
 date: "2024-08-10"
 link: "https://www.klix.ba/magazin/kultura/sta-je-cijenjeni-fotograf-zabiljezio-tokom-opsade-sarajeva-zivot-je-misterija-kojoj-vi-ubice-niste-dorasli/240810080"
 ---
-![Zoran Fiilipovic](/media/our-work/Cover_Zoran Filipovic Zoro.JPG)
+![Zoran Fiilipovic](/media/our-work/video/Cover_Zoran Filipovic Zoro.JPG)
 _Photo ©️ Stanko Abadžić_  
 
 ## Sniper Alley u šestoj epizodi serijala "The Story Behind The Photo" ("Priča iza fotografije") donosi razgovor s bh. fotografom Zoranom Filipovićem, poznatijem kao Zoro, koji je snimio opsadu Sarajeva.  
