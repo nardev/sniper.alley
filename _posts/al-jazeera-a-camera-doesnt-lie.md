@@ -5,7 +5,6 @@ category: press
 date: "2020-05-03"
 link: "https://www.aljazeera.com/indepth/features/camera-doesn-lie-documenting-besieged-sarajevo-200503133620219.html"
 ---
-
 ## ‘A camera doesn’t lie’: Documenting besieged Sarajevo 
 
 ![Kamera ne laže](/media/our-work/press/danilo-krstanovic-kamera-ne-laze.jpg)
