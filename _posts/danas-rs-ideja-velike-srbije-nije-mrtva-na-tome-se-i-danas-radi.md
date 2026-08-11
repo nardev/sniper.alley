@@ -6,12 +6,9 @@ date: "2019-10-11"
 link: "https://www.danas.rs/drustvo/suocavanje/ideja-velike-srbije-nije-mrtva-na-tome-se-i-danas-radi/"
 ---
 _Džemil Hodžić, pokrenuo je sajt "Sniper Alley" s ciljem pronalaska ratnih fotografija, ali i fotografija svoga brata Amela koji je ubijen u Sarajevu_  
-
 ## Ideja velike Srbije nije mrtva, na tome se i danas radi  
-
 ![Ideja velike Srbije](/media/our-work/press/danilo-krstanovic-kamera-ne-laze.jpg)  
 _© Danilo Krstanović_  
-
 ## Kad je rat počeo ja sam imao devet godina, a brat je imao 13. Živjeli smo u Sarajevu. Prisjećajući se djetinjstva iz rata ne znam da li se mogu sjetiti neke veće tragedije ili neke traume koja je ostavila ožiljak – počinje svoju priču za Danas Džemil Hodžić.  
 
 „Moguće da sam još uvijek bio samo dijete i nisam se toliko obazirao na neke stvari. Dajdža mi je poginuo 1993., komšija, prijatelji iz razreda. Smrt je bila oko nas, stalno tu. Jedno je kad ste prisutni i kad vidite krv, čujete vrisku, plač. Takvi doživljaji ostave traga“, priseća se Hodžić.
