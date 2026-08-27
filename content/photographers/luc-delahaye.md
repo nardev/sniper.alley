@@ -12,6 +12,8 @@ photos:
     credit: "Photo Copyright © Luc Delahaye"
   - file: sniper_alley_luc_delahaye_04.jpg
     credit: "Photo Copyright © Luc Delahaye"
+  - file: sniper_alley_luc_delahaye_05.jpg
+    credit: "Photo Copyright © Luc Delahaye"
   - file: sniper_alley_luc_delahaye_06.jpg
     credit: "Photo Copyright © Luc Delahaye"
   - file: sniper_alley_luc_delahaye_07.jpg
