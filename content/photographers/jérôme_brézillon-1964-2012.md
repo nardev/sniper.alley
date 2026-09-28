@@ -3,11 +3,11 @@ name: "Jérôme Brézillon"
 born: 1964
 died: 2012
 role: Photojournalist
-portrait: sniper_alley_jérôme_brézillon_06.jpeg
+portrait: sniper_alley_jerome_brezillon_06.jpeg
 photos:
-  - file: sniper_alley_jérôme_brézillon_01.jpeg
+  - file: sniper_alley_jerome_brezillon_01.jpeg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_02.jpeg
+  - file: sniper_alley_jerome_brezillon_02.jpeg
     credit: "Photo Copyright © Jérôme Brézillon"
   - file: sniper_alley_jérôme_brézillon_03.jpeg
     credit: "Photo Copyright © Jérôme Brézillon"
@@ -51,9 +51,6 @@ photos:
     credit: "Photo Copyright © Jérôme Brézillon"
   - file: sniper_alley_jérôme_brézillon_22.jpeg
     credit: "Photo Copyright © Jérôme Brézillon"
+
 ---
-Jérôme Brézillon, born 23 June 1964, in Paris and died on 2 March 2012, in his hometown, was a French photographer.
-
-Jérôme Brézillon began his career as an advertising photographer, then became a photojournalist. From 1992 to 1998, he covered several armed conflicts and wars, notably Sarajevo Siege, Cyprus and Northern Ireland. In 1996, he won the World Press Photo award.
-
-In 2000, he collaborated with Finnish filmmaker Sólveig Anspach on the documentary Made in USA, which focused on the death penalty.
+Jérôme Brézillon, born 23 June 1964, in Paris and died on 2 March 2012, in his hometown, was a French photographer. Jérôme Brézillon began his career as an advertising photographer, then became a photojournalist. From 1992 to 1998, he covered several armed conflicts and wars, notably Sarajevo Siege, Cyprus and Northern Ireland. In 1996, he won the World Press Photo award. In 2000, he collaborated with Finnish filmmaker Sólveig Anspach on the documentary Made in USA, which focused on the death penalty.
