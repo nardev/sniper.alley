@@ -1,7 +1,7 @@
 ---
 name: "Andree Kaiser"
 role: Photojournalist
-portrait: sniper_alley_andree_kaiser_09.jpeg
+portrait: sniper_alley_andree_kaiser_12.jpeg
 photos:
   - file: sniper_alley_andree_kaiser_01.jpeg
     credit: "Photo Copyright © Andree Kaiser"

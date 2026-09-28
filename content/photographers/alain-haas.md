@@ -1,7 +1,7 @@
 ---
 name: "Alain Haas"
 role: Photojournalist
-portrait: sniper_alley_alain_haas_04.jpg
+portrait: sniper_alley_alain_haas_14.jpg
 photos:
   - file: sniper_alley_alain_haas_01.jpg
     credit: "Photo Copyright © Alain Haas"

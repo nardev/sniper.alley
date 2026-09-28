@@ -1,7 +1,7 @@
 ---
 name: "Enric Martí"
 role: Photojournalist
-portrait: sniper_alley_enric_marti_17.jpg
+portrait: sniper_alley_enric_marti_18.jpg
 photos:
   - file: sniper_alley_enric_marti_01.jpg
     caption: "Locals flee for cover as sniper fire is heard in the Alipašina intersection in Sarajevo, Bosnia and Hercegovina, 06 June 1995."
