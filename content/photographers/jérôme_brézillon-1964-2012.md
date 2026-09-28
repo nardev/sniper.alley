@@ -11,43 +11,43 @@ photos:
     credit: "Photo Copyright © Jérôme Brézillon"
   - file: sniper_alley_jerome_brezillon_03.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_04.jpeg
+  - file: sniper_alley_jerome_brezillon_04.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_05.jpeg
+  - file: sniper_alley_jerome_brezillon_05.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
   - file: sniper_alley_jerome_brezillon_06.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_07.jpeg
+  - file: sniper_alley_jerome_brezillon_07.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_08.jpeg
+  - file: sniper_alley_jerome_brezillon_08.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_09.jpeg
+  - file: sniper_alley_jerome_brezillon_09.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_10.jpeg
+  - file: sniper_alley_jerome_brezillon_10.jpeg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_11.jpeg
+  - file: sniper_alley_jerome_brezillon_11.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_12.jpeg
+  - file: sniper_alley_jerome_brezillon_12.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_13.jpeg
+  - file: sniper_alley_jerome_brezillon_13.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_14.jpeg
+  - file: sniper_alley_jerome_brezillon_14.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_15.jpeg
+  - file: sniper_alley_jerome_brezillon_15.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_16.jpeg
+  - file: sniper_alley_jerome_brezillon_16.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_17.jpeg
+  - file: sniper_alley_jerome_brezillon_17.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_18.jpeg
+  - file: sniper_alley_jerome_brezillon_18.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_19.jpeg
+  - file: sniper_alley_jerome_brezillon_19.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_20.jpeg
+  - file: sniper_alley_jerome_brezillon_20.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_21.jpeg
+  - file: sniper_alley_jerome_brezillon_21.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jérôme_brézillon_22.jpeg
+  - file: sniper_alley_jerome_brezillon_22.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
 
 ---
