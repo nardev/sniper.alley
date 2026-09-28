@@ -3,19 +3,19 @@ name: "Jérôme Brézillon"
 born: 1964
 died: 2012
 role: Photojournalist
-portrait: sniper_alley_jerome_brezillon_06.jpeg
+portrait: sniper_alley_jerome_brezillon_06.jpg
 photos:
-  - file: sniper_alley_jerome_brezillon_01.jpeg
+  - file: sniper_alley_jerome_brezillon_01.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jerome_brezillon_02.jpeg
+  - file: sniper_alley_jerome_brezillon_02.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jerome_brezillon_03.jpeg
+  - file: sniper_alley_jerome_brezillon_03.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
   - file: sniper_alley_jérôme_brézillon_04.jpeg
     credit: "Photo Copyright © Jérôme Brézillon"
   - file: sniper_alley_jérôme_brézillon_05.jpeg
     credit: "Photo Copyright © Jérôme Brézillon"
-  - file: sniper_alley_jerome_brezillon_06.jpeg
+  - file: sniper_alley_jerome_brezillon_06.jpg
     credit: "Photo Copyright © Jérôme Brézillon"
   - file: sniper_alley_jérôme_brézillon_07.jpeg
     credit: "Photo Copyright © Jérôme Brézillon"
