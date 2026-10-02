@@ -9,8 +9,8 @@ excerpt: "Alexandra Boulat was born in Paris, France, May 2, 1962. She was origi
 ---
 Alexandra Boulat was born in Paris, France, May 2, 1962. She was originally studying graphic design and art history at the Beaux Arts in Paris. She followed in the steps of her father, photographer Pierre Boulat, who worked for LIFE magazine for 25 years and her mother Annie Boulat, founder of Cosmos photo agency which she founded in 1979. Alexandra grew up surrounded with photography and in 1989 she joined Sipa agency and headed for the Balkans where she established herself as one of the very few women conflict photojournalists.
 
-![Danilo Krstanovic](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_01.jpg)
-Photo by Emmanuel Ortiz
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_01.jpg)
+_Photo by Emmanuel Ortiz_
 
 “I have studied arts, painting and art history in Paris and I was a painter for 10 years, but I always wanted to be a photographer. When I joined Sipa Press in 1989, I never thought I would end up doing war photography. But it came to me, at a road crossing in Ex-Yugoslavia. During spring 1991, I was travelling around all the republics of Yugoslavia to do a story on a country that was on the edge of a major breakdown. I was ending my journey when the first clashes erupted. After few weeks of wandering across the towns, the villages and the still peaceful Yugoslav country side, I knew better about the place, its people and their ethnic differences. Therefore, the first check point of Serb civilians in arms at the entrance of a Croatian village made me want to continue the story, even if it would turn dangerous and too impressing. Thus, for the following 9 years, I was going to witness one of the bloodiest wars in Europe, and accompany thousands of people to the cemeteries.” Alexandra Boulat
 
@@ -19,7 +19,8 @@ Boulat was represented by her mother’s agency Cosmos and then by Sipa Press fo
 Just two days before the terrorist attacks on the World Trade Centre in September 2001, she joined half a dozen top photographers to launch the cooperative photo VII Agency together with James Nachtwey, Gary Knight, Ron Haviv, Christopher Morris, Antonin Kratochvil and John Stenmeyer. Their mission was to ‘produce an unflinching record of the injustices created and experienced by people’. Her Paris flat was its first headquarters. A year later she won the World Press Photo award for her photographs of Yves St Laurent’s last show. Forty years earlier her father had shot the fashion designer’s first show. A Time colleague who worked beside her in Afghanistan that year dubbed her ‘a Ninja with a Nikon’ because she drove herself relentlessly and had a knack of merging into the background whether she was rolling in the dust or scrambling up the rafters. She dressed in black or khaki, which enabled her to be stealthy in a room full of activity and she seemed to literally vanish into her work. She did not flinch from death and embraced the complexities of life with a sense of the absurd.
 
 The veteran French designer Yves Saint Laurent closed his offices after 40 years as a leader on the fashion scene. He gave his final haute couture show at Centre Georges Pompidou in Paris in January 2002. Alexandra Boulat won 2nd prize in World Press Photo Contest for Arts and Entertainment Stories category in 2003.
-©Alexandra Boulat, Photo VII Agency for Paris Match.
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_02.jpg)
+_Photo © Alexandra Boulat, Photo VII Agency for Paris Match_
 
 Boulat was no stranger to the battlefield, covering the Balkan conflicts, from powerful images of Vukovar, Croatia in 1991, horrors of war in Bosnia and Herzegovina to photos of massacres and exodus of people in Kosovo from 1998 onwards. Always aware of the risk to her own life, she was driven to give voice to the unheard, to bear witness to the unseen and to somehow make sense of all the madness. She was a rare soul who could take in the chaos of war and somehow make it viewable for the rest of us. Alexandra Boulat has published two books: PARIS published by National Geographic Books in 2002 and Eclats De Guerre (Lights of War), ten years of conflict in former Yugoslavia, published by Les Syrtes Image in 2002. She also published stories in National Geographic magazine: Albanians: A People Undone, February 2000 and Eyewitness Kosovo, February 2000.
 
@@ -30,6 +31,8 @@ Alexandra Boulat diary | 4 November 1993 | Sarajevo, Bosnia & Herzegovina
 One should love… I loved. I still love, and besides, I have friends…
 
 It is 10 degrees colder than last week. The room is cold, there is no electricity. No heating. There is no water. I could spend a month photographing people with sacks full of wood, men pulling carts with water canisters. I could photograph every grenade strike on the ground, every gaping hole in buildings. Dogs rummaging through garbage cans, silhouettes of people who, illuminated by car headlights, pass by at night. A haze over more than deserted streets, over Sniper Alley.”
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_04.jpg)
+_Photo © Alexandra Boulat_
 
 Alexandra Boulat diary | 5 November 1993 | Sarajevo, Bosnia & Herzegovina
 
@@ -38,8 +41,10 @@ Alexandra Boulat diary | 5 November 1993 | Sarajevo, Bosnia & Herzegovina
 I’m not going to get upset. But there is a sensitive boundary that must not be crossed in this journalistic profession and a few sensitive points concerning this profession if it is to remain what determines it: testimony.
 
 A journalist is a witness, she can also be a voyeur, she can influence people with her testimony, but she must not become a person of influence, otherwise she becomes a political figure. The mission of a journalist is very simple and it must not go beyond its limits. She’s a witness, and that’s it. She herself does not change anything.”
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_05.jpg)
+_Photo © Alexandra Boulat_
 
-(the rest of the gallery from Sarajevo you can see here)
+[the rest of the gallery from Sarajevo you can see here](https://www.sniperalley.photo/photographers/alexandra-boulat-1962-2007.html)
 
 In 2007, while on a trip in Dubrovnik, Jeff Bowden is emotionally affected by a photograph of a distressed boy taken during the 1998 Balkan conflict. The image, taken by Alexandra Boulat, was part of an exhibit in Kosovo. Driven by the haunting image and the fact Boulat died soon after first seeing the photo, Bowden sets out to learn more about the story behind the photo by meeting those who knew Boulat best. His obsession leads him to Kosovo where he hires a war fixer to help find out what happened to the refugee boy. The journey of ‘A Single Frame’ film weaves an exploration of the impact of photography from both sides of the shutter. The fascinating post-war culture of Kosovo serves as backdrop. “Over coffee, Jeff told me about this journey he was on inspired by a photograph of a refugee boy. I was beyond intrigued. Jeff invited me to come along on part of the journey as a kindred spirit observer. I wanted to explore how the impact of this single image was unfolding from both sides of the shutter, to learn more about the photographer, the subject, and the passionate observer.” Director of the film Brandon Dickerson
 
