@@ -24,6 +24,8 @@ _Photo © Alexandra Boulat, Photo VII Agency for Paris Match_
 
 Boulat was no stranger to the battlefield, covering the Balkan conflicts, from powerful images of Vukovar, Croatia in 1991, horrors of war in Bosnia and Herzegovina to photos of massacres and exodus of people in Kosovo from 1998 onwards. Always aware of the risk to her own life, she was driven to give voice to the unheard, to bear witness to the unseen and to somehow make sense of all the madness. She was a rare soul who could take in the chaos of war and somehow make it viewable for the rest of us. Alexandra Boulat has published two books: PARIS published by National Geographic Books in 2002 and Eclats De Guerre (Lights of War), ten years of conflict in former Yugoslavia, published by Les Syrtes Image in 2002. She also published stories in National Geographic magazine: Albanians: A People Undone, February 2000 and Eyewitness Kosovo, February 2000.
 
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_04.jpg)
+_Photo © Alexandra Boulat_
 Alexandra Boulat diary | 4 November 1993 | Sarajevo, Bosnia & Herzegovina
 
 “All this in order to reinvent photojournalism in the cold and desolation.
@@ -31,8 +33,11 @@ Alexandra Boulat diary | 4 November 1993 | Sarajevo, Bosnia & Herzegovina
 One should love… I loved. I still love, and besides, I have friends…
 
 It is 10 degrees colder than last week. The room is cold, there is no electricity. No heating. There is no water. I could spend a month photographing people with sacks full of wood, men pulling carts with water canisters. I could photograph every grenade strike on the ground, every gaping hole in buildings. Dogs rummaging through garbage cans, silhouettes of people who, illuminated by car headlights, pass by at night. A haze over more than deserted streets, over Sniper Alley.”
-![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_04.jpg)
+
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_05.jpg)
 _Photo © Alexandra Boulat_
+
+[the rest of the gallery from Sarajevo you can see here](https://www.sniperalley.photo/photographers/alexandra-boulat-1962-2007.html)
 
 Alexandra Boulat diary | 5 November 1993 | Sarajevo, Bosnia & Herzegovina
 
@@ -41,52 +46,60 @@ Alexandra Boulat diary | 5 November 1993 | Sarajevo, Bosnia & Herzegovina
 I’m not going to get upset. But there is a sensitive boundary that must not be crossed in this journalistic profession and a few sensitive points concerning this profession if it is to remain what determines it: testimony.
 
 A journalist is a witness, she can also be a voyeur, she can influence people with her testimony, but she must not become a person of influence, otherwise she becomes a political figure. The mission of a journalist is very simple and it must not go beyond its limits. She’s a witness, and that’s it. She herself does not change anything.”
-![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_05.jpg)
-_Photo © Alexandra Boulat_
 
-[the rest of the gallery from Sarajevo you can see here](https://www.sniperalley.photo/photographers/alexandra-boulat-1962-2007.html)
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_05.jpg)
+_Photo © Nikola Šolić_
 
 In 2007, while on a trip in Dubrovnik, Jeff Bowden is emotionally affected by a photograph of a distressed boy taken during the 1998 Balkan conflict. The image, taken by Alexandra Boulat, was part of an exhibit in Kosovo. Driven by the haunting image and the fact Boulat died soon after first seeing the photo, Bowden sets out to learn more about the story behind the photo by meeting those who knew Boulat best. His obsession leads him to Kosovo where he hires a war fixer to help find out what happened to the refugee boy. The journey of ‘A Single Frame’ film weaves an exploration of the impact of photography from both sides of the shutter. The fascinating post-war culture of Kosovo serves as backdrop. “Over coffee, Jeff told me about this journey he was on inspired by a photograph of a refugee boy. I was beyond intrigued. Jeff invited me to come along on part of the journey as a kindred spirit observer. I wanted to explore how the impact of this single image was unfolding from both sides of the shutter, to learn more about the photographer, the subject, and the passionate observer.” Director of the film Brandon Dickerson
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_16.jpg)
+_Photo © Alexandra Boulat_
 
 This is the photo of a refugee boy taken during the 1990s war in Kosovo by Alexandra Boulat, she died just two weeks after Bowden first saw her photograph. Kosovar Albanian refugees isolated and lost in the woods in the mountains. About 10 000 ethnic Albanians are living under plastic tents since 3 months. Their homes have been destroyed by the army and the Yugoslavian special forces.
-©Alexandra Boulat
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_17.jpg)
+_Photo © Alexandra Boulat_
 
 The hand of one of the victims of the Obrinje. Serbian forces killed approximately twenty Albanians in a massacre prior to the start of the Kosovo War. Many of the victims were women and children. Obrinje woods, Kosovo. October 1998.
-©Alexandra Boulat
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_14.jpg)
+_Photo © Alexandra Boulat_
 
 Funeral in Peć for a local Albanian man killed by police during a Kosovo independence demonstration. Kosovo 1998.
-©Alexandra Boulat
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_13.jpg)
+_Photo © Alexandra Boulat_
 
 Alexandra Boulat was the architect of one of the most deliberate, focused and militant bodies of work on the victims - particularly women - of conflict and injustice of our time. She had an alluring persona, inherited a love and talent for photography and possessed a deep desire to find the human condition within conflict and war. Before the invasion of Iraq, Saddam Hussein’s government scrutinized foreign journalists carefully by monitoring all stories and photographs being transmitted out of the country. A lot of photographers were subsequently kicked out of Iraq because the government didn’t like the pictures they saw on the photographers’ digital cameras and laptop screens. Boulat, on the other hand, was shooting film - making it more difficult for the Iraqis to know what she was photographing. She knew this, was allowed to stay and took advantage of it by traveling all over Iraq.
 
 Iraq - Women take up arms in a military parade in Tikrit, Iraq, Saddam Hussein’s hometown, a few weeks before the beginning of the Iraq War.
-©Alexandra Boulat
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_10.jpg)
+_Photo © Alexandra Boulat_
 
 During the last few years, she was working on the Israeli and Palestinian conflict. She also photographed Yasser Arafat’s family life. Other large assignments include country stories on Indonesia and Albania, and a people story on the Berbers of Morocco. Portraits and stories of Women in the Middle East - Iran, Iraq, Afghanistan, Pakistan, Jordan, Syria, Gaza and the West Bank. It was her journey through Islam, fundamentalism, war, domestic violence, education and youth. “War victims in Iraq, Afghanistan and Gaza, hold own by revolutionary and religious institutions in Iran, few women are inclined to embrace Western influence. In each country they are strictly condemned by laws or by moral for trying to escape family code and drastic traditions. In this part of the world family and honor are to be first and only rule. Each woman who accepted my camera with grace or naivety or often with the approval of a men has her own story to tell. From refugee, pilgrim, suicide bomber, teenager to Oriental baby dolls they tell about their condition, their rituals, their habits, their angers and their joys.” 
 Alexandra Boulat
 
+
 Pakistan - Afghan refugees in Quetta. Septembre 2001.
-©Alexandra Boulat
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_12.jpg)
+_Photo © Alexandra Boulat_
 
 Palestinian women weeping in Jenin refugee camp after it’s been destroyed by the Israelis. April 2002.
-©Alexandra Boulat
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_15.jpg)
+_Photo © Alexandra Boulat_
 
 Afghanistan - Presidential Election day in Herat. For the first time since 20 years Afghan women are voting to elect the Afghan President. October 2004.
-©Alexandra Boulat
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_09.jpg)
+_Photo © Alexandra Boulat_
 
 Iran - Shooting training at the Women police Academy of Tehran. November 2004.
-©Alexandra Boulat
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_11.jpg)
+_Photo © Alexandra Boulat_
 
 “The world of photography has never been a world reserved exclusively for men. Many women photographers have left their mark on the history of photography. Certainly, they are still less numerous than men who work in this business. From travel, loneliness, the weight of equipment, women often prefer comfort, a regular life and a home to raise their children, in other words a more conventional female life. The sacrifices imposed by this profession are probably more difficult for a woman than for a man.”
+_Alexandra Boulat_
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_18.jpg)
+_Photo © Jerome Delay_
 
-Alexandra Boulat
-photo by Jerome Delay
+As exciting and glamorous a companion as you could hope for while traveling down a deserted road toward a smoking horizon, in many respects Alexandra Boulat epitomised the image of the woman photojournalist. French, tall, straight-backed, graceful, striking; she never conducted herself with anything less than poise and style. Brave and funny, her legendary moods could be capricious and mercurial, but her sense of purpose was unwavering: “take picture” was her heavily-accented war cry and take pictures she did: brilliantly. She was only one person. But with her death in October, aged only 45, the gang suddenly seems very small indeed, reduced far more than ever imaginable by a single loss. Despite the fame that followed the recognition of her work she was curiously unaffected by the hubris of vanity suffered by so many of her peers. “Hoohoohoo,” she laughed to me, at herself, one afternoon in Kosovo on hearing the news of an award she had been given for one particular frame. “I don’t do much, me, but what I do, I do well.” _Anthony Lloyd_
 
-As exciting and glamorous a companion as you could hope for while traveling down a deserted road toward a smoking horizon, in many respects Alexandra Boulat epitomised the image of the woman photojournalist. French, tall, straight-backed, graceful, striking; she never conducted herself with anything less than poise and style. Brave and funny, her legendary moods could be capricious and mercurial, but her sense of purpose was unwavering: “take picture” was her heavily-accented war cry and take pictures she did: brilliantly. She was only one person. But with her death in October, aged only 45, the gang suddenly seems very small indeed, reduced far more than ever imaginable by a single loss. Despite the fame that followed the recognition of her work she was curiously unaffected by the hubris of vanity suffered by so many of her peers. “Hoohoohoo,” she laughed to me, at herself, one afternoon in Kosovo on hearing the news of an award she had been given for one particular frame. “I don’t do much, me, but what I do, I do well.” Anthony Lloyd
-
-“I love photography. I am dedicated to my work too and it’s been like this for the past 15 years. That is why I could get to the position I have reached, now working for the best magazines, on assignment on the best stories, giving me the possibilities to shoot the pictures I like, the way I like to shoot them. So, I know what it takes. It’s about everything. Your health, your fears and your sentimental life. Photography got to be first, anything that is not related to it has to be left behind, forgotten, abandoned. This commitment has been painful some time, but I have no regret.”
-
-Alexandra Boulat
+“I love photography. I am dedicated to my work too and it’s been like this for the past 15 years. That is why I could get to the position I have reached, now working for the best magazines, on assignment on the best stories, giving me the possibilities to shoot the pictures I like, the way I like to shoot them. So, I know what it takes. It’s about everything. Your health, your fears and your sentimental life. Photography got to be first, anything that is not related to it has to be left behind, forgotten, abandoned. This commitment has been painful some time, but I have no regret.” _Alexandra Boulat_
 
 The Pierre & Alexandra Boulat Association which was created in loving memory to promote the work of Pierre & Alexandra Boulat and encourage the work of photojournalists has created an award, supported by LaScam - société civile des auteurs multimedia - endowment of 8000 euros which will be given to a photojournalist. The award is presented to a professional photographer of any age, sex or nationality who wishes to cover a social, economic, political or cultural issue in a journalistic manner, on presentation of a dossier. The Award is given in order to allow the winner to produce a story that has never been told but that the photographer cannot find support for within the media. Entry is free and you can find more information on how to apply by visiting these websites where her work is on display too: www.viiphoto.com and on www.pierrealexandraboulat.com
 
@@ -97,7 +110,7 @@ She died from complications of a brain aneurysm on 5 October 2007 in Paris, Fran
 
 __
 
-Cover photo by Nikola Solic and Jerome Delay
+Cover photo by Nikola Šolić and Jerome Delay
 Special thanks to Annie Boulat
 Thanks to VII Photo Agency, National Geographic & The Guardian
 Translated by Mustafa Čorbo
