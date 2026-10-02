@@ -26,6 +26,7 @@ Boulat was no stranger to the battlefield, covering the Balkan conflicts, from p
 
 ![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_04.jpg)
 _Photo © Alexandra Boulat_
+
 Alexandra Boulat diary | 4 November 1993 | Sarajevo, Bosnia & Herzegovina
 
 “All this in order to reinvent photojournalism in the cold and desolation.
@@ -47,7 +48,7 @@ I’m not going to get upset. But there is a sensitive boundary that must not be
 
 A journalist is a witness, she can also be a voyeur, she can influence people with her testimony, but she must not become a person of influence, otherwise she becomes a political figure. The mission of a journalist is very simple and it must not go beyond its limits. She’s a witness, and that’s it. She herself does not change anything.”
 
-![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_05.jpg)
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_06.jpg)
 _Photo © Nikola Šolić_
 
 In 2007, while on a trip in Dubrovnik, Jeff Bowden is emotionally affected by a photograph of a distressed boy taken during the 1998 Balkan conflict. The image, taken by Alexandra Boulat, was part of an exhibit in Kosovo. Driven by the haunting image and the fact Boulat died soon after first seeing the photo, Bowden sets out to learn more about the story behind the photo by meeting those who knew Boulat best. His obsession leads him to Kosovo where he hires a war fixer to help find out what happened to the refugee boy. The journey of ‘A Single Frame’ film weaves an exploration of the impact of photography from both sides of the shutter. The fascinating post-war culture of Kosovo serves as backdrop. “Over coffee, Jeff told me about this journey he was on inspired by a photograph of a refugee boy. I was beyond intrigued. Jeff invited me to come along on part of the journey as a kindred spirit observer. I wanted to explore how the impact of this single image was unfolding from both sides of the shutter, to learn more about the photographer, the subject, and the passionate observer.” Director of the film Brandon Dickerson
@@ -89,8 +90,7 @@ Afghanistan - Presidential Election day in Herat. For the first time since 20 ye
 _Photo © Alexandra Boulat_
 
 Iran - Shooting training at the Women police Academy of Tehran. November 2004.
-![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_11.jpg)
-_Photo © Alexandra Boulat_
+![Alexandra Boulat](/media/memoriam/alexandra-boulat/ALEXANDRA_BOULAT_11.jpg)  _Photo © Alexandra Boulat_
 
 “The world of photography has never been a world reserved exclusively for men. Many women photographers have left their mark on the history of photography. Certainly, they are still less numerous than men who work in this business. From travel, loneliness, the weight of equipment, women often prefer comfort, a regular life and a home to raise their children, in other words a more conventional female life. The sacrifices imposed by this profession are probably more difficult for a woman than for a man.”
 _Alexandra Boulat_
@@ -110,7 +110,7 @@ She died from complications of a brain aneurysm on 5 October 2007 in Paris, Fran
 
 __
 
-Cover photo by Nikola Šolić and Jerome Delay
-Special thanks to Annie Boulat
-Thanks to VII Photo Agency, National Geographic & The Guardian
-Translated by Mustafa Čorbo
+Cover photo by Nikola Šolić and Jerome Delay  
+Special thanks to Annie Boulat  
+Thanks to VII Photo Agency, National Geographic & The Guardian  
+Translated by Mustafa Čorbo  
