@@ -1,7 +1,7 @@
 ---
 name: "Staffan Löfving"
 role: Photojournalist
-portrait: sniper_alley_staffan_lofving_33.jpg
+portrait: sniper_alley_staffan_lofving_33.jpeg
 photos:
   - file: sniper_alley_staffan_lofving_01.jpg
     caption: "Hrasno, Sarajevo 1994"
