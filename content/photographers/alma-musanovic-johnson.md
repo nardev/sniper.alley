@@ -1,6 +1,6 @@
 ---
 name: "Alma Mušanović Johnson"
-role: Photojournalist
+role: Private Archive
 portrait: sniper_alley_alma_musanovic_johnson_08.jpg
 photos:
   - file: sniper_alley_alma_musanovic_johnson_01.jpg
