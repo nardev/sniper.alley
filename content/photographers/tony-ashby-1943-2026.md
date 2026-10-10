@@ -1,5 +1,7 @@
 ---
 name: "Tony Ashby"
+born: 1943
+died: 2026
 role: Photojournalist
 portrait: sniper_alley_tony_ashby_08.jpg
 photos:
