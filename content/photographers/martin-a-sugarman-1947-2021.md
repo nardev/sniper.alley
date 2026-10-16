@@ -2,6 +2,7 @@
 name: "Martin A. Sugarman"
 born: 1947
 died: 2021
+memoriam: martin-a-sugarman
 role: Photojournalist
 portrait: sniper_alley_martin_a_sugarman_12.jpeg
 photos:
