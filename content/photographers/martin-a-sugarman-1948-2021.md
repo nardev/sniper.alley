@@ -3,7 +3,7 @@ name: "Martin A. Sugarman"
 born: 1947
 died: 2021
 role: Photojournalist
-portrait: sniper_alley_vesa_oja_12.jpeg
+portrait: sniper_alley_martin_a_sugarman_12.jpeg
 photos:
   - file: sniper_alley_martin_a_sugarman_01.jpeg
     caption: "Sarajevo, Bosnia and Herzegovina, 1992."
@@ -51,6 +51,186 @@ photos:
     caption: "Sarajevo, Bosnia and Herzegovina, 1992."
     credit: "Photo Copyright © Martin A. Sugarman"
   - file: sniper_alley_martin_a_sugarman_16.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_17.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_18.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_19.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_20.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_21.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_22.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_23.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_24.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_25.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_26.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_27.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_28.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_29.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_30.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_31.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_32.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_33.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_34.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_35.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_36.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_37.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_38.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_39.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_40.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_41.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_42.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_43.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_44.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_45.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_46.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_47.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_48.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_49.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_50.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_51.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_52.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_53.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_54.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_55.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_56.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_57.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_58.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_59.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_60.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_61.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_62.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_63.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_63.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_64.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_65.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_66.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_67.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_68.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_69.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_70.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_71.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_72.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_73.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_74.jpeg
+    caption: "Sarajevo, Bosnia and Herzegovina, 1992."
+    credit: "Photo Copyright © Martin A. Sugarman"
+  - file: sniper_alley_martin_a_sugarman_75.jpeg
     caption: "Sarajevo, Bosnia and Herzegovina, 1992."
     credit: "Photo Copyright © Martin A. Sugarman"
 ---
