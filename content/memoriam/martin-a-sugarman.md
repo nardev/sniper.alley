@@ -26,7 +26,8 @@ Asked how he could walk into shelling and sniper fire that kept professional cor
 "I don't think the American public has a full understanding of the conflict. This is genocide." — Los Angeles Times, "War: Photographer Under Fire in Balkans," Oct. 1, 1992  
 
 ![Martin A. Sugarman](/media/memoriam/martin-a-sugarman/sniper_alley_martin_a_sugarman_dead.jpeg)  
-_Murdered civilian during the Siege of Sarajevo_
+_Murdered civilian during the Siege of Sarajevo._  
+
 _Photo by Martin A. Sugarman_
 
 He was more candid about the unease of returning, between trips, to an untouched California — surfboards, sunshine, a life utterly unmarked by what he had just witnessed. "Yes, I do feel guilty," he admitted. "But not if I can do something with these photographs so the world can know what is going on there. Maybe it can help." 
@@ -43,9 +44,12 @@ That conviction — that bearing witness was itself a form of intervention — b
 
 Sugarman described his method as instinctive rather than calculated — a belief that an honest image, allowed to stand largely on its own, carried more moral weight than any accompanying rhetoric. "I pretty much rely on instinct when I seize the moment, interpretation comes after," he said. "I believe that cogent images with significant content permit events to speak for themselves in the venerated tradition of documentary and reportage photography." At the same time, he insisted his photographs needed context, pairing them with his own written narration so viewers understood the history behind what they were seeing — photography, he believed, documented "the breakdown of social institutions and violations of human rights," even as he maintained it "should not be solely a department of politics."  
 
+![Martin A. Sugarman](/media/memoriam/martin-a-sugarman/sniper_alley_martin_a_sugarman_snipers.jpeg)  
+_People take cover from Serb sniper fire while attending a funeral at Koševo Stadium — a pitch used for football with the 1984 Winter Olympics venue winter wall behind, repurposed during the war as one of Sarajevo's few remaining burial grounds._
+
 Sarajevo marked the beginning of more than a decade on the frontlines of the world's conflicts. Sugarman went on to document Kashmir, the Siachen Glacier, Cuba, the Palestinian territories, Chechnya, Tibet and Afghanistan, publishing further photo books along the way. But those who knew him said Bosnia never left him. Peter Maguire, who met Sugarman in those years, recalled the particular bond forged between people who had witnessed the same horrors: "Because we had both stared into the same abyss where the heart and the mind sometimes part company, we talked openly about the personal toll that bearing witness had taken on both of us... we agreed that if one wanted to be an engaged intellectual, this was the price of admission."
 
-Maguire remembered Sugarman as someone whose courage on the ground matched his conviction behind the camera: "Marty Sugarman here has done lots of frontline work. He did remarkable work on the Siachen Glacier and has been in many hotspots equal, if not more extreme than anything I have ever seen."  
+Maguire remembered Sugarman as someone whose courage on the ground matched his conviction behind the camera: "Marty Sugarman here has done lots of frontline work. He did remarkable work on the Siachen Glacier and has been in many hotspots equal, if not more extreme than anything I have ever seen."  https://petermaguire.substack.com/p/marty-sugarman
 
 ![Martin A. Sugarman](/media/memoriam/martin-a-sugarman/sniper_alley_martin_a_sugarman_child.jpeg)  
 
