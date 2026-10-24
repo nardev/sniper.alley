@@ -19,6 +19,7 @@ What followed was a decade as an international journalist — first freelance, t
 Jackie reported from the Bosnian capital through the worst years of the war, filing dispatches for CNN on shelling, sniper fire, mass graves, and the long, grinding toll the siege took on civilians — among them an eight-year-old boy, Eldin, who survived a mortar blast that should have killed him, and the forgotten wounded who waited years for medical evacuation. She worked out of the besieged Holiday Inn, the hotel that became an improbable headquarters for the foreign press corps, and out of the "Sarajevo Agency Pool," the shared newsgathering operation that let competing networks survive — and cover — the siege together.
 
 [![YouTube Video HgX-MRJJKdY](https://img.youtube.com/vi/HgX-MRJJKdY/maxresdefault.jpg)](https://www.youtube.com/watch?v=HgX-MRJJKdY)
+_News Package from 1994 fro mSarajevo under the Siege_
 
 "Luckily, CNN reporter Jackie Shymanski's jeep was just there at that point. She saw me, took a deep breath and screamed on the soldier who was approaching our car. She then began to shout at everyone else. They turned towards her and just waved us off to carry on. As we were passing by, she looked at me and waved at me." — Dr. Edib Jaganjac, Sarajevo surgeon, recalling how Jackie helped get him safely through a Serb checkpoint while he was fleeing the besieged city in 1993 _(Memory of Nations oral history archive)_
 
@@ -42,12 +43,13 @@ Those who knew Jackie beyond the newsroom remembered a magnetic, intellectually 
 
 Jackie is survived by Paul White; her brother Michael Shymanski and sister-in-law Anna; nephews Nick and Andrew; Paul's son John; and many cousins, extended family, and dear friends around the world. She was predeceased by her parents, Monica and Roy Shymanski, her grandparents, and her first nephew, Eric.  
 
-A reporter who told Sarajevo's story  
+A reporter who told Sarajevo's story and the story of the Siege.  
 International correspondent, CNN International, 1990s. Recipient of the Alfred I. duPont-Columbia University Silver Baton, 1994, for coverage of the war in Bosnia-Herzegovina. Later, Director of Communications and Public Affairs, CancerCare Manitoba, 2010–2016.  
 
 
 JACKIE SHYMANSKI was born on 21 January 1965 in Winnipeg, Manitoba, Canada.  
+
 Died on 13 May 2016 in Winnipeg, of breast cancer, at age 51.  
 
-____  
+__  
 
