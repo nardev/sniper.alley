@@ -14,6 +14,8 @@ In August 1992, ABC News had largely judged Sarajevo too dangerous to staff dire
 
 It did not work out that way. The armored United Nations personnel carrier carrying Panić and Donaldson had no room for the rest of the crew. Kaplan — who, by several accounts, had left his flak jacket behind on the plane after telling Panić, "If you're not wearing one, I'm not wearing one either" — climbed instead into an unarmored Volkswagen van borrowed from another television crew, alongside producer Ben Sherwood. The van's driver reportedly offered Kaplan his own flak jacket; Kaplan refused it.
 
+![David Kaplan](/media/memoriam/david-kaplan/david_kaplan_03.jpg)
+
 "The bullet entered rear of the van right between the letters 'TV' that were written prominently on the back of the vehicle and continued to travel through the van, entering Kaplan from his back and exiting from his chest. The wound was massive and he died within minutes."
 _— David Rust, CNN cameraman who witnessed the convoy depart Sarajevo Airport, recalling the shooting (quoted in Kenneth Morrison and Paul Lowe, Reporting the Siege of Sarajevo)_
 
@@ -26,6 +28,8 @@ Kaplan was rushed to a United Nations triage hospital set up inside Sarajevo's o
 
 News of his death reached the ABC News bureau in Washington, where his wife worked, within hours, leaving staff in shock. "He devoted his life to news and to this organization," said Roone Arledge, who called Kaplan "a wonderful friend and colleague." At the White House, Press Secretary Marlin Fitzwater described him as "an honest, fair, talented and creative journalist," adding that Kaplan "was probably the only producer who could ever tell Sam Donaldson what to do and how to do it." Prime Minister Panić, in whose convoy Kaplan had been riding, told reporters he was "deeply shocked" by the death of a man he called "my American friend," and later wrote that he "could not help but feel personally responsible."
 
+![David Kaplan](/media/memoriam/david-kaplan/david_kaplan_02.jpg)
+
 "That photograph is a reminder of that terrible day and the consequences — and also the importance — of being out there doing those stories."
 _— Ben Sherwood, recalling the two photographs from that day he still kept in his office decades later — one of the bullet hole in the press van, the other of Kaplan being carried into the Sarajevo hospital_
 
@@ -33,7 +37,8 @@ Kaplan's death reverberated across the press corps covering Sarajevo. ABC immedi
 
 In October 1992, the Committee to Protect Journalists posthumously honored Kaplan with its International Press Freedom Award; his widow, Sally, accepted it on his behalf. The following year, Sam Donaldson established the David Kaplan Memorial Fellowship at the University of Missouri's School of Journalism, which each year still sends a student journalist into the ABC News Washington bureau for a semester. More than thirty fellows have carried his name since.
 
-"David Kaplan was a seasoned news producer — someone ABC News's then-president remembered as a man of 'humor, imagination, and yes, courage.' He had traveled to Sarajevo to cover a conflict, to help the world make sense of chaos."
+"David Kaplan was a seasoned news producer — someone ABC News's then-president remembered as a man of 'humor, imagination, and yes, courage.'  
+He had traveled to Sarajevo to cover a conflict, to help the world make sense of chaos."
 _— Cherisse Halsall, 33rd David Kaplan Memorial Fellow, writing in 2025 about the legacy she inherited at the ABC News Washington bureau_
 
 The Overseas Press Club of America later named its own annual award for best televised spot-news reporting from abroad after him — the David Kaplan Award — a recognition, as the club put it, of a broadcast producer who "worked for ABC News for over 20 years, covering political campaigns, world news, and the White House throughout his career," in an era that the club's own historians have called "one of the deadliest eras for journalists in history."
