@@ -4,7 +4,7 @@ born: 1941
 died: 1993
 banner: CHRISTINE_WITCUTT_BANNER.jpg
 cover: CHRISTINE_WITCUTT_COVER.jpeg
-excerpt: "A producer who had already survived the Gulf War, killed on his first day in Sarajevo — by a bullet fired through the two taped letters meant to keep him safe: 'TV'."
+excerpt: "A retired primary school teacher from Wishaw, Scotland, who gave up a quiet retirement of hill-walking and gardening to drive aid convoys into besieged Sarajevo and who was killed by a Serb sniper on the road out of the city she had come to help."
 ---
 Christine Witcutt, a 52-year-old retired schoolteacher from the small Scottish town of Wishaw, was shot dead by a Bosnian Serb sniper on Monday, July 5, 1993, as the Edinburgh Direct Aid convoy she was travelling with pulled out of besieged Sarajevo along the road that had already earned its grim nickname: "Sniper's Alley." She was riding in the cab of a lorry near the back of the convoy, with fellow volunteer John Home Robertson driving the truck immediately ahead, when a heavy-calibre bullet tore through the cab and struck her. Although the lorries carried the words "Don't Shoot" painted in large letters on their sides a plea that had protected countless aid convoys before, the gunmen fired anyway. She was rushed in a CNN armoured jeep to a nearby military hospital, but her death, by every account, had been instantaneous.
 
@@ -20,7 +20,11 @@ _Christine and Alan Witcutt on their wedding day, 1966. The couple met through t
 "The city was completely surrounded by the Serbs who were shelling it from the hills. We managed to get in but only by giving soldiers at each checkpoint some of our supplies. We effectively bought our way into Sarajevo. In the city, there were Serbs, Croats, Muslims, Protestants, Catholics but we didn't care who was getting our help, just that they were getting it."
 _Alan Witcutt, Christine's husband, recalling their convoys into Sarajevo, Daily Record, 2013_
 
+![Christine Witcutt](/media/memoriam/christine-witcutt/CHRISTINE_WITCUTT_FAMILY_2.jpg)
+
 That June, the Witcutts joined another EDA convoy into Sarajevo, a journey that required leaving part of their cargo at checkpoints along the way and navigating repeated risks before finally reaching the city. The day they arrived, some 1,200 shells had landed on Sarajevo. The aid went to children's wards at Koševo Hospital and to families selected by UNHCR's social services. Christine's sister, a fellow retired teacher, had pleaded with the couple not to make the trip, fearing conditions had become too dangerous, but found Christine unmoved, the couple promised it would be their last, "for the sake of the family."
+
+![Christine Witcutt](/media/memoriam/christine-witcutt/CHRISTINE_WITCUTT_KILLED.jpg)
 
 "Christine's need for adventure and a sense of freedom were a driving force in her life. She was a loving, caring and cheerful person, full of life and energy and with a strong sense of right and wrong... I felt that it was far too dangerous but Christine and Alan were adamant and promised that this would be the last time that they would go. We all realised that it was a very brave thing to do and prayed for their safe return. Christine was born in a blitz and has subsequently died in a blitz. She will be greatly missed by all who knew her."
 _Elspeth Thorburn, Christine's sister, the Herald, July 1993_
