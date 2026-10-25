@@ -7,11 +7,11 @@ cover: FRANCOISE_DEMULDER_COVER.jpg
 photographer: francoise-demulder-1947-2008
 excerpt: "The first woman to win World Press Photo of the Year — and one of the small, fearless cohort of French photographers who followed war wherever it went, from Saigon's Independence Palace to the hills above Sarajevo."
 ---
-Françoise Demulder, the French war photographer known to friends and colleagues alike as "Fifi," died of a heart attack at a hospital in Levallois-Perret, a Paris suburb, on September 3, 2008. She was 61. In 1977 she had become the first woman in history to win the World Press Photo of the Year award — the most prestigious prize in photojournalism — and over three decades she carried her cameras into nearly every major conflict of her era, from the fall of Saigon to the siege of Sarajevo.
+Françoise Demulder, the French war photographer known to friends and colleagues alike as "Fifi," died of a heart attack at a hospital in Levallois-Perret, a Paris suburb, on September 3, 2008. She was 61. In 1977 she had become the first woman in history to win the World Press Photo of the Year award, the most prestigious prize in photojournalism and over three decades she carried her cameras into nearly every major conflict of her era, from the fall of Saigon to the siege of Sarajevo.
 
 Born in Paris on June 9, 1947, the daughter of an electrical engineer, Demulder studied philosophy and worked briefly as a model before, on something of a lark, she bought a one-way ticket to Vietnam with her boyfriend at the time, photographer Yves Billy. She had no formal training and no plan beyond adventure. In Saigon she quickly learned the trade the hard way: strong nerves, a motorbike, a seat on a US Army Huey, and film dropped off at the Associated Press bureau for a few dollars a frame. It was, as Billy later put it, "not a romantic choice, but a means of survival" — in a warzone, images were currency.
 
-She stayed behind in Saigon when nearly every other foreigner evacuated on April 30, 1975, and talked her way into the grounds of the Independence Palace in time to photograph a North Vietnamese tank crashing through its gates — the image that came to symbolize the end of the Vietnam War, and one of the few frames of that moment shot by a Western photographer still on the ground.
+She stayed behind in Saigon when nearly every other foreigner evacuated on April 30, 1975, and talked her way into the grounds of the Independence Palace in time to photograph a North Vietnamese tank crashing through its gates, the image that came to symbolize the end of the Vietnam War, and one of the few frames of that moment shot by a Western photographer still on the ground.
 
 ![Francoise Demulder](/media/memoriam/francoise-demulder/FRANCOISE_DEMULDER_02.jpg)
 
@@ -21,8 +21,8 @@ That photograph was taken in Beirut on the morning of January 18, 1976: a Palest
 
 ![Francoise Demulder](/media/memoriam/francoise-demulder/FRANCOISE_DEMULDER_03.jpg)
 
-"She hated war, but felt compelled to document how it is always the innocent who suffer, while the powerful get richer and richer."
-— Françoise Demulder, describing why she kept returning to conflict zones, as recounted in The Guardian's obituary, September 2008
+"She hated war, but felt compelled to document how it is always the innocent who suffer, while the powerful get richer and richer."  
+Françoise Demulder, describing why she kept returning to conflict zones, as recounted in The Guardian's obituary, September 2008
 
 Over the following decades Demulder worked for Gamma and Sipa Press, with her photographs appearing in Time, Newsweek, Life, Paris Match, Stern and the British Sunday supplements. She covered Angola, Cambodia (where she documented refugee camps and the ravages of the Khmer Rouge era and the 1979 Vietnamese invasion, in work colleagues later called among the rawest and most empathetic of her career), El Salvador, Ethiopia, Pakistan, Cuba, and the Iran-Iraq War. At the start of the 1991 Gulf War, she was one of only a handful of Western journalists present in Baghdad during the bombing campaign.
 
@@ -33,15 +33,15 @@ Françoise Demulder receiving the World Press Photo award from Amsterdam mayor I
 ![Francoise Demulder](/media/memoriam/francoise-demulder/FRANCOISE_DEMULDER_01.jpg)
 _Amsterdam mayor Ivo Samkalden presents Demulder with the 1977 World Press Photo of the Year award for her image of the Karantina massacre in Beirut. Photo: Nationaal Archief / Wikimedia Commons._
 
-Colleagues who worked alongside her in those years remembered a photographer who combined genuine fearlessness with an unsentimental, almost philosophical distance from the horror in front of her lens — a quality traced by historians of the medium to her background in philosophy. Writing about her World Press Photo-winning image decades later, one historian of war photography observed that "the power of this image lies not in sensationalism, but in the distance between the photographer and her subject: Françoise Demulder stands just far enough away not to disturb the scene, yet close enough to convey the intensity of the situation" — a description that colleagues said applied equally to her work throughout her career, in Beirut, in Phnom Penh, and later in the Balkans.
+Colleagues who worked alongside her in those years remembered a photographer who combined genuine fearlessness with an unsentimental, almost philosophical distance from the horror in front of her lens — a quality traced by historians of the medium to her background in philosophy. Writing about her World Press Photo-winning image decades later, one historian of war photography observed that "the power of this image lies not in sensationalism, but in the distance between the photographer and her subject: Françoise Demulder stands just far enough away not to disturb the scene, yet close enough to convey the intensity of the situation" a description that colleagues said applied equally to her work throughout her career, in Beirut, in Phnom Penh, and later in the Balkans.
 
-"It is unfair to boil down a photographer to one single image, especially in the case of Françoise Demulder, but the one she took on the morning of January 18, 1976, in Beirut... left a mark on the profession and newspaper readers around the world."
-_— Le Monde, in its appraisal of Demulder's career following her death, 2008_
+"It is unfair to boil down a photographer to one single image, especially in the case of Françoise Demulder, but the one she took on the morning of January 18, 1976, in Beirut... left a mark on the profession and newspaper readers around the world."  
+_Le Monde, in its appraisal of Demulder's career following her death, 2008_
 
 Demulder's final years were marked by illness and hardship she bore, by every account, with remarkable stoicism. Diagnosed with cancer in 2000, she was left paraplegic in 2003 after a surgical error, and spent her last years largely housebound and, for a time, destitute — she had never kept records, paid much attention to taxes, or saved money, spending what she earned almost as soon as she was paid. In October 2003, fellow photographers including Philip Jones Griffiths, Eric Bouvet, Reza and Luc Delahaye organized a solidarity auction of 300 prints in Paris that raised more than €170,000 for her medical care; her own World Press Photo-winning print sold for €11,000.
 
-"A remarkable woman, an artist and a witness of our times."
-_— Christine Albanel, French Minister of Culture, on learning of Demulder's death, September 2008_
+"A remarkable woman, an artist and a witness of our times."  
+_Christine Albanel, French Minister of Culture, on learning of Demulder's death, September 2008_
 
 Upon her death, French and international press remembered her as one of the trio of pioneering French women — alongside Catherine Leroy and Christine Spengler — who had broken open the male-dominated field of war photography from its Vietnam-era origins onward, working out of the Paris-based agencies Sygma, Gamma and Sipa that defined photojournalism's last golden age. Her friend and Sipa co-founder Phyllis Sipahioglu was among those who confirmed the news of her death to colleagues gathered at the Visa pour l'Image photojournalism festival in Perpignan, where Demulder had been a familiar presence for years.
 
