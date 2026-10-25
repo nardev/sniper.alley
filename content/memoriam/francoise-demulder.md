@@ -4,6 +4,7 @@ born: 1947
 died: 2008
 banner: FRANCOISE_DEMULDER_BANNER.jpg
 cover: FRANCOISE_DEMULDER_COVER.jpg
+photographer: francoise-demulder-1947-2008
 excerpt: "The first woman to win World Press Photo of the Year — and one of the small, fearless cohort of French photographers who followed war wherever it went, from Saigon's Independence Palace to the hills above Sarajevo."
 ---
 Françoise Demulder, the French war photographer known to friends and colleagues alike as "Fifi," died of a heart attack at a hospital in Levallois-Perret, a Paris suburb, on September 3, 2008. She was 61. In 1977 she had become the first woman in history to win the World Press Photo of the Year award — the most prestigious prize in photojournalism — and over three decades she carried her cameras into nearly every major conflict of her era, from the fall of Saigon to the siege of Sarajevo.
