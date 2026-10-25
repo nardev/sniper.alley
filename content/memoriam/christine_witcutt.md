@@ -66,7 +66,8 @@ CHRISTINE WITCUTT The first Scottish aid worker killed in the Bosnian war. A ret
 
 CHRISTINE WITCUTT was born on 28 March 1941 in Clarkston, Renfrewshire, Scotland.  
 
-She was killed on 5 July 1993 on Snipers Alley in Sarajevo, Bosnia and Herzegovina, shot by a Serb sniper while leaving the city with an Edinburgh Direct Aid convoy, at age 52.
+She was killed on 5 July 1993 on Snipers Alley in Sarajevo, Bosnia and Herzegovina,  
+shot by a Serb sniper while leaving the city with an Edinburgh Direct Aid convoy, at age 52.  
 
 __  
 
