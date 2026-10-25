@@ -54,7 +54,7 @@ FRANÇOISE DEMULDER, first woman to win the World Press Photo of the Year award 
 
 FRANÇOISE DEMULDER was born on 9 June 1947 in Paris, France.  
 
-Died September 3, 2008 in Levallois-Perret, France, of a heart attack, at age 61. 
+Died on 3 September 2008 in Levallois-Perret, France, of a heart attack, at age 61. 
 
 __  
 
