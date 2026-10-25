@@ -21,8 +21,7 @@ That photograph was taken in Beirut on the morning of January 18, 1976: a Palest
 
 ![Francoise Demulder](/media/memoriam/francoise-demulder/FRANCOISE_DEMULDER_03.jpg)
 
-"She hated war, but felt compelled to document how it is always the innocent who suffer, while the powerful get richer and richer."  
-Françoise Demulder, describing why she kept returning to conflict zones, as recounted in The Guardian's obituary, September 2008
+"She hated war, but felt compelled to document how it is always the innocent who suffer, while the powerful get richer and richer." Françoise Demulder, describing why she kept returning to conflict zones, as recounted in The Guardian's obituary, September 2008
 
 Over the following decades Demulder worked for Gamma and Sipa Press, with her photographs appearing in Time, Newsweek, Life, Paris Match, Stern and the British Sunday supplements. She covered Angola, Cambodia (where she documented refugee camps and the ravages of the Khmer Rouge era and the 1979 Vietnamese invasion, in work colleagues later called among the rawest and most empathetic of her career), El Salvador, Ethiopia, Pakistan, Cuba, and the Iran-Iraq War. At the start of the 1991 Gulf War, she was one of only a handful of Western journalists present in Baghdad during the bombing campaign.
 
@@ -40,10 +39,9 @@ _Le Monde, in its appraisal of Demulder's career following her death, 2008_
 
 Demulder's final years were marked by illness and hardship she bore, by every account, with remarkable stoicism. Diagnosed with cancer in 2000, she was left paraplegic in 2003 after a surgical error, and spent her last years largely housebound and, for a time, destitute — she had never kept records, paid much attention to taxes, or saved money, spending what she earned almost as soon as she was paid. In October 2003, fellow photographers including Philip Jones Griffiths, Eric Bouvet, Reza and Luc Delahaye organized a solidarity auction of 300 prints in Paris that raised more than €170,000 for her medical care; her own World Press Photo-winning print sold for €11,000.
 
-"A remarkable woman, an artist and a witness of our times."  
-_Christine Albanel, French Minister of Culture, on learning of Demulder's death, September 2008_
+"A remarkable woman, an artist and a witness of our times." _Christine Albanel, French Minister of Culture, on learning of Demulder's death, September 2008_
 
-Upon her death, French and international press remembered her as one of the trio of pioneering French women — alongside Catherine Leroy and Christine Spengler — who had broken open the male-dominated field of war photography from its Vietnam-era origins onward, working out of the Paris-based agencies Sygma, Gamma and Sipa that defined photojournalism's last golden age. Her friend and Sipa co-founder Phyllis Sipahioglu was among those who confirmed the news of her death to colleagues gathered at the Visa pour l'Image photojournalism festival in Perpignan, where Demulder had been a familiar presence for years.
+Upon her death, French and international press remembered her as one of the trio of pioneering French women alongside Catherine Leroy and Christine Spengler who had broken open the male-dominated field of war photography from its Vietnam-era origins onward, working out of the Paris-based agencies Sygma, Gamma and Sipa that defined photojournalism's last golden age. Her friend and Sipa co-founder Phyllis Sipahioglu was among those who confirmed the news of her death to colleagues gathered at the Visa pour l'Image photojournalism festival in Perpignan, where Demulder had been a familiar presence for years.
 
 Demulder never married, though she was known throughout her career for inspiring admiration well beyond her photographs: a character based on her appeared in New York Times correspondent Alan Cowell's 2003 novel A Walking Guide, and in filmmaker Michael Alan Lerner's 2004 film Deadlines, set amid the Lebanese civil war. She had, friends recalled, a particular fondness for animals and for the footloose, unplanned life of the photographer-adventurer she had become almost by accident in Saigon three decades earlier.
 

@@ -33,8 +33,7 @@ For her part in CNN's coverage of the Bosnian war, Jackie shared in the network'
 
 When Bosnian Serb general Ratko Mladić was finally captured in 2011, newspapers and broadcasters turned to Jackie, by then long retired from the front lines, for her recollections. In a piece for the Winnipeg Free Press titled "The Serb monster I remember," she wrote candidly about having covered the conflict as a CNN correspondent and about what it meant to see him finally answer for the war she had witnessed firsthand.
 
-"Will remember him as a great newsman, when our paths crossed during the wars in the Balkans."  
-_Jackie Shymanski, writing in 2014 to mourn a fellow Balkans war correspondent, signing her condolence as "Sarajevo Agency Pool, fellow Winnipegger"_
+"Will remember him as a great newsman, when our paths crossed during the wars in the Balkans." _Jackie Shymanski, writing in 2014 to mourn a fellow Balkans war correspondent, signing her condolence as "Sarajevo Agency Pool, fellow Winnipegger"_
 
 Eventually, after "she had seen enough of the human tragedies of wars," as her family put it, Jackie came home to Winnipeg. She found a quieter life working among the English gardens at Assiniboine Park before moving into public relations roles with Manitoba Telecom Services (MTS) and the Manitoba Lotteries Commission. From 2010 until her death, she served as Director of Communications and Public Affairs at CancerCare Manitoba, where she was described as instrumental in building the Cancer Patient Journey Initiative for patients undergoing treatment.
 
