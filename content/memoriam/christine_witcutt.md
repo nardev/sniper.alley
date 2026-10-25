@@ -70,5 +70,5 @@ She was killed on 5 July 1993 on Snipers Alley in Sarajevo, Bosnia and Herzegovi
 
 __  
 
-Special thank to David Hamilton
+Special thanks to David Hamilton
 
