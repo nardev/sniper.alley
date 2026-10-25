@@ -2,7 +2,7 @@
 name: "Mohsen Rastani"
 born: 1958
 died: 2026
-memoriam: mohsen-rastani-1958-2026
+memoriam: mohsen-rastani
 role: Photojournalist
 portrait: sniper_alley_mohsen_rastani_03.jpg
 photos:
@@ -88,6 +88,6 @@ Beyond Iran, Rastani photographed in Bosnia and Herzegovina, Lebanon and other r
 
 His photographs were exhibited widely, including at the São Paulo Biennial (1998), the Venice Biennale (2003), the Gwangju Biennale (2006) and in institutions such as the MAXXI Museum in Rome and the Musée d'Art Moderne in Paris. His images appeared in major international publications and continue to influence a new generation of photographers in Iran and abroad.  
 
-Mohsen Rastani lived and worked in Germany in his later years. His practice remained centered on the human face as a mirror of society, history, and memory—an uncompromising search for the invisible truths hidden in plain sight.  
+Mohsen Rastani lived and worked in Germany in his later years. His practice remained centered on the human face as a mirror of society, history, and memory, an uncompromising search for the invisible truths hidden in plain sight.  
 
 Mohsen Rastani passed away on 25 October 2026 in Iran. https://mohsenrastani.com/  
