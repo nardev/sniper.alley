@@ -5,9 +5,9 @@ died: 2026
 banner: MOHSEN_RASTANI_BANNER.jpg
 cover: MOHSEN_RASTANI_COVER.jpg
 photographer: mohsen-rastani-1958-2026
-excerpt: "An Iranian documentary photographer who sold two of his family's Persian carpets to pay his way to besieged Sarajevo in 1994 — and stayed for nearly two and a half years, photographing its people against a hand-stitched white backdrop made for him by a local repairman, because, he said, 'I wanted to see the human soul'."
+excerpt: "An Iranian documentary photographer who sold two of his family's Persian carpets to pay his way to besieged Sarajevo in 1994 and stayed for nearly two and a half years, photographing its people against a hand-stitched white backdrop made for him by a local repairman, because, he said, 'I wanted to see the human soul'."
 ---
-Mohsen Rastani, the Iranian documentary photographer whose black-and-white portraits of ordinary Sarajevans against a plain white sheet became one of the most distinctive visual records of the besieged city, died on October 25, 2026, after a long illness that included a battle with cancer affecting multiple organs. He was 67. News of his death was announced by Iran's National Photography Association and the Iranian Cinema Photographers' Union, which called him "one of the influential figures in Iranian documentary and social photography" and mourned a career that had already carried him through three wars before he ever reached Bosnia.  
+Mohsen Rastani, the Iranian documentary photographer whose black-and-white portraits of ordinary Sarajevans against a plain white sheet became one of the most distinctive visual records of the besieged city, died on 25 October 2026, after a long illness that included a battle with cancer affecting multiple organs. He was 68. News of his death was announced by Iran's National Photography Association and the Iranian Cinema Photographers' Union, which called him "one of the influential figures in Iranian documentary and social photography" and mourned a career that had already carried him through three wars before he ever reached Bosnia.  
 
 ![Mohsen Rastani](/media/memoriam/mohsen-rastani/MOHSEN_RASTANI_HAND.jpg)  
 _Photo © Mohsen Rastani_
@@ -65,7 +65,7 @@ Survived by his wife, cellist Eilin Herrmann, and his daughter.
 _Photo © Emir Jordamović_
 
 MOHSEN RASTANI was born on 27 December 1958, in Khorramshahr, Iran.  
-He passed away on 25 October 2026, in Iran, aged 67, after a long illness.  
+He passed away on 25 October 2026, in Iran, aged 68, after a long illness.  
 
 __
 
