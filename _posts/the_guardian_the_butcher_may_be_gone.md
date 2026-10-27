@@ -1,5 +1,5 @@
 ---
-title: "Italy probes Sarajevo ‘sniper safaris’: What were they, who was involved?"
+title: "‘The butcher may be gone, but to many he is a hero’: victims condemn glorification of Mladić"
 description: "The Guardian (English)"
 category: press
 date: "2026-08-29"
