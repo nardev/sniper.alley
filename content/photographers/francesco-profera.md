@@ -192,4 +192,7 @@ photos:
   - file: sniper_alley_francesco_profera_63.jpg
     caption: "Sarajevo 1995"
     credit: "Photo Copyright © Francesco Profera"
+  - file: sniper_alley_francesco_profera_64.jpg
+    caption: "Sarajevo 1995"
+    credit: "Photo Copyright © Francesco Profera"
 ---
