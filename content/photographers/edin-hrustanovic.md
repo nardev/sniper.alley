@@ -4,65 +4,65 @@ role: Private Archive
 portrait: sniper_alley_edin_hrustanovic_10.jpg
 photos:
   - file: sniper_alley_edin_hrustanovic_01.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_02.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_03.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_04.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_05.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_06.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_07.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_08.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_09.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_10.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_11.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_12.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_13.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_14.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_15.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_16.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_17.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_18.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_19.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_20.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_21.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_22.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_23.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_24.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_25.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_26.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_27.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_28.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_29.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
   - file: sniper_alley_edin_hrustanovic_30.jpg
-    credit: "Photo Copyright © Edin Hrustanovic"
+    credit: "Photo Copyright © UN Fire EMS / Edin Hrustanovic"
 ---
 UN Fire-Medical Brigade (UN Fire EMS) – Sarajevo (1994–1995)  
 This photo gallery is dedicated to a unique mission of humanity, courage, and solidarity during Sarajevo's darkest days — the work of the international volunteer fire and medical unit, UN Fire EMS, which during the siege (1992–1995) was stationed in Novo Sarajevo, in Čengić Vila, near the Vranica towers.
