@@ -137,4 +137,59 @@ photos:
   - file: sniper_alley_marco_okhuizen_45.jpg
     caption: "Sarajevo 1994"
     credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_46.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_47.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_48.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_49.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_50.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_51.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_52.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_53.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_54.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_56.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_57.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_88.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_59.jpg
+    caption: "Inela Nogic passing by Watch Out Sniper sign"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_60.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_61.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_62.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_63.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
+  - file: sniper_alley_marco_okhuizen_64.jpg
+    caption: "Sarajevo 1994"
+    credit: "Photo Copyright © Marco Okhuizen"
 ---
+Marco Okhuizen is a Dutch photojournalist who documented the Siege of Sarajevo during the summers of 1993 and 1994, working for the French press at the time His images from the besieged city, capturing daily life, local families such as the Kavedžić family and the resilience of Sarajevans is a testament to his contribution to documenting the human experience of Sarajevo under Siege. Beyond Sarajevo, Okhuizen built a long and distinguished career as one of the Netherlands' leading photographers, working with major Dutch photo agencies including Hollandse Hoogte, ANP and laif. In 2001, he was awarded the prestigious Zilveren Camera (Silver Camera), one of the Netherlands' top photojournalism honours. His portraiture and documentary work have appeared in leading Dutch publications such as de Volkskrant, Het Parool and VN, and he has photographed numerous prominent cultural and public figures, as well as institutional work for the International Criminal Court in The Hague.
