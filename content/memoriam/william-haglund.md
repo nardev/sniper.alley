@@ -22,7 +22,7 @@ _Dr. William Haglund testifies before the International Criminal Tribunal for th
 It was the unravelling of Yugoslavia that redirected the course of Haglund's career. In the early 1990s he began consulting as a forensic anthropologist on human rights investigations in Bosnia and Croatia, work that, by his own account, became "a catalyst" for everything that followed. In 1995 he left the King County Medical Examiner's Office altogether to become a senior forensic advisor to the United Nations' international criminal tribunals, documenting mass killings in the former Yugoslavia and, that same year, in Rwanda. He later described the whiplash of that transition in blunt, arithmetic terms: "In 1996, I went from the Green River investigation that spent more than 20 years and $30 million to investigate the deaths of about 50 women, to Rwanda, with 800,000 to 1 million killed in three months by low-tech machetes and clubs, a $1 million budget and two months to identify 500 people."
 
 ![William Haglund](/media/memoriam/william-haglund/WILLIAM_HAGLUND_DEATH.jpg)
-_Photo by Gilles Perees, from the book 'Graves'_
+_Photo by Gilles Peress, from the book 'Graves'_
 
 1996 was, in Haglund's own words, "my most difficult year" — eight straight months spent working inside mass graves on two continents. That July, as the lead forensic anthropologist for Physicians for Human Rights, he led a six-member international team of archaeologists, anthropologists and pathologists into the hills around Srebrenica, where more than 8,000 Muslim men and boys had been murdered the previous year after Bosnian Serb forces overran the UN-declared "safe area." Over the following months his team exhumed the graves at Cerska, Nova Kasaba, Lazete and the Branjevo Farm site near Pilica — recovering, among others, the remains of at least 150 men and boys at Cerska and at least 132 at Branjevo Farm, many found bound hand and foot, many blindfolded. The United Nations Protection Force had a mandate to guard the living, not the dead, so Haglund rolled out a sleeping bag at the edge of one of the graves and slept there, night after night, because it was the only way he could safeguard the integrity of the site and ensure no one tampered with the evidence before his team could document it.
 
@@ -47,7 +47,7 @@ Haglund's scientific legacy extended well beyond the courtroom. He was a pioneer
 Away from the graves, those who knew Haglund remembered a musician, a prankster, a voracious reader and an unrepentant insomniac who once raised snakes as pets. He played folk, bluegrass and harmonica and for years he and his wife Claudia hosted Tuesday-night music parties at their home. Reflecting near the end of his active career on why he had chosen this work, he traced it back to one of his first autopsies in King County, in 1980, examining the body of a small child who had been beaten to death. "I thought, that child was helpless and innocent, and we're their advocates," he said. "We speak for them. We are witnesses for them. And I like that voice."  
 
 ![William Haglund](/media/memoriam/william-haglund/WILLIAM_HAGLUND_PROFILE.JPG)
-_Photo by Gilles Perees, from the book 'Graves'_
+_Photo by Gilles Peress, from the book 'Graves'_
 
 WILLIAM D. HAGLUND was born on 26 April 1943 in Duluth, Minnesota.  
 He died on 16 June 2021 in Shoreline, Washington, after a long battle with dementia, at the age of 78.  
