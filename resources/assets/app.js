@@ -101,10 +101,13 @@ function initPhotographerSort() {
 
     const nameOf = (card) => card.getAttribute('data-filter-name') || '';
     const countOf = (card) => parseInt(card.getAttribute('data-photo-count') || '0', 10);
+    // ISO dates (YYYY-MM-DD) compare correctly as strings; cards without a date sort last.
+    const updatedOf = (card) => card.getAttribute('data-updated') || '';
     const original = Array.from(grid.children);
     const sorters = {
         'name-asc': (a, b) => nameOf(a).localeCompare(nameOf(b)),
         'name-desc': (a, b) => nameOf(b).localeCompare(nameOf(a)),
+        'updated-desc': (a, b) => updatedOf(b).localeCompare(updatedOf(a)) || nameOf(a).localeCompare(nameOf(b)),
         'photos-desc': (a, b) => countOf(b) - countOf(a) || nameOf(a).localeCompare(nameOf(b)),
         'photos-asc': (a, b) => countOf(a) - countOf(b) || nameOf(a).localeCompare(nameOf(b)),
     };

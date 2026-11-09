@@ -75,6 +75,8 @@ Biography text in Markdown. Shown on the profile page.
 
 Then put the image files in `_media/photographers/jane-doe/` (same folder name as the slug). Photos listed in `photos:` appear in the gallery with a lightbox. To upgrade a low quality archived image, replace the file in `_media/photographers/<slug>/` keeping the same filename.
 
+Change dates are automatic. The build reads the git history and records when each photographer file and each photo file was last committed. The photographers listing shows "updated <date>" on every card, offers a "Recently updated" sort, and marks cards and gallery photos changed in the last 30 days with a "New" or "Updated" badge. Nothing needs to be added to the Markdown for this; just commit the change. The deploy workflow checks out the full history (`fetch-depth: 0`) so the dates are available on GitHub Actions.
+
 ## Adding a Stories Behind the Photos video
 
 Create `content/stories/jane-doe-s2e6.md`:

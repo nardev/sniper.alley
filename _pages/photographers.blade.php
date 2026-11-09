@@ -24,6 +24,7 @@
             <select data-sort-select aria-label="Sort" class="border border-black/15 bg-white px-3 py-2.5 text-sm text-ink focus:border-accent focus:outline-none">
                 <option value="name-asc">Name (A to Z)</option>
                 <option value="name-desc">Name (Z to A)</option>
+                <option value="updated-desc">Recently updated</option>
                 <option value="photos-desc">Most photos</option>
                 <option value="photos-asc">Fewest photos</option>
             </select>

@@ -39,6 +39,9 @@
                                 <div><dt class="text-[11px] uppercase tracking-widest text-white/40">From</dt><dd>{{ $item['country'] }}</dd></div>
                             @endif
                             <div><dt class="text-[11px] uppercase tracking-widest text-white/40">Gallery</dt><dd>{{ $photos->count() }} photos</dd></div>
+                            @if ($item['updated'] ?? null)
+                                <div><dt class="text-[11px] uppercase tracking-widest text-white/40">Updated</dt><dd>{{ Content::formatDate($item['updated']) }}</dd></div>
+                            @endif
                         </dl>
                         @if ($item['blurb'] ?? false)
                             <p class="mt-4 max-w-xl leading-relaxed text-white/80">{{ $item['blurb'] }}</p>
@@ -71,10 +74,14 @@
             <p class="mt-4 text-xs text-mist">Click a photo to open it. Photographs remain the property of their authors.</p>
             <div class="mt-5 grid grid-cols-2 gap-3 sm:grid-cols-3 lg:grid-cols-4" data-gallery>
                 @foreach ($photos as $photo)
-                    <button type="button" class="group block overflow-hidden bg-smoke text-left" data-gallery-item
+                    @php $photoLabel = Content::changeLabel($photo['added'] ?? null, $photo['updated'] ?? null); @endphp
+                    <button type="button" class="group relative block overflow-hidden bg-smoke text-left" data-gallery-item
                             data-photo-id="{{ pathinfo($photo['file'] ?? '', PATHINFO_FILENAME) }}"
                             data-full="{{ asset($photo['path']) }}"
                             data-caption="{{ trim(($photo['caption'] ?? '').' '.($photo['credit'] ?? '')) }}">
+                        @if ($photoLabel)
+                            <span class="absolute left-2 top-2 z-10 bg-accent px-1.5 py-0.5 text-[10px] font-semibold uppercase tracking-widest text-white">{{ $photoLabel }}</span>
+                        @endif
                         <img src="{{ asset($photo['path']) }}" alt="{{ $photo['caption'] ?? 'Photo by '.$item['name'] }}" loading="lazy"
                              class="aspect-[4/3] w-full object-cover transition duration-500 group-hover:scale-[1.03]">
                     </button>

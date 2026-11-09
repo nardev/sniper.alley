@@ -19,6 +19,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Full commit history without old file contents: change dates on photographer
+          # pages and photos come from git log, which only needs commits and trees.
+          fetch-depth: 0
+          filter: blob:none
 
       - uses: shivammathur/setup-php@v2
         with:

@@ -2,14 +2,19 @@
     use App\Content;
     $cover = Content::photographerCover($item);
     $dates = ($item['born'] ?? null) ? ($item['born'].' - '.($item['died'] ?? '')) : null;
+    $changeLabel = Content::changeLabel($item['added'] ?? null, $item['updated'] ?? null);
 @endphp
 <a href="{{ route('photographers/'.$item['slug']) }}"
    class="group block bg-white shadow-sm ring-1 ring-black/5 transition-shadow hover:shadow-lg"
    data-filter-name="{{ mb_strtolower($item['name'] ?? $item['slug']) }}"
    data-filter-text="{{ mb_strtolower(trim(($item['country'] ?? '').' '.($item['role'] ?? '').' '.implode(' ', (array) ($item['tags'] ?? [])))) }}"
    data-filter-memoriam="{{ ($item['died'] ?? null) ? '1' : '0' }}"
-   data-photo-count="{{ count($item['photos'] ?? []) }}">
-    <div class="aspect-[4/3] overflow-hidden bg-smoke">
+   data-photo-count="{{ count($item['photos'] ?? []) }}"
+   data-updated="{{ $item['updated'] ?? '' }}">
+    <div class="relative aspect-[4/3] overflow-hidden bg-smoke">
+        @if ($changeLabel)
+            <span class="absolute left-3 top-3 z-10 bg-accent px-2 py-0.5 text-[11px] font-semibold uppercase tracking-widest text-white">{{ $changeLabel }}</span>
+        @endif
         @if ($cover)
             <img src="{{ asset($cover) }}" alt="{{ $item['name'] ?? $item['slug'] }}" loading="lazy"
                  class="h-full w-full object-cover transition duration-500 group-hover:scale-[1.03]">
@@ -25,6 +30,14 @@
         @if ($item['blurb'] ?? false)
             <p class="mt-2 line-clamp-2 text-sm leading-relaxed text-ink/70">{{ $item['blurb'] }}</p>
         @endif
-        <p class="mt-3 text-xs text-mist">{{ count($item['photos'] ?? []) }} photos in gallery</p>
+        <p class="mt-3 text-xs text-mist">
+            {{ count($item['photos'] ?? []) }} photos in gallery
+            @if ($item['updated'] ?? null)
+                &middot; updated {{ Content::formatDate($item['updated']) }}
+            @endif
+            @if (($item['new_photos'] ?? 0) > 0 && $changeLabel !== 'New')
+                &middot; <span class="text-accent">{{ $item['new_photos'] }} new</span>
+            @endif
+        </p>
     </div>
 </a>

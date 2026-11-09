@@ -22,10 +22,14 @@ class Content
 {
     protected static array $cache = [];
 
+    /** Changes newer than this many days are marked as recent on cards and galleries. */
+    public const RECENT_DAYS = 30;
+
     /** @return array<string, array> keyed by slug, sorted by name */
     public static function photographers(): array
     {
         return static::$cache['photographers'] ??= collect(static::collection('photographers'))
+            ->map(fn (array $item): array => static::withChangeDates($item))
             ->sortBy(fn (array $item): string => mb_strtolower($item['name'] ?? $item['slug']))
             ->all();
     }
@@ -174,6 +178,137 @@ class Content
     public static function renderMarkdown(string $markdown): string
     {
         return Markdown::render($markdown);
+    }
+
+    /** True when the given YYYY-MM-DD date falls within the last RECENT_DAYS days. */
+    public static function isRecent(?string $date): bool
+    {
+        return $date !== null && strtotime($date) >= strtotime('-'.static::RECENT_DAYS.' days');
+    }
+
+    /** "6 Nov 2026" for a YYYY-MM-DD date, or null. */
+    public static function formatDate(?string $date): ?string
+    {
+        return $date ? date('j M Y', strtotime($date)) : null;
+    }
+
+    /**
+     * Short label for a change: "New" when the file first appeared recently,
+     * "Updated" when it changed recently, otherwise null.
+     */
+    public static function changeLabel(?string $added, ?string $updated): ?string
+    {
+        if (static::isRecent($added)) {
+            return 'New';
+        }
+
+        return static::isRecent($updated) ? 'Updated' : null;
+    }
+
+    /**
+     * Adds change dates taken from git history, so nothing has to be maintained by hand:
+     *   added    date the photographer page file first appeared
+     *   updated  latest change to the page file, the portrait, or any gallery photo
+     *   photos.*.added / photos.*.updated  the same for each gallery image file
+     *   new_photos  number of gallery photos added within RECENT_DAYS
+     * Dates are YYYY-MM-DD strings, or null when git history is unavailable.
+     */
+    protected static function withChangeDates(array $item): array
+    {
+        $dates = static::gitDates();
+        $slug = $item['slug'];
+        $page = "content/photographers/{$slug}.md";
+
+        $item['added'] = $dates['first'][$page] ?? null;
+        $latest = $dates['latest'][$page] ?? null;
+        $newPhotos = 0;
+
+        $photos = [];
+        foreach ((array) ($item['photos'] ?? []) as $photo) {
+            if (is_array($photo) && ! empty($photo['file'])) {
+                $file = "_media/photographers/{$slug}/{$photo['file']}";
+                $photo['added'] = $dates['first'][$file] ?? null;
+                $photo['updated'] = $dates['latest'][$file] ?? null;
+                $latest = static::later($latest, $photo['updated']);
+                $newPhotos += static::isRecent($photo['added']) ? 1 : 0;
+            }
+            $photos[] = $photo;
+        }
+        if (! empty($item['portrait'])) {
+            $latest = static::later($latest, $dates['latest']["_media/photographers/{$slug}/{$item['portrait']}"] ?? null);
+        }
+
+        $item['photos'] = $photos;
+        $item['updated'] = $latest;
+        $item['new_photos'] = $newPhotos;
+
+        return $item;
+    }
+
+    /** The later of two YYYY-MM-DD dates, ignoring nulls. */
+    protected static function later(?string $a, ?string $b): ?string
+    {
+        if ($a === null || $b === null) {
+            return $a ?? $b;
+        }
+
+        return $a >= $b ? $a : $b;
+    }
+
+    /**
+     * First and latest commit date (YYYY-MM-DD) for every file under content/ and _media/,
+     * read once per build from git history. Returns empty maps when git is missing, the
+     * directory is not a repository, or the clone is shallow (a shallow clone would make
+     * every file look like it changed in the latest commit).
+     *
+     * @return array{first: array<string, string>, latest: array<string, string>}
+     */
+    protected static function gitDates(): array
+    {
+        if (isset(static::$cache['git-dates'])) {
+            return static::$cache['git-dates'];
+        }
+
+        $empty = ['first' => [], 'latest' => []];
+        if (! function_exists('exec')) {
+            return static::$cache['git-dates'] = $empty;
+        }
+
+        $git = 'git -C '.escapeshellarg(Hyde::path());
+
+        $shallow = [];
+        exec("{$git} rev-parse --is-shallow-repository 2>/dev/null", $shallow, $status);
+        if ($status !== 0 || trim($shallow[0] ?? '') !== 'false') {
+            return static::$cache['git-dates'] = $empty;
+        }
+
+        // One pass over the history, newest commit first. Each commit prints a marker line
+        // with its date followed by the paths it touched. The first time a path is seen is
+        // its latest change; the last time is when it was added.
+        $lines = [];
+        exec("{$git} -c core.quotePath=false log --no-renames --format=%x01%cd --date=short --name-only -- content _media 2>/dev/null", $lines, $status);
+        if ($status !== 0) {
+            return static::$cache['git-dates'] = $empty;
+        }
+
+        $first = $latest = [];
+        $date = null;
+        foreach ($lines as $line) {
+            if ($line === '') {
+                continue;
+            }
+            if ($line[0] === "\x01") {
+                $date = substr($line, 1);
+                continue;
+            }
+            if ($date === null) {
+                continue;
+            }
+            $latest[$line] ??= $date;
+            $first[$line] = $date;
+        }
+
+        return static::$cache['git-dates'] = ['first' => $first, 'latest' => $latest];
     }
 
     /** @return array<string, array> keyed by slug */
