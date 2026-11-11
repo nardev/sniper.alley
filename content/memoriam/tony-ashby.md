@@ -15,14 +15,14 @@ The family was housed first at the migrant camp at Point Walter before settling 
 
 Photography, though, was the real pull. In the 1960s he began covering weddings, balls and 21st birthday parties for Kevron Photographics on William Street in central Perth, studying at night school to sharpen his craft. In 1966 he married Lyn Bain; their daughter Nicole arrived in 1968, their son Dean in 1970, and their younger daughter Louise in 1974. The same year Dean was born, Tony joined The West Australian, aged twenty-seven, and was soon a fixture of its pictorial departmentm a posting that would hold him for the next thirty-two years.
 
-# Into the wars
+## Into the wars
 
 Tony's first assignment as a war correspondent took him to Beirut in 1982, at the height of Lebanon's civil war, a conflict he would return to cover on roughly ten occasions over fifteen years, at a time when Western journalists were routinely being abducted and held hostage. He came close himself: in Beirut he was once nearly kidnapped by armed extremists. "I had to do a lot of talking," he said afterwards, "but they eventually let me go." It was the beginning of a pattern that would define the next two decades of his life — heading toward the places most people were trying to leave, often travelling and funding the trips himself, filing both the pictures and, when no one else was there to do it, the words as well.  
 
 ### "Tony carried three weapons to war: cameras to take world-class images; a short-wave radio to hear BBC reporting on troubled places, and his warm personality, the greatest Ashby asset."
 _— Norman Aisbett, West Australian journalist and frequent reporting partner_  
 
-# Sarajevo
+## Sarajevo
 ![Tony Ashby](/media/memoriam/tony-ashby/TONY_ASHBY_GRAVE.jpg)
 _Temporary graveyard at the Dobrinja neighbourhood, Sarajevo, photo taken by Tony Ashby'_
 
@@ -46,17 +46,16 @@ _— Paul Murray, former editor, The West Australian_
 
 Tony was once asked, directly, what kept drawing him back to danger. His answer was unadorned: "I made it my mission to document the horrors happening around me so that people everywhere will never forget them." He liked to invoke the American photojournalist Carl Mydans in the same breath: "I am making an historic record of our times." Those who worked alongside him in Sarajevo and the wider Balkans say he never treated that record as a trophy to be claimed. "I don't think he did it for the glory," Murray said. "Of course he appreciated the recognition, it acknowledged his talent and willingness to put himself on the edge but that's not what motivated him. He cared about the suffering of the people he photographed. He thought their stories deserved to be told." Those who knew him describe a man who was, in Murray's word, fearless, "even though he admitted he was sometimes afraid, he kept going back."
 
-# Beyond the frontline
+## Beyond the frontline
 
 Sarajevo was never the whole of it. Over the following years Tony's assignments carried him through Northern Ireland, Rwanda during the genocide, Zimbabwe, Mozambique, Bangladesh, the Occupied Territories during the Intifada, Sri Lanka's civil war, Cambodia under the shadow of the Khmer Rouge, Afghanistan under Taliban siege, Kosovo, Indonesia during the fall of President Suharto, and the fight for independence in East Timor. In 1991 he travelled to Chernobyl for the fifth anniversary of the nuclear disaster. In Rwanda, in 1994, his photograph of Australian Army Corporal Trevor Brown shaking the hand of a child at the Kibeho camp near Butare earned him a second Walkley Award. His lens turned just as readily to wildlife and ordinary life, the Virunga mountain gorillas, the Dalai Lama, Sir Paul McCartney, popes, presidents and champion athletes among them, proof, his colleagues say, of a curiosity that went well beyond conflict for its own sake.
 
 ![Tony Ashby](/media/memoriam/tony-ashby/TONY_ASHBY_PROFILE.jpeg)
-_Tony Ashby with his trophy and winning photographs at the WA Press Photographer of the Year awards._  
-_Photo by Mogens Johansen_
+_Tony Ashby with his trophy and winning photographs at the WA Press Photographer of the Year awards. Photo by Mogens Johansen_
 
 In the newsroom he was known by the nickname "Seagull," for a reputation as a good-humoured, slightly cheeky presence who was, by his colleagues' account, impossible not to like. "Tony was a kind guy, affable... always quick with a joke," Murray recalled, "he was great fun to be around — but there was always another side to him." That other side showed itself in the field: in his willingness to volunteer first to hang out of a helicopter door for a better angle, and in a compassion that, on at least one occasion, overrode the instincts of the job entirely. Visiting a hospital in Kabul, he learned that a young boy standing alone and distraught had just lost his sister in a rocket attack. Tony crossed the ward and held him. There was no photograph. It was, as one obituary later put it, a chance to substitute comfort for camera.
 
-# Family behind the lens
+## Family behind the lens
 
 At home, the camera was never far from his hand either. His daughter Nicole remembers the smell of his pipe tobacco and his darkroom, and being allowed in to watch him develop prints as a child. Every milestone of her childhood, first days of school, broken arms, birthday parties, dancing concerts, sports carnivals — exists today because he photographed it.  
 
@@ -70,7 +69,7 @@ _— Nicole Ashby, daughter_
 
 Tony's marriage to Lyn Bain ended in divorce in 1984, the same year he bought a house on the hill in Sorrento. A year after retiring from The West Australian in 2002, he met Judi Griffin at a party; the relationship blossomed over shared interests, including travel, on the condition, his own, that war zones were now off-limits. They eloped and married in 2018, celebrating afterwards with a blessing at a local church alongside his brother Edward's family, visiting from England. Tony continued freelancing for Agence France-Presse and other outlets, increasingly turning his camera toward gentler subjects: cricket, the Hopman Cup, and above all his five grandchildren, Jake, Zac, Isabella, Nick and Vanessa and in time two great-grandchildren, Eden and Remi, along with stepdaughters Claire and Corrin.
 
-# A quiet reckoning
+## A quiet reckoning
 
 In 1994, the Library of Western Australia invited Tony to mount an exhibition of his photographs, which went on to tour the state. "Your still images captured from around the world," the library told him, "have more impact on us than the moving electronic images on the evening news." It was as close as he came to blowing his own trumpet. Those who worked with him say he remained humble about his two Walkley Awards and the other finalist nods that followed, more inclined to talk about the people in his pictures than about himself.
 
