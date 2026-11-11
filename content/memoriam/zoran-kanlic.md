@@ -4,7 +4,7 @@ born: 1954
 died: 2020
 banner: ZORAN_KANLIC_BANNER.JPG
 cover: ZORAN_KANLIC_COVER.jpg
-excerpt: "While others photographed the ruins and the dead, Zoran Kanlić went looking for the cafés that somehow stayed open — and found, in besieged Sarajevo's stolen moments of ordinary life, one of the most honest photographic records the war produced."
+excerpt: "While others photographed the ruins and the dead, Zoran Kanlić went looking for the cafés that somehow stayed open, and found in besieged Sarajevo's stolen moments of ordinary life, one of the most honest photographic records the war produced."
 ---
 Zoran Kanlić was a Sarajevo photographer who devoted his entire life to the camera and who, when the siege of his city began, made a deliberate choice that set his wartime work apart from almost everyone else's. Rather than chase the destruction and the casualties that filled the world's front pages, he went looking for the handful of cafés and clubs that somehow kept operating through the shelling, photographing the couples who still danced and the friends who still shared a cigarette and a coffee amid the ruins. He died in 2020 after a short illness, leaving behind an archive that remains one of the most distinctive visual testimonies of life and the loneliness beneath it, in besieged Sarajevo.
 
