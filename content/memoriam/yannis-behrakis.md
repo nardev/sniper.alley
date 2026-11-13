@@ -21,16 +21,14 @@ Bosnian children fill up bottles with water from a pond after a rainstorm in Sar
 
 ![Yannis Behrakis](/media/memoriam/yannis-behrakis/07-YANNIS.jpg)
 
-Bosnian Muslim men pray during a burial ceremony for four war victims in Sarajevo on November 30, 1993.
-
-Yannis Behrakis | Reuters
+Bosnian Muslim men pray during a burial ceremony for four war victims in Sarajevo on November 30, 1993. Yannis Behrakis | Reuters
 
 One of his most iconic photographs from the wars in former Yugoslavia is the one that shows an ethnic Albanian man placing the dead body of two-year-old Mozzlum Sylmetaj into a coffin,
 next to the coffins of three other relatives killed by Yugoslav army troops as they were crossing into Kosovo from Albania, October 23, 1998.
 
 ![Yannis Behrakis](/media/memoriam/yannis-behrakis/04-YANNIS.jpg)
 
-“I was in a high position in the room and tried a slow speed/zoom effect, and it worked! The picture was very strong and the body of the boy almost floating in the air. It almost looked like his spirit was leaving his body for the heavens.” Yannis Behrakis
+### “I was in a high position in the room and tried a slow speed/zoom effect, and it worked! The picture was very strong and the body of the boy almost floating in the air. It almost looked like his spirit was leaving his body for the heavens.” Yannis Behrakis
 
 In 2000, Behrakis survived an ambush in Sierra Leone where a very dear friend American Reuters reporter Kurt Schork and Spanish cameraman Miguel Gil Moreno de Mora of APT were killed. He and South African cameraman Mark Chisholm managed to get away from the attackers. Both survived the attack by crawling into the undergrowth beside the road and hiding in the jungle for hours until the gunmen disappeared.
 
@@ -49,7 +47,7 @@ Behrakis covered the Israeli-Palestinian conflict for many years and, moving to 
 
 “This picture proves that there are superheroes after all. He doesn’t wear a red cape, but he has a black plastic cape made out of garbage bags. For me this represents the universal father and the unconditional love of father to daughter.” Yannis Behrakis on one of his Pulitzer winning photos.
 
-“I would love to be this father; I think every child would love to have a father like this.” Yannis Behrakis
+### “I would love to be this father; I think every child would love to have a father like this.” Yannis Behrakis
 
 “I have been covering refugees and migrants for over 25 years, but this year has been different: migrants are arriving in my homeland”. Along with his moving photographs of refugees, his photos of the crisis are just as affecting, capturing the hardships of his fellow countrymen in a time of bank closures, capital controls, demonstrations and riots. For Yannis it is clear that photography is far more than just a job, passionate about the medium itself and its power to ‘leave people speechless’. “It can send a message to the audience, make people cry or laugh or both.
 It can make people feel guilty - or give money for a good cause. And it can make people think twice before pulling the trigger.” Yannis said.
@@ -69,22 +67,24 @@ He visited Kurt Schork’s grave and played the same music you’re listening ri
 
 ![Yannis Behrakis](/media/memoriam/yannis-behrakis/13-YANNIS.jpg)
 
-“It was never about ego, but about furthering his mission to explain and to prevent anyone being able to ignore what his lens had captured.” Peter Bale, Reuters correspondent and editor.
+### “It was never about ego but about furthering his mission to explain and to prevent anyone being able to ignore what his lens had captured.”  
+_Peter Bale, Reuters correspondent and editor._
 
-“The best photojournalist is the invisible one!“ Yannis Behrakis
+![Yannis Behrakis](/media/memoriam/yannis-behrakis/08-YANNIS.jpg)
+
+### “The best photojournalist is the invisible one!“  
+_Yannis Behrakis_  
 
 
-
-YANNIS BEHRAKIS was born 29 August 1960 in Athens, Greece.
+YANNIS BEHRAKIS was born 29 August 1960 in Athens, Greece.  
 He passed away 2 March 2019.
 
 
 
-Please watch TEDxAthens talk Yannis did in 2013: 
+_Please watch TEDxAthens talk Yannis did in 2013:_  
 A Sierra Leone story: Yannis Behrakis https://www.youtube.com/watch?v=qMVSgq2nZP4
 
 
 
 __  
-
 Cover photo by Enric Martí

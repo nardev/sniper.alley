@@ -107,4 +107,4 @@ As a war reporter he worked for the news agency Associated Press in the early 90
 Besides his reporter work, Thielker trained photojournalists in Eastern Europe, Africa, Central America and Asia: teaching in Goethe Institutes in Nigeria and Mexico, else in Prague, Czech Republic, and classes at the Ateneo University in Manila, Phillipines.
 Returning to his homebase Berlin in 2010, he follows his passion, street photography, and works in editorial or corporate fields.
 He founded and curates the Berlin photo edition ‚berlin daily’, 
-Thielker's work is exhibited internationally. He died of cancer on 3 October 2020. For more of his work please visit his website: https://karstenthielker.photoshelter.com/about We have made 'In Memoriam" page for our dear Karsten, please have a look: http://sniperalley.photo/karsten-thielker-en/
+Thielker's work is exhibited internationally. He died of cancer on 3 October 2020. For more of his work please visit his website: https://karstenthielker.photoshelter.com/about 

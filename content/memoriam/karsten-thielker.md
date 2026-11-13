@@ -30,7 +30,7 @@ _Photo © Karsten Thielker_
 
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_12.jpg)
 
-# Karsten Thielker diary | October 1993 | Sarajevo, Bosnia & Herzegovina  
+### Karsten Thielker diary | October 1993 | Sarajevo, Bosnia & Herzegovina  
 
 “Sarajevo again!
 
@@ -46,7 +46,7 @@ The photographer returns to the place of his pictures. Perpetrator, voyeur, prov
 
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_03.jpg)
 
-# Karsten Thielker diary | October 1993 | Sarajevo, Bosnia & Herzegovina  
+### Karsten Thielker diary | October 1993 | Sarajevo, Bosnia & Herzegovina  
 
 “Almost 18 months of photos and words from the besieged city. Burning buildings, dead civilians, dead soldiers, bombed lines of people waiting for their daily bread, bodies drowning in their blood. Extremes, sensations, things never seen. Months later only duplicates of the first scenery of horror are being produced. Sarajevo repeats itself. No development, no victory, no defeat, no fall, no liberation. Only suffering in unlimited variations, yet ascertainable in statistics. And me, I select, I turn the pain into something newsworthy. Provider of the people having breakfast, of waiting taxi cabdrivers, subway riders, park sitters, intellectuals, bus drivers, bar patrons, money earners, jobless guys.
 
@@ -58,13 +58,13 @@ Sometimes you seem to leave the channel, you think you lose control of your devi
 
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_11.jpg)
 
-# Karsten Thielker diary | October 1993 | Sarajevo, Bosnia & Herzegovina  
+### Karsten Thielker diary | October 1993 | Sarajevo, Bosnia & Herzegovina  
 
 “Impossible to write in words, to illustrate with photos. So many truths, these extremes. Kosevo Hospital. The shooting started at 4 am. Now I’m sitting again, as a year before, at the entrance of the Emergency Room, lurking my victims. Nothing has changed, only the entrance door switched. My victims: the same. Old women, small children, bleeding soldiers. At breakfast, I enjoyed marmalade and honey sandwiches. Here’s the bloody dessert. People with half faces, missing limbs, disfigured look, spilling guts - blood, blood, blood. Helpless moaning of severely injured - does this fit the format? That’s action, as Richy (AP - stringer in Sarajevo) says, with the negatives of wounded people on the light table. Which only means, some shots document more drama. And even those fail my acceptance - if you image how many photos were made in front of this hospital in the past 18 months. How often we heard the honking cars, signal to get ready for our next shot, meat inspection for our clients, the quest for the new, the other, unheard of - selection of horror - Just like in a commercial. “In TV, you’re sitting in the first row”, they say. But who is really sitting in the first row… not those in the easy chairs, on the sofa, in bed, the boring, lonely, the wisemen - they are only being shown what we, who are really sitting in the first row, are producing.”
 
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_04-1.jpg)
 
-# Karsten Thielker diary | 26 October 1993 | Sarajevo, Bosnia & Herzegovina  
+### Karsten Thielker diary | 26 October 1993 | Sarajevo, Bosnia & Herzegovina  
 
 “War makes you tired - but obviously only the journalists. The Balkan peoples never tire of shooting. But I’m tired of photographing, of lamenting. War palaver. Every day a new story, even though it’s only repetition. Don’t know where to go with my energy, my courage, my envy of photos I never lived. Instead: everyday agency life, similarity of crises. War for agency photographers means: 5 - 10 % taking pictures, 50 - 60 % trying to transmit pictures, rest of the time: eat, drink and sleep. What a reduction on the existential, taking on work as something existential. How fast you’re lost in your surroundings, being a victim of your surroundings, not being strong enough. Just because three shabby Bosnian soldiers ordered my curfew? At gunpoint, of course. The fear of darkness, of grenades, of drunken soldiers, irregular patrolmen - fear for life. That miserable life. Who made me have fear, secure myself, obey, function? Emotionless mass of human, taking optical devices for a walk. Voyeur, neutral visual instance, technically functional for news.”
 
@@ -77,7 +77,7 @@ After his years with the AP, which also included working on the photo desk in Lo
 Karsten’s wife Janna L. Ressel, July 2021  
 _Photo by Sandra Engelke_  
 
-# “He called the expectations of the mass media “pervert”. Feed them some suffering children and they’ll be happy, and the day after, everything is forgotten and the world’s attention moves on to the next crisis. This was one of the reasons he quit the job. When Karsten won the Pulitzer for the AP group’s work in the Rwanda genocide, in 1995, he despised the fancy setting of the Pulitzer ceremony in New York, with champagne reception and smiling faces. Knowing that the next day, the journalists were to return to all the different bloody war theaters, anywhere on earth, trying to stay alive shooting pictures. Of course, he was proud of the Pulitzer, too. But he never showed off with his work. The scenes he saw in Bosnia, in Somalia, Chechnya, Rwanda, did haunt him for years. It helped him to process those memories in photo exhibitions. And no matter how he pretended distance to his jobs: it is obvious from just looking at his pictures that Karsten had a deeply empathic relationship to fellow humans. And he absolutely hated violence and wars. For him, ‘Sarajevo Birth’ is one of his most important series. He took those pictures maybe as a counter-spell against the death around him. For all I know, Karsten was a wise man.” Janna L. Ressel
+### “He called the expectations of the mass media “pervert”. Feed them some suffering children and they’ll be happy, and the day after, everything is forgotten and the world’s attention moves on to the next crisis. This was one of the reasons he quit the job. When Karsten won the Pulitzer for the AP group’s work in the Rwanda genocide, in 1995, he despised the fancy setting of the Pulitzer ceremony in New York, with champagne reception and smiling faces. Knowing that the next day, the journalists were to return to all the different bloody war theaters, anywhere on earth, trying to stay alive shooting pictures. Of course, he was proud of the Pulitzer, too. But he never showed off with his work. The scenes he saw in Bosnia, in Somalia, Chechnya, Rwanda, did haunt him for years. It helped him to process those memories in photo exhibitions. And no matter how he pretended distance to his jobs: it is obvious from just looking at his pictures that Karsten had a deeply empathic relationship to fellow humans. And he absolutely hated violence and wars. For him, ‘Sarajevo Birth’ is one of his most important series. He took those pictures maybe as a counter-spell against the death around him. For all I know, Karsten was a wise man.” Janna L. Ressel
 
 ![Karsten Thielker](/media/memoriam/karsten-thielker/KARSTEN-SLIDE_13.jpg)
 
