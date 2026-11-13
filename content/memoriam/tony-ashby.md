@@ -24,14 +24,14 @@ _— Norman Aisbett, West Australian journalist and frequent reporting partner_
 
 ## Sarajevo
 ![Tony Ashby](/media/memoriam/tony-ashby/TONY_ASHBY_GRAVE.jpg)
-_Temporary graveyard at Dobrinja neighbourhood in Sarajevo, photo by Tony Ashby'_
+_Temporary graveyard at Dobrinja neighbourhood in Sarajevo, photo by Tony Ashby_
 
 It was in the former Yugoslavia, through the 1990s, that Tony's work found its deepest and most lasting register. He travelled to Croatia, where twenty-six journalists and photographers were killed in the first six months of the war alone, and he himself came under fire from helicopters on assignment there, his only cover a shallow ditch. But it was the siege of Sarajevo and the wider Bosnian countryside that pulled him back again and again, nine times in total, according to colleagues who tracked his movements through the Balkans, to document a city under constant shelling and sniper fire, cut off from food, power and water, where ordinary errands had become acts of courage.
 
 In 1993, Tony won his first Walkley Award, Australia's most prestigious journalism prize, for the country's best news photograph: an image, taken in Sarajevo, of residents digging fresh graves by hand in frozen, snow-streaked ground, crude wooden markers already pushed into the earth around them, the ruined Oslobođenje newspaper building looming in the smoke-hazed background. Within his own family, this was remembered simply as his most acknowledged picture, a single frame that carried, more than any other, the weight of what he had witnessed.
 
 ![Tony Ashby](/media/memoriam/tony-ashby/TONY_ASHBY_AWARD.jpg)
-_Tony Ashby's 1993 Walkley Award-winning photograph of a makeshift gravesite
+_Tony Ashby's 1993 Walkley Award-winning photograph of a makeshift gravesite_
 
 Former West Australian editor Paul Murray, who ran the paper from 1990 to 2000 and who sent Tony to the region, later singled out a different Sarajevo photograph as the one that stayed with him longest: an elderly woman, crouched low, hurrying across one of the city's exposed bridges directly into the line of sniper fire.
 
@@ -39,7 +39,7 @@ Former West Australian editor Paul Murray, who ran the paper from 1990 to 2000 a
 _— Paul Murray, former editor, The West Australian_
 
 ![Tony Ashby](/media/memoriam/tony-ashby/TONY_ASHBY_WOMAN.jpg)
-_Dobrinja neighbourhood in Sarajevo, photo taken by Tony Ashby'_
+_Dobrinja neighbourhood in Sarajevo, photo taken by Tony Ashby_
 
 ### "What motivated him was the civilians caught up in war, that was the constant theme in his work. He wasn't attracted to the battle itself, he was drawn to how it affected people living through it. That's what made his work so special, it came from something innate in him."  
 _— Paul Murray, former editor, The West Australian_

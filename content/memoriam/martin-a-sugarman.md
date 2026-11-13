@@ -23,7 +23,7 @@ Over the following months he made repeated journeys into the war zone, working l
 Asked how he could walk into shelling and sniper fire that kept professional correspondents pinned down, Sugarman gave an answer that startled interviewers with its plainness: "To tell you the truth, I didn't feel in danger. Maybe I'm stupid, or blind... I don't know. I just felt the situation was extreme, but I never felt that my life was in danger."
 
 ![Martin A. Sugarman](/media/memoriam/martin-a-sugarman/sniper_alley_martin_a_sugarman_genocide.jpeg)  
-"I don't think the American public has a full understanding of the conflict. This is genocide." — Los Angeles Times, "War: Photographer Under Fire in Balkans," Oct. 1, 1992  
+## "I don't think the American public has a full understanding of the conflict. This is genocide." — Los Angeles Times, "War: Photographer Under Fire in Balkans," Oct. 1, 1992  
 
 ![Martin A. Sugarman](/media/memoriam/martin-a-sugarman/sniper_alley_martin_a_sugarman_dead.jpeg)  
 _Murdered civilian during the Siege of Sarajevo._  
