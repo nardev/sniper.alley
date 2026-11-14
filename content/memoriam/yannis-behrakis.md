@@ -77,7 +77,7 @@ _Yannis Behrakis_
 
 
 YANNIS BEHRAKIS was born 29 August 1960 in Athens, Greece.  
-He passed away 2 March 2019.
+He passed away on 2 March 2019.
 
 
 
