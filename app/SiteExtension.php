@@ -31,8 +31,11 @@ class SiteExtension extends HydeExtension
         }
 
         foreach (Content::memoriam() as $slug => $item) {
+            // Page title carries the years, e.g. "Abbas Attar (1944-2018)", so link
+            // previews and search results show them.
+            $years = trim(($item['born'] ?? '').'-'.($item['died'] ?? ''), '-');
             $collection->addPage(InMemoryPage::make("in-memoriam/{$slug}", [
-                'title' => $item['name'] ?? $slug,
+                'title' => ($item['name'] ?? $slug).($years !== '' ? " ({$years})" : ''),
                 'item' => $item,
                 'navigation' => ['hidden' => true],
             ], view: 'pages.memorial'));
