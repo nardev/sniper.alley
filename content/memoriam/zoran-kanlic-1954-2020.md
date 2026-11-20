@@ -25,6 +25,10 @@ _— Zoran Lešić, photographer and curator_
 ![Zoran Kanlic](/media/memoriam/zoran-kanlic-1954-2020/ZORAN_KANLIC_FASHION.jpg)
 _Fashion Show during the Siege of Sarajevo, photo by Zoran Kanlic_
 
+### "The most striking thing in all the photographs presented at the exhibition are the eyes... The eyes of all the portrayed individuals are sheer emptiness, black spaces devoid of shine, filled with sorrow. All the hopelessness of war, the absence of a future, is best described by the very title of the exhibition, 'Escape from Reality' — the desire to escape from the cruel reality that surrounded them all ith these seemingly non-war photographs, he actually provided the truest presentation of war and the suffering of civilians in wartime Sarajevo."_— Zoran Lešić_
+
+![Zoran Kanlic](/media/memoriam/zoran-kanlic-1954-2020/ZORAN_KANLIC_GALLERY.jpeg)
+
 With no electricity, no running water and no commercial darkroom supplies, Kanlić developed and printed his wartime negatives by hand in a makeshift laboratory set up inside his own apartment. His son, Bojan Kanlić, later recalled watching the process as a child, fascinated by images materializing out of the dark in the middle of a war that had taken away almost everything else.
 
 ![Zoran Kanlic](/media/memoriam/zoran-kanlic-1954-2020/ZORAN_KANLIC_OSMJEH.jpg)
@@ -47,6 +51,9 @@ _Laibach performed two concerts at the National Theatre in Sarajevo_
 _on November 20 and 21, 1995, photo by Zoran Kanlić_
 
 A member of ULUPUBiH, the Association of Fine Arts Applied Artists and Designers of Bosnia and Herzegovina, Kanlić mounted numerous solo exhibitions of his wartime work in Sarajevo and across Europe, with his images also screened in the Netherlands as part of the Eastern Neighbor Film Festival. The writer and poet Faruk Šehić, who wrote about Kanlić's archive, captured what made his wartime presence behind the camera so singular.
+
+![Zoran Kanlic](/media/memoriam/zoran-kanlic-1954-2020/ZORAN_KANLIC_WOMAN.jpg)
+_Woman runnign across Sniper Alley in Sarajevo, photo by Zoran Kanlić_
 
 ## "I try to imagine what it was like to be a photographer in besieged Sarajevo. Walking around with a camera, recording moments that stubbornly keep disappearing. And again I see the image of Zoran Kanlić in his army fatigues, crouching invisibly by a tree, waiting to catch the smile of a woman running across a sniper crossing. Maybe that is exactly how a photographer in besieged Sarajevo should look, from my imagination. Calm and unnoticed amid the complete horror of war."
 _— Faruk Šehić, writer_
