@@ -23,7 +23,7 @@ _Sniper Alley in Sarajevo, photo by Zoran Kanlić_
 _— Zoran Lešić, photographer and curator_
 
 ![Zoran Kanlic](/media/memoriam/zoran-kanlic-1954-2020/ZORAN_KANLIC_FASHION.jpg)
-_Fashion Show during the Siege of Sarajevo, photo by Zoran Kanlic_
+_Fashion Show during the Siege of Sarajevo, photo by Zoran Kanlić_
 
 ### "The most striking thing in all the photographs presented at the exhibition are the eyes. The eyes of all the portrayed individuals are sheer emptiness, black spaces devoid of shine, filled with sorrow. All the hopelessness of war, the absence of a future, is best described by the very title of the exhibition, 'Escape from Reality' — the desire to escape from the cruel reality that surrounded them all ith these seemingly non-war photographs, he actually provided the truest presentation of war and the suffering of civilians in wartime Sarajevo."_— Zoran Lešić, photographer and curator_
 
