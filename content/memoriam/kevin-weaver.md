@@ -13,7 +13,7 @@ Kevin Weaver, was born in Scotland but moved to England aged ten. On completing 
 
 That path took him first through London’s own hidden wars, drug abuse, prostitution, homelessness, gang violence, IRA bombings, mass demonstrations before, as he put it, “the natural progression is to cover revolution and war abroad.” He had, he admitted candidly, “a similar cavalier disturbing attitude to relationships with women” and “seem to have a death wish and care little for my own safety.” In June 1992, aged twenty-eight, he arrived alone in a city under siege.
 
-![Kevin Weaver](/media/memoriam/kevin-weaver/KEVIN_WEAVER_SARAJEVO_KIDS.jpg)
+![Kevin Weaver](/media/memoriam/kevin-weaver/KEVIN_WEAVER_SARAJEVO_CHILDREN.jpg)
 _Children during the Siege of Sarajevo, photo by Kevin Weaver_
 
 ### “I am a young 28 year-old freelance photojournalist trying to make it,” he wrote, “and have no flak jacket, no car, no expense account, no fixer, translator or team behind me. No one to phone if it all goes wrong. I am alone.”
