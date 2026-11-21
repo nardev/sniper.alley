@@ -45,7 +45,7 @@ _— Kevin Weaver, Facebook, 26 April 2022_
 
 Like many of the journalists wounded in Sarajevo, Weaver went back. He returned repeatedly through the remainder of the war and its long aftermath, covering the UN’s International Criminal Tribunal for the former Yugoslavia and the grim, meticulous work of exhuming mass graves and identifying the dead through DNA testing. A year after he was shot, he deliberately sought out and photographed the exact spot on the airport road where the ambush had happened, by then a burned-out, bullet-pocked house on which someone had scrawled, in black capitals: “WELCOME TO SARAJEVO.” He called it, in his own dark humour, “Bosnia’s black beautiful humour. An epitaph to mine and Jean’s folly, and that of many more.”
 
-![Kevin Weaver](/media/memoriam/kevin-weaver/KEVIN_WEAVER_WELCOME_TO_SARAJEVO,jpg)
+![Kevin Weaver](/media/memoriam/kevin-weaver/KEVIN_WEAVER_WELCOME_TO_SARAJEVO.jpg)
 _Welcome to Sarajevo, photo by Kevin Weaver_
 
 Nineteen journalists were killed covering the siege before the Dayton Peace Accords were signed in December 1995. Weaver was not among them, but he carried the siege with him for the rest of his life in ways both visible and private, in his photographs, in the bullet fragment he lived with, and, friends say, in a restlessness that never fully settled.
@@ -64,7 +64,7 @@ But the war never left his work. Long after he put down his camera, Weaver kept 
 
 ![Kevin Weaver](/media/memoriam/kevin-weaver/KEVIN_WEAVER_PAINTING.jpg)
 
-Nina Brulic is a ballet dancer photographed at age of 18 dancing inside a war-damaged building in Sarajevo in 1993 during the war and KEvin's photograph is titled "Dancing In Ruins".
+Nina Brulic is a ballet dancer photographed at age of 18 dancing inside a war-damaged building in Sarajevo in 1993 during the war. At the time Kevin's photograph was titled "Dancing In Ruins".
 
 ![Kevin Weaver](/media/memoriam/kevin-weaver/KEVIN_WEAVER_NINA.jpg)
 
