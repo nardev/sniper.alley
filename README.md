@@ -123,6 +123,8 @@ More text. Inline photos are ordinary Markdown images pointing into
 
 Also add `memoriam: jane-doe` to the photographer file so the profile links back to the tribute.
 
+If that photographer has episodes in Stories Behind the Photos, the tribute page shows them under the text, the same way the gallery page does. Nothing extra is needed in the memorial file.
+
 ## Posting to Our Work
 
 Create `_posts/my-post.md`:

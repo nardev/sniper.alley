@@ -5,6 +5,9 @@
     $banner = Content::image('memoriam', $slug, $item['banner'] ?? null);
     $cover = Content::image('memoriam', $slug, $item['cover'] ?? null);
     $photographer = Content::photographer($item['photographer'] ?? null);
+    // Story videos credited to the linked photographer, shown below the text the
+    // same way the gallery page shows them.
+    $stories = $photographer ? Content::storiesBy($photographer['slug']) : [];
 @endphp
 @section('main')
     <section class="relative overflow-hidden bg-night text-white">
@@ -43,6 +46,17 @@
         <article class="mx-auto max-w-3xl px-4 py-14 sm:px-6">
             <div class="prose-site">{!! Content::renderMarkdown($item['body']) !!}</div>
         </article>
+    @endif
+
+    @if (count($stories))
+        <section class="mx-auto max-w-7xl px-4 py-12 sm:px-6">
+            <p class="kicker">Related stories</p>
+            <div class="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
+                @foreach ($stories as $story)
+                    @include('components.story-card', ['item' => $story])
+                @endforeach
+            </div>
+        </section>
     @endif
 
     @include('components.cta-band', [
